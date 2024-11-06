@@ -27,3 +27,38 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 11. **GEOINT (Geopolitical Intelligence)**: Εστιάζει σε πληροφορίες που αφορούν διεθνείς σχέσεις, συγκρούσεις, και διπλωματικές κινήσεις. Οι πηγές περιλαμβάνουν ειδήσεις για συγκρούσεις, στρατιωτικές εντάσεις, διεθνείς συμφωνίες, και συμμαχίες.
 
 Το OSINT συνδυάζει τα παραπάνω είδη για να παρέχει ολοκληρωμένες και ακριβείς πληροφορίες που ενισχύουν την κατανόηση της κατάστασης και τη λήψη αποφάσεων. Χρησιμοποιείται εκτενώς σε τομείς όπως η εθνική ασφάλεια, η καταπολέμηση του εγκλήματος, η επιχειρησιακή νοημοσύνη και η στρατηγική ανάλυση. Η ανοιχτή φύση των δεδομένων του OSINT το καθιστά έναν σημαντικό πόρο για την κατανόηση, την πρόληψη και την αντίδραση σε πιθανούς κινδύνους και απειλές.
+
+<details>
+  <summary>Κοινωνικά Δίκτυα</summary>
+
+1. Ameba: [Ameba](https://ameba.jp)
+2. Badoo: [Badoo](https://badoo.com)
+3. Behance: [Behance](https://www.behance.net)
+4. Douban: [Douban](https://www.douban.com)
+5. Facebook: [Facebook](https://www.facebook.com)
+6. Flickr: [Flickr](https://www.flickr.com)
+7. Gab: [Gab](https://gab.com)
+8. Instagram: [Instagram](https://www.instagram.com)
+9. Kakaotalk: [Kakaotalk](https://www.kakao.com/talk)
+10. LinkedIn: [LinkedIn](https://www.linkedin.com)
+11. Mastodon: [Mastodon](https://mastodon.social)
+12. MeWe: [MeWe](https://mewe.com)
+13. Mix: [Mix](https://mix.com)
+14. Myspace: [Myspace](https://myspace.com)
+15. Nextdoor: [Nextdoor](https://nextdoor.com)
+16. Pinterest: [Pinterest](https://www.pinterest.com)
+17. Quora: [Quora](https://www.quora.com)
+18. Reddit: [Reddit](https://www.reddit.com)
+19. Signal: [Signal](https://signal.org)
+20. Snapchat: [Snapchat](https://www.snapchat.com)
+21. TikTok: [TikTok](https://www.tiktok.com)
+22. Tumblr: [Tumblr](https://www.tumblr.com)
+23. Twitter: [Twitter](https://www.twitter.com)
+24. VKontakte (VK): [VKontakte](https://vk.com)
+25. WeChat: [WeChat](https://www.wechat.com)
+26. WhatsApp: [WhatsApp](https://www.whatsapp.com)
+27. Xing: [Xing](https://www.xing.com)
+28. YouTube: [YouTube](https://www.youtube.com)
+29. Zomato: [Zomato](https://www.zomato.com)
+
+</details>
