@@ -140,8 +140,6 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 ---
 
----
-
 <details>
   <summary><span style="color:yellow">Ελληνικά Κοινωνικά Δίκτυα</span></summary>
 
