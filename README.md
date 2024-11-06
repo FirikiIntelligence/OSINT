@@ -30,8 +30,9 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 Ορίστε μια εκτεταμένη λίστα με 100 κοινωνικά δίκτυα. Ο τίτλος έχει χρώμα, και κάθε στοιχείο στη λίστα περιλαμβάνει το όνομα του δικτύου με σύνδεσμο, έτοιμο για ενσωμάτωση στο GitHub Markdown.
 
+
 <details>
-  <summary><span style="color:yellow">Κοινωνικά Δίκτυα</span></summary>
+  <summary><span style="color:yellow">#Κοινωνικά Δίκτυα</span></summary>
 
 1. Ameba: [Ameba](https://ameba.jp)
 2. Badoo: [Badoo](https://badoo.com)
