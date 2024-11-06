@@ -40,17 +40,17 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 2.      | Badoo (Ελλάδα)  | https://badoo.com/el/                          |
 | 3.      | Badoo | https://badoo.com                              |
 | 4.      | Band   | https://band.us                               |
-| 5.      | Behance] | https://www.behance.net                      |
-| 6.      | Buzznet]  | https://www.buzznet.com                        |
-| 7.      | Caffeine] | https://www.caffeine.tv                       |
-| 8.      | Clubhouse] | https://www.joinclubhouse.com                |
-| 9.      | DeviantArt] | https://www.deviantart.com                    |
-| 10.     | Diaspora] | https://diasporafoundation.org              |
-| 11.     | Douban] | https://www.douban.com                        |
-| 12.     | Ello]   | https://ello.co                                |
-| 13.     | Facebook] | https://www.facebook.com                     |
-| 14.     | Flickr] | https://www.flickr.com                        |
-| 15.     | Foursquare] | https://foursquare.com                        |
+| 5.      | Behance  | https://www.behance.net                      |
+| 6.      | Buzznet   | https://www.buzznet.com                        |
+| 7.      | Caffeine  | https://www.caffeine.tv                       |
+| 8.      | Clubhouse  | https://www.joinclubhouse.com                |
+| 9.      | DeviantArt  | https://www.deviantart.com                    |
+| 10.     | Diaspora  | https://diasporafoundation.org              |
+| 11.     | Douban  | https://www.douban.com                        |
+| 12.     | Ello    | https://ello.co                                |
+| 13.     | Facebook  | https://www.facebook.com                     |
+| 14.     | Flickr  | https://www.flickr.com                        |
+| 15.     | Foursquare  | https://foursquare.com                        |
 | 16.     | Gab     | https://gab.com                               |
 | 17.     | Google+ | https://plus.google.com                      |
 | 18.     | Habbo | https://www.habbo.com                        |
@@ -165,36 +165,36 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 | Αριθμός | Όνομα Εργαλείου         | Σύνδεσμος                                  |
 |---------|--------------------------|--------------------------------------------|
-| 1.      | [Followerwonk]           | https://moz.com/followerwonk |
-| 2.      | [Hootsuite Free]         | https://hootsuite.com          |
-| 3.      | [IFTTT]                  | https://ifttt.com                   |
-| 4.      | [Mentionmapp]            | https://mentionmapp.com      |
-| 5.      | [Social Searcher]        | https://www.social-searcher.com |
-| 6.      | [TweetDeck]              | https://tweetdeck.twitter.com    |
-| 7.      | [Twitonomy]              | https://www.twitonomy.com        |
-| 8.      | [Social Bearing]         | https://socialbearing.com   |
-| 9.      | [RiteTag]                | https://ritetag.com                |
-| 10.     | [Sprout Social Free]     | https://sproutsocial.com     |
-| 11.     | [Union Metrics Free]     | https://unionmetrics.com     |
-| 12.     | [BuzzSumo Free]          | https://buzzsumo.com              |
-| 13.     | [Buffer Free]            | https://buffer.com                  |
-| 14.     | [Piktochart]             | https://piktochart.com          |
-| 15.     | [Google Alerts]          | https://www.google.com/alerts |
-| 16.     | [Tagboard]               | https://tagboard.com              |
-| 17.     | [Friends+Me]             | https://friendsplus.me          |
-| 18.     | [Twazzup]                | http://www.twazzup.com             |
-| 19.     | [SharedCount]            | https://sharedcount.com        |
-| 20.     | [Alltop]                 | https://alltop.com                  |
-| 21.     | [Hashatit]               | https://www.hashatit.com          |
-| 22.     | [Twitter Analytics]      | https://analytics.twitter.com |
-| 23.     | [SocialRank]             | https://www.socialrank.com      |
-| 24.     | [Pinterest Analytics]    | https://analytics.pinterest.com |
-| 25.     | [Instagram Insights]     | https://business.instagram.com |
-| 26.     | [Keyhole Free]           | https://keyhole.co                 |
-| 27.     | [Brand24 Free]           | https://brand24.com                |
-| 28.     | [LikeAlyzer]             | https://likealyzer.com          |
-| 29.     | [Talkwalker Alerts]      | https://www.talkwalker.com/alerts |
-| 30.     | [Twilert]                | https://www.twilert.com            |
+| 1.      |  Followerwonk            | https://moz.com/followerwonk |
+| 2.      |  Hootsuite Free          | https://hootsuite.com          |
+| 3.      |  IFTTT                   | https://ifttt.com                   |
+| 4.      |  Mentionmapp             | https://mentionmapp.com      |
+| 5.      |  Social Searcher         | https://www.social-searcher.com |
+| 6.      |  TweetDeck               | https://tweetdeck.twitter.com    |
+| 7.      |  Twitonomy               | https://www.twitonomy.com        |
+| 8.      |  Social Bearing          | https://socialbearing.com   |
+| 9.      |  RiteTag                 | https://ritetag.com                |
+| 10.     |  Sprout Social Free      | https://sproutsocial.com     |
+| 11.     |  Union Metrics Free      | https://unionmetrics.com     |
+| 12.     |  BuzzSumo Free           | https://buzzsumo.com              |
+| 13.     |  Buffer Free             | https://buffer.com                  |
+| 14.     |  Piktochart              | https://piktochart.com          |
+| 15.     |  Google Alerts           | https://www.google.com/alerts |
+| 16.     |  Tagboard                | https://tagboard.com              |
+| 17.     |  Friends+Me              | https://friendsplus.me          |
+| 18.     |  Twazzup                 | http://www.twazzup.com             |
+| 19.     |  SharedCount             | https://sharedcount.com        |
+| 20.     |  Alltop                  | https://alltop.com                  |
+| 21.     |  Hashatit                | https://www.hashatit.com          |
+| 22.     |  Twitter Analytics       | https://analytics.twitter.com |
+| 23.     |  SocialRank              | https://www.socialrank.com      |
+| 24.     |  Pinterest Analytics     | https://analytics.pinterest.com |
+| 25.     |  Instagram Insights      | https://business.instagram.com |
+| 26.     |  Keyhole Free            | https://keyhole.co                 |
+| 27.     |  Brand24 Free            | https://brand24.com                |
+| 28.     |  LikeAlyzer              | https://likealyzer.com          |
+| 29.     |  Talkwalker Alerts       | https://www.talkwalker.com/alerts |
+| 30.     |  Twilert                 | https://www.twilert.com            |
 
 ---
 
@@ -202,31 +202,31 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 | Αριθμός | Όνομα Εργαλείου         | Σύνδεσμος                                  |
 |---------|--------------------------|--------------------------------------------|
-| 1.      | Awario                 | [Awario](https://awario.com)               |
-| 2.      | BrandMentions          | [BrandMentions](https://brandmentions.com) |
-| 3.      | Iconosquare            | [Iconosquare](https://pro.iconosquare.com) |
-| 4.      | Hootsuite              | [Hootsuite](https://hootsuite.com)         |
-| 5.      | Keyhole                | [Keyhole](https://keyhole.co)              |
-| 6.      | BuzzSumo               | [BuzzSumo](https://buzzsumo.com)           |
-| 7.      | Sendible               | [Sendible](https://sendible.com)           |
-| 8.      | SocialPilot            | [SocialPilot](https://www.socialpilot.co)  |
-| 9.      | Sprout Social          | [Sprout Social](https://sproutsocial.com)  |
-| 10.     | Zoho Social            | [Zoho Social](https://www.zoho.com/social/) |
-| 11.     | Buffer                 | [Buffer](https://buffer.com)               |
-| 12.     | Union Metrics          | [Union Metrics](https://unionmetrics.com)  |
-| 13.     | Agorapulse             | [Agorapulse](https://www.agorapulse.com)   |
-| 14.     | Socialbakers           | [Socialbakers](https://www.socialbakers.com) |
-| 15.     | Raven Tools            | [Raven Tools](https://raventools.com)      |
-| 16.     | Brand24                | [Brand24](https://brand24.com)             |
-| 17.     | Mention                | [Mention](https://mention.com)             |
-| 18.     | Meltwater              | [Meltwater](https://www.meltwater.com)     |
-| 19.     | Brandwatch             | [Brandwatch](https://www.brandwatch.com)   |
-| 20.     | SEMrush                | [SEMrush](https://www.semrush.com)         |
-| 21.     | Talkwalker             | [Talkwalker](https://www.talkwalker.com)   |
-| 22.     | Reputology             | [Reputology](https://www.reputology.com)   |
-| 23.     | Social Report          | [Social Report](https://www.socialreport.com) |
-| 24.     | Social Mention         | [Social Mention](https://www.socialmention.com) |
-| 25.     | Sysomos                | [Sysomos](https://sysomos.com)             |
+| 1.      | Awario                 | https://awario.com               |
+| 2.      | BrandMentions          | https://brandmentions.com |
+| 3.      | Iconosquare            | https://pro.iconosquare.com |
+| 4.      | Hootsuite              | https://hootsuite.com         |
+| 5.      | Keyhole                | https://keyhole.co              |
+| 6.      | BuzzSumo               | https://buzzsumo.com           |
+| 7.      | Sendible               | https://sendible.com           |
+| 8.      | SocialPilot            | https://www.socialpilot.co  |
+| 9.      | Sprout Social          | https://sproutsocial.com  |
+| 10.     | Zoho Social            | https://www.zoho.com/social/ |
+| 11.     | Buffer                 | https://buffer.com               |
+| 12.     | Union Metrics          | https://unionmetrics.com  |
+| 13.     | Agorapulse             | https://www.agorapulse.com   |
+| 14.     | Socialbakers           | https://www.socialbakers.com |
+| 15.     | Raven Tools            | https://raventools.com      |
+| 16.     | Brand24                | https://brand24.com             |
+| 17.     | Mention                | https://mention.com             |
+| 18.     | Meltwater              | https://www.meltwater.com     |
+| 19.     | Brandwatch             | https://www.brandwatch.com   |
+| 20.     | SEMrush                | https://www.semrush.com         |
+| 21.     | Talkwalker             | https://www.talkwalker.com   |
+| 22.     | Reputology             | https://www.reputology.com   |
+| 23.     | Social Report          | https://www.socialreport.com |
+| 24.     | Social Mention         | https://www.socialmention.com |
+| 25.     | Sysomos                | https://sysomos.com             |
 
 ---
 
