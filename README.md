@@ -4,11 +4,11 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 Το OSINT (Open Source Intelligence) αποτελεί μια ολοκληρωμένη διαδικασία συλλογής και ανάλυσης πληροφοριών από ανοικτές πηγές, οι οποίες είναι ελεύθερα προσβάσιμες και δημόσιες. Το OSINT χρησιμοποιεί πληροφορίες που διατίθενται σε διαδικτυακούς τόπους, κοινωνικά δίκτυα, ειδησεογραφικά μέσα, επιστημονικά αρχεία και άλλα ανοιχτά κανάλια πληροφορίας, με σκοπό τη δημιουργία αξιόπιστων δεδομένων για υποστήριξη αποφάσεων. Στηρίζεται κυρίως σε πηγές όπως:
 
-1. **SOCMINT (Social Media Intelligence - Νοημοσύνη)**: Περιλαμβάνει τη συλλογή και ανάλυση δεδομένων από κοινωνικά δίκτυα, όπως Facebook, Twitter, Instagram και άλλα. Το SOCMINT προσφέρει μια εικόνα των τάσεων και διαθέσεων του κοινού, επιτρέπει την παρακολούθηση συζητήσεων για συγκεκριμένα θέματα, γεγονότα και οργανισμούς, και μπορεί να χρησιμοποιηθεί για την ανάλυση πιθανών απειλών ή κινδύνων που σχετίζονται με τη φήμη, την πολιτική, την ασφάλεια και άλλες κρίσιμες παραμέτρους.
+1. **SOCMINT - ΝΟΚΟΙΝΩΔΙ (Social Media Intelligence - Νοημοσύνη Κοινωνικών Δικτύων)**: Περιλαμβάνει τη συλλογή και ανάλυση δεδομένων από κοινωνικά δίκτυα, όπως Facebook, Twitter, Instagram και άλλα. Το SOCMINT προσφέρει μια εικόνα των τάσεων και διαθέσεων του κοινού, επιτρέπει την παρακολούθηση συζητήσεων για συγκεκριμένα θέματα, γεγονότα και οργανισμούς, και μπορεί να χρησιμοποιηθεί για την ανάλυση πιθανών απειλών ή κινδύνων που σχετίζονται με τη φήμη, την πολιτική, την ασφάλεια και άλλες κρίσιμες παραμέτρους.
 
-2. **GEOINT (Geospatial Intelligence - Νοημοσύνη)**: Αφορά τη συλλογή και ανάλυση γεωχωρικών δεδομένων από δορυφόρους, αεροφωτογραφίες και χάρτες. Το GEOINT μπορεί να προσφέρει ακριβείς πληροφορίες για θέσεις, κινήσεις και στρατηγικά δεδομένα σχετικά με γεωγραφικά χαρακτηριστικά, κτίρια, συνόρια και άλλες πληροφορίες τοποθεσίας. Συχνά χρησιμοποιείται στην άμυνα, την ασφάλεια και τη στρατιωτική παρακολούθηση.
+2. **GEOINT - ΓΕΩΝΟ (Geospatial Intelligence - Γεωγραφική Νοημοσύνη)**: Αφορά τη συλλογή και ανάλυση γεωχωρικών δεδομένων από δορυφόρους, αεροφωτογραφίες και χάρτες. Το GEOINT μπορεί να προσφέρει ακριβείς πληροφορίες για θέσεις, κινήσεις και στρατηγικά δεδομένα σχετικά με γεωγραφικά χαρακτηριστικά, κτίρια, συνόρια και άλλες πληροφορίες τοποθεσίας. Συχνά χρησιμοποιείται στην άμυνα, την ασφάλεια και τη στρατιωτική παρακολούθηση.
 
-3. **IMINT (Imagery Intelligence - Νοημοσύνη ΕΙΚΟΝΩΝ)**: Περιλαμβάνει την επεξεργασία και ανάλυση εικόνων από δορυφόρους, αεροπλάνα ή drones. Μέσω του IMINT, μπορούν να εντοπιστούν μετακινήσεις, εγκαταστάσεις ή άλλες δραστηριότητες που αποτυπώνονται σε φωτογραφικά δεδομένα. Οι αναλυτές IMINT έχουν τη δυνατότητα να μελετήσουν εξειδικευμένες εικόνες για να αντλήσουν πληροφορίες, κυρίως για στρατιωτικούς ή κατασκοπευτικούς σκοπούς.
+3. **IMINT (Imagery Intelligence - Νοημοσύνη Εικώνων)**: Περιλαμβάνει την επεξεργασία και ανάλυση εικόνων από δορυφόρους, αεροπλάνα ή drones. Μέσω του IMINT, μπορούν να εντοπιστούν μετακινήσεις, εγκαταστάσεις ή άλλες δραστηριότητες που αποτυπώνονται σε φωτογραφικά δεδομένα. Οι αναλυτές IMINT έχουν τη δυνατότητα να μελετήσουν εξειδικευμένες εικόνες για να αντλήσουν πληροφορίες, κυρίως για στρατιωτικούς ή κατασκοπευτικούς σκοπούς.
 
 4. **SIGINT - ΝΟΗΣΥ (Signals Intelligence - Νοημοσύνη Συχνοτήτων)**: Εστιάζει στη συλλογή πληροφοριών μέσω ανάλυσης ραδιοσημάτων, επικοινωνιών και δεδομένων συχνοτήτων. Τα δεδομένα SIGINT μπορούν να προέρχονται από διάφορες επικοινωνιακές συσκευές, όπως κινητά τηλέφωνα, ραδιοσυχνότητες και δίκτυα Wi-Fi, επιτρέποντας την κατανόηση των επικοινωνιακών συνηθειών των εμπλεκομένων και την ανίχνευση πιθανών απειλών.
 
@@ -33,7 +33,7 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 ---
 
 <details>
-  <summary><span style="color:yellow">Κοινωνικά Δίκτυα</span></summary>
+  <summary><span style="color:yellow">Διεθνή Κοινωνικά Δίκτυα</span></summary>
 
 1. Ameba: [Ameba](https://ameba.jp)
 2. Badoo: [Badoo](https://badoo.com)
@@ -137,3 +137,123 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 100. Minds: [Minds](https://www.minds.com)
 
 </details>
+
+---
+
+---
+
+<details>
+  <summary><span style="color:yellow">Ελληνικά Κοινωνικά Δίκτυα</span></summary>
+
+- Zoo.gr: [Zoo.gr](https://www.zoo.gr)
+- Sxeseis.gr: [Sxeseis.gr](https://www.sxeseis.gr)
+- Greek-Chat.gr: [Greek-Chat.gr](https://www.greek-chat.gr)
+- Oikonomologos.gr: [Oikonomologos.gr](https://www.oikonomologos.gr)
+- Badoo (Ελλάδα): [Badoo](https://badoo.com/el/)
+- GayHellas.gr: [GayHellas.gr](https://www.gayhellas.gr)
+- Erodate.gr: [Erodate.gr](https://www.erodate.gr)
+- Ksilokarpi.gr: [Ksilokarpi.gr](https://www.ksilokarpi.gr)
+- Zougla Forum: [Zougla Forum](https://www.zougla.gr/forum)
+- Radiofono.gr (Κοινότητα ραδιοφωνικών σταθμών): [Radiofono.gr](https://www.radiofono.gr)
+- Pathfinder Forum (ανενεργό αλλά ιστορικά σημαντικό): [Pathfinder Forum](https://www.pathfinder.gr)
+- Zoom Video Communications (χρησιμοποιείται ευρέως στην Ελλάδα): [Zoom](https://zoom.us)
+- eThemis (κοινωνικό δίκτυο νομικών): [eThemis](https://ethemis.gr)
+
+</details>
+
+---
+
+<details>
+  <summary><span style="color:yellow">Εργαλεία Έρευνας και Παρακολούθησης Κοινωνικών Δικτύων</span></summary>
+
+  <details>
+    <summary>Δωρεάν 100%</summary>
+
+1. Followerwonk: [Followerwonk](https://followerwonk.com)
+2. Google Alerts: [Google Alerts](https://www.google.com/alerts)
+3. IFTTT (για αυτοματισμούς): [IFTTT](https://ifttt.com)
+4. Meta Business Suite (για Facebook και Instagram): [Meta Business Suite](https://business.facebook.com)
+5. Social Mention: [Social Mention](http://www.socialmention.com)
+6. TweetDeck (μόνο για Twitter): [TweetDeck](https://tweetdeck.twitter.com)
+7. Social Search: [Social Search](http://social-searcher.com/social-search/)
+8. Twitonomy: [Twitonomy](https://www.twitonomy.com)
+9. Hootsuite (δωρεάν έκδοση): [Hootsuite](https://hootsuite.com)
+10. BuzzSumo (δωρεάν έκδοση): [BuzzSumo](https://buzzsumo.com)
+11. Talkwalker Alerts (δωρεάν έκδοση): [Talkwalker Alerts](https://www.talkwalker.com/alerts)
+12. Foller.me: [Foller.me](https://foller.me)
+13. Hashtagify: [Hashtagify](https://hashtagify.me)
+14. SocialBee (δωρεάν δοκιμή): [SocialBee](https://socialbee.io)
+15. Mention (δωρεάν έκδοση με περιορισμούς): [Mention](https://mention.com)
+16. Keyhole (δωρεάν δοκιμή): [Keyhole](https://keyhole.co)
+17. Reputology: [Reputology](https://www.reputology.com)
+18. Iconosquare (δωρεάν δοκιμή για Instagram): [Iconosquare](https://pro.iconosquare.com)
+19. Twitter Search: [Twitter Search](https://twitter.com/search-home)
+20. Reddit Search: [Reddit Search](https://www.reddit.com)
+21. Socialbakers (δωρεάν με περιορισμούς): [Socialbakers](https://www.socialbakers.com)
+22. Commun.it (για Twitter): [Commun.it](https://commun.it)
+
+  </details>
+
+  <details>
+    <summary>Με δοκιμαστική περίοδο</summary>
+
+1. AgoraPulse: [AgoraPulse](https://www.agorapulse.com)
+2. Brand24: [Brand24](https://brand24.com)
+3. BuzzSumo: [BuzzSumo](https://buzzsumo.com)
+4. Hootsuite: [Hootsuite](https://hootsuite.com)
+5. Mention (δωρεάν έκδοση με περιορισμούς): [Mention](https://mention.com)
+6. Talkwalker Alerts (δωρεάν έκδοση με περιορισμούς): [Talkwalker Alerts](https://www.talkwalker.com/alerts)
+7. Twitonomy (δωρεάν έκδοση με περιορισμούς): [Twitonomy](https://www.twitonomy.com)
+8. Semrush (με περιορισμένη δωρεάν περίοδο): [Semrush](https://www.semrush.com)
+9. Brandwatch: [Brandwatch](https://www.brandwatch.com)
+10. Spredfast: [Spredfast](https://www.spredfast.com)
+11. Zoho Social: [Zoho Social](https://www.zoho.com/social)
+12. NetBase: [NetBase](https://www.netbase.com)
+13. BuzzSumo (με περιορισμένη χρήση για δωρεάν χρήστες): [BuzzSumo](https://buzzsumo.com)
+14. Keyhole (πληρωμή ή δωρεάν δοκιμή): [Keyhole](https://keyhole.co)
+15. Hootsuite (με δωρεάν δοκιμαστική περίοδο): [Hootsuite](https://hootsuite.com)
+
+  </details>
+
+  <details>
+    <summary>Επί πληρωμή</summary>
+
+1. Awario: [Awario](https://awario.com)
+2. Keyhole: [Keyhole](https://keyhole.co)
+3. NetBase: [NetBase](https://www.netbase.com)
+4. Sprout Social: [Sprout Social](https://sproutsocial.com)
+5. Brandwatch: [Brandwatch](https://www.brandwatch.com)
+6. Meltwater: [Meltwater](https://www.meltwater.com)
+7. Agorapulse: [Agorapulse](https://www.agorapulse.com)
+8. BuzzSumo Pro: [BuzzSumo Pro](https://buzzsumo.com)
+9. Meltwater Social: [Meltwater Social](https://www.meltwater.com)
+10. Socialbakers (πλήρης έκδοση): [Socialbakers](https://www.socialbakers.com)
+11. HubSpot: [HubSpot](https://www.hubspot.com)
+12. CrowdTangle: [CrowdTangle](https://www.crowdtangle.com)
+13. BrandMentions: [BrandMentions](https://www.brandmentions.com)
+14. Sprinklr: [Sprinklr](https://www.sprinklr.com)
+15. Social Studio (Salesforce): [Social Studio](https://www.salesforce.com/products/social-studio)
+16. Talkwalker (πληρωμή): [Talkwalker](https://www.talkwalker.com)
+17. Pulsar: [Pulsar](https://www.pulsarplatform.com)
+18. Radian6 (Salesforce): [Radian6](https://www.salesforce.com/products/radian6)
+19. Socialbakers (πληρωμή): [Socialbakers](https://www.socialbakers.com)
+20. Traackr: [Traackr](https://www.traackr.com)
+21. Meltwater Insights: [Meltwater Insights](https://www.meltwater.com)
+22. Hootsuite Pro: [Hootsuite Pro](https://hootsuite.com)
+23. Falcon.io: [Falcon.io](https://www.falcon.io)
+24. Influencity: [Influencity](https://www.influencity.com)
+25. Brandwatch Consumer Research: [Brandwatch Consumer Research](https://www.brandwatch.com)
+26. Sprinklr Social Media Management: [Sprinklr](https://www.sprinklr.com)
+27. SocialFlow: [SocialFlow](https://www.socialflow.com)
+28. Khoros: [Khoros](https://www.khoros.com)
+29. Mentionlytics: [Mentionlytics](https://mentionlytics.com)
+30. Zoho Social (Premium): [Zoho Social](https://www.zoho.com/social)
+31. TrendKite (PR Newswire): [TrendKite](https://www.trendkite.com)
+32. Viralheat: [Viralheat](https://www.viralheat.com)
+
+  </details>
+
+</details>
+
+
+
