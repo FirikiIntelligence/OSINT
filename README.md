@@ -164,8 +164,6 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 <details>
   <summary><span style="color:yellow">Εργαλεία Έρευνας και Παρακολούθησης Κοινωνικών Δικτύων</span></summary>
 
----
-
   <details>
     <summary>Δωρεάν 100%</summary>
 
