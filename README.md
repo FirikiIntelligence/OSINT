@@ -143,19 +143,19 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 | Αριθμός | Όνομα Δικτύου       | Σύνδεσμος                        |
 |---------|----------------------|----------------------------------|
-| 1.      | [Badoo (Ελλάδα)]     | [Badoo (Ελλάδα)](https://badoo.com/el/) |
-| 2.      | [eThemis]            | [eThemis](https://ethemis.gr)           |
-| 3.      | [Erodate.gr]         | [Erodate.gr](https://www.erodate.gr)     |
-| 4.      | [GayHellas.gr]       | [GayHellas.gr](https://www.gayhellas.gr) |
-| 5.      | [Greek-Chat.gr]      | [Greek-Chat.gr](https://www.greek-chat.gr) |
-| 6.      | [Ksilokarpi.gr]      | [Ksilokarpi.gr](https://www.ksilokarpi.gr) |
-| 7.      | [Oikonomologos.gr]   | [Oikonomologos.gr](https://www.oikonomologos.gr) |
-| 8.      | [Pathfinder Forum]   | [Pathfinder Forum](https://www.pathfinder.gr) |
-| 9.      | [Radiofono.gr]       | [Radiofono.gr](https://www.radiofono.gr) |
-| 10.     | [Sxeseis.gr]         | [Sxeseis.gr](https://www.sxeseis.gr) |
-| 11.     | [Zoo.gr]             | [Zoo.gr](https://www.zoo.gr) |
-| 12.     | [Zoom]               | [Zoom](https://zoom.us) |
-| 13.     | [Zougla Forum]       | [Zougla Forum](https://www.zougla.gr/forum) |
+| 1.      |  Badoo (Ελλάδα)      | [Badoo (Ελλάδα)](https://badoo.com/el/) |
+| 2.      |  eThemis             | [eThemis](https://ethemis.gr)           |
+| 3.      |  Erodate.gr          | [Erodate.gr](https://www.erodate.gr)     |
+| 4.      |  GayHellas.gr        | [GayHellas.gr](https://www.gayhellas.gr) |
+| 5.      |  Greek-Chat.gr       | [Greek-Chat.gr](https://www.greek-chat.gr) |
+| 6.      |  Ksilokarpi.gr       | [Ksilokarpi.gr](https://www.ksilokarpi.gr) |
+| 7.      |  Oikonomologos.gr    | [Oikonomologos.gr](https://www.oikonomologos.gr) |
+| 8.      |  Pathfinder Forum    | [Pathfinder Forum](https://www.pathfinder.gr) |
+| 9.      |  Radiofono.gr        | [Radiofono.gr](https://www.radiofono.gr) |
+| 10.     |  Sxeseis.gr          | [Sxeseis.gr](https://www.sxeseis.gr) |
+| 11.     |  Zoo.gr              | [Zoo.gr](https://www.zoo.gr) |
+| 12.     |  Zoom                | [Zoom](https://zoom.us) |
+| 13.     |  Zougla Forum       | [Zougla Forum](https://www.zougla.gr/forum) |
 
 ---
 
