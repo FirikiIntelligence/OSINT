@@ -36,22 +36,22 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 | Αριθμός | Όνομα Δικτύου           | Σύνδεσμος                                      |
 |---------|--------------------------|------------------------------------------------|
-| 1.      | [Ask.fm](https://ask.fm)   | https://ask.fm                                 |
-| 2.      | [Badoo (Ελλάδα)](https://badoo.com/el/)  | https://badoo.com/el/                          |
-| 3.      | [Badoo](https://badoo.com) | https://badoo.com                              |
-| 4.      | [Band](https://band.us)   | https://band.us                               |
-| 5.      | [Behance](https://www.behance.net) | https://www.behance.net                      |
-| 6.      | [Buzznet](https://www.buzznet.com)  | https://www.buzznet.com                        |
-| 7.      | [Caffeine](https://www.caffeine.tv) | https://www.caffeine.tv                       |
-| 8.      | [Clubhouse](https://www.joinclubhouse.com) | https://www.joinclubhouse.com                |
-| 9.      | [DeviantArt](https://www.deviantart.com) | https://www.deviantart.com                    |
-| 10.     | [Diaspora](https://diasporafoundation.org) | https://diasporafoundation.org              |
-| 11.     | [Douban](https://www.douban.com) | https://www.douban.com                        |
-| 12.     | [Ello](https://ello.co)   | https://ello.co                                |
-| 13.     | [Facebook](https://www.facebook.com) | https://www.facebook.com                     |
-| 14.     | [Flickr](https://www.flickr.com) | https://www.flickr.com                        |
-| 15.     | [Foursquare](https://foursquare.com) | https://foursquare.com                        |
-| 16.     | [Gab](https://gab.com)     | https://gab.com                               |
+| 1.      | [Ask.fm]   | https://ask.fm                                 |
+| 2.      | [Badoo (Ελλάδα)]  | https://badoo.com/el/                          |
+| 3.      | [Badoo] | https://badoo.com                              |
+| 4.      | [Band]   | https://band.us                               |
+| 5.      | [Behance] | https://www.behance.net                      |
+| 6.      | [Buzznet]  | https://www.buzznet.com                        |
+| 7.      | [Caffeine] | https://www.caffeine.tv                       |
+| 8.      | [Clubhouse] | https://www.joinclubhouse.com                |
+| 9.      | [DeviantArt] | https://www.deviantart.com                    |
+| 10.     | [Diaspora] | https://diasporafoundation.org              |
+| 11.     | [Douban] | https://www.douban.com                        |
+| 12.     | [Ello]   | https://ello.co                                |
+| 13.     | [Facebook] | https://www.facebook.com                     |
+| 14.     | [Flickr] | https://www.flickr.com                        |
+| 15.     | [Foursquare] | https://foursquare.com                        |
+| 16.     | [Gab]     | https://gab.com                               |
 | 17.     | [Google+](https://plus.google.com) | https://plus.google.com                      |
 | 18.     | [Habbo](https://www.habbo.com) | https://www.habbo.com                        |
 | 19.     | [Hi5](https://www.hi5.com) | https://www.hi5.com                            |
