@@ -32,6 +32,22 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 ---
 
+# Διεθνή Κοινωνικά Δίκτυα
+
+| Αριθμός | Όνομα Δικτύου | Σύνδεσμος |
+|---------|---------------|-----------|
+| 1.      | [Ameba](https://ameba.jp) | [Ameba](https://ameba.jp) |
+| 2.      | [Facebook](https://www.facebook.com) | [Facebook](https://www.facebook.com) |
+| 3.      | [Instagram](https://www.instagram.com) | [Instagram](https://www.instagram.com) |
+| 4.      | [LinkedIn](https://www.linkedin.com) | [LinkedIn](https://www.linkedin.com) |
+| 5.      | [Twitter](https://twitter.com) | [Twitter](https://twitter.com) |
+| 6.      | [YouTube](https://www.youtube.com) | [YouTube](https://www.youtube.com) |
+| 7.      | [Reddit](https://www.reddit.com) | [Reddit](https://www.reddit.com) |
+| 8.      | [Pinterest](https://www.pinterest.com) | [Pinterest](https://www.pinterest.com) |
+| 9.      | [Snapchat](https://www.snapchat.com) | [Snapchat](https://www.snapchat.com) |
+| 10.     | [TikTok](https://www.tiktok.com) | [TikTok](https://www.tiktok.com) |
+
+
 <details>
   <summary><span style="color:yellow">Διεθνή Κοινωνικά Δίκτυα</span></summary>
 
