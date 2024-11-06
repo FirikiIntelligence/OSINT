@@ -164,6 +164,8 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 <details>
   <summary><span style="color:yellow">Εργαλεία Έρευνας και Παρακολούθησης Κοινωνικών Δικτύων</span></summary>
 
+---
+
   <details>
     <summary>Δωρεάν 100%</summary>
 
@@ -293,3 +295,181 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 </details>
 
+---
+
+<details>
+  <summary><span style="color:yellow">Εργαλεία για τα Κοινωνικά Δίκτυα</span></summary>
+
+  <details>
+    <summary>1. [Trends24](https://www.trends24.in)</summary>
+    Ιστότοπος για ανάλυση τάσεων κοινωνικών δικτύων σε πραγματικό χρόνο. Εξετάζει τις δημοφιλείς συζητήσεις και λέξεις-κλειδιά.
+  </details>
+
+  <details>
+    <summary>2. [Hashtagify](https://hashtagify.me)</summary>
+    Ανάλυση δημοφιλών hashtags και τάσεων στα κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>3. [BuzzSumo](https://buzzsumo.com)</summary>
+    Εργαλείο για ανάλυση περιεχομένου και κοινωνικών τάσεων σε πλατφόρμες όπως Twitter, Facebook και άλλες.
+  </details>
+
+  <details>
+    <summary>4. [Socialbakers](https://www.socialbakers.com)</summary>
+    Ανάλυση της κοινωνικής απόδοσης και παρακολούθηση του ανταγωνισμού.
+  </details>
+
+  <details>
+    <summary>5. [Keyhole](https://keyhole.co)</summary>
+    Ανάλυση hashtag, mentions, και trends στα κοινωνικά δίκτυα σε πραγματικό χρόνο.
+  </details>
+
+  <details>
+    <summary>6. [Mention](https://mention.com)</summary>
+    Εργαλείο παρακολούθησης κοινωνικών μέσων που προσφέρει αναλύσεις αναφορών και ανταγωνιστικών δεδομένων.
+  </details>
+
+  <details>
+    <summary>7. [Sprout Social](https://sproutsocial.com)</summary>
+    Εργαλείο για τη διαχείριση κοινωνικών δικτύων με αναλύσεις για τις δραστηριότητες στα κοινωνικά μέσα.
+  </details>
+
+  <details>
+    <summary>8. [Talkwalker](https://www.talkwalker.com)</summary>
+    Ανάλυση κοινωνικών μέσων, διαχείριση δεδομένων και παρακολούθηση συζητήσεων.
+  </details>
+
+  <details>
+    <summary>9. [Agorapulse](https://www.agorapulse.com)</summary>
+    Σύνθεση αναφορών και στατιστικών για τις κοινωνικές δραστηριότητες και αναλύσεις κοινωνικών δεδομένων.
+  </details>
+
+  <details>
+    <summary>10. [Tweetreach](https://tweetreach.com)</summary>
+    Ανάλυση της εμβέλειας των tweets και των hashtags στο Twitter.
+  </details>
+
+  <details>
+    <summary>11. [Hootsuite](https://hootsuite.com)</summary>
+    Εργαλείο διαχείρισης κοινωνικών μέσων και ανάλυσης του περιεχομένου και των trends.
+  </details>
+
+  <details>
+    <summary>12. [Social Mention](http://socialmention.com)</summary>
+    Ιστότοπος που προσφέρει ανάλυση για τις αναφορές στα κοινωνικά δίκτυα και τις πλατφόρμες κοινωνικής αναγνώρισης.
+  </details>
+
+  <details>
+    <summary>13. [Brandwatch](https://www.brandwatch.com)</summary>
+    Εργαλείο παρακολούθησης κοινωνικών μέσων και ανάλυσης των τάσεων της αγοράς.
+  </details>
+
+  <details>
+    <summary>14. [Zoho Social](https://www.zoho.com/social)</summary>
+    Εργαλείο που συνδυάζει κοινωνικά δεδομένα με αναλυτικές πληροφορίες για τη βελτίωση της στρατηγικής στα κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>15. [Rival IQ](https://www.rivaliq.com)</summary>
+    Ανάλυση ανταγωνιστικών δεδομένων για τα κοινωνικά δίκτυα και την αποτελεσματικότητα της στρατηγικής.
+  </details>
+
+  <details>
+    <summary>16. [Quintly](https://www.quintly.com)</summary>
+    Ανάλυση της απόδοσης κοινωνικών δικτύων, παρακολούθηση και σύγκριση του ανταγωνισμού.
+  </details>
+
+  <details>
+    <summary>17. [Meltwater](https://www.meltwater.com)</summary>
+    Εργαλείο για παρακολούθηση, ανάλυση και αναφορά περιεχομένου και αναφορών σε κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>18. [BuzzSumo](https://buzzsumo.com)</summary>
+    Εργαλείο ανάλυσης για την παρακολούθηση δημοφιλών θεμάτων και περιεχομένου στα κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>19. [Sprinklr](https://www.sprinklr.com)</summary>
+    Εργαλείο για διαχείριση, ανάλυση και βελτιστοποίηση του περιεχομένου στα κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>20. [Followerwonk](https://followerwonk.com)</summary>
+    Εργαλείο ανάλυσης για το Twitter, με δυνατότητες ανάλυσης προφίλ, αναζητήσεων και συνδέσεων.
+  </details>
+
+  <details>
+    <summary>21. [Buffer](https://buffer.com)</summary>
+    Ανάλυση της απόδοσης των κοινωνικών δικτύων και στρατηγικών κοινοποίησης περιεχομένου.
+  </details>
+
+  <details>
+    <summary>22. [Iconosquare](https://pro.iconosquare.com)</summary>
+    Εργαλείο ανάλυσης και διαχείρισης για Instagram και Facebook.
+  </details>
+
+  <details>
+    <summary>23. [Tweetdeck](https://tweetdeck.twitter.com)</summary>
+    Διαχείριση και παρακολούθηση του Twitter σε πραγματικό χρόνο.
+  </details>
+
+  <details>
+    <summary>24. [Post Planner](https://www.postplanner.com)</summary>
+    Διαχείριση και ανάλυση περιεχομένου για το Facebook.
+  </details>
+
+  <details>
+    <summary>25. [Nuzzel](https://nuzzel.com)</summary>
+    Εργαλείο για παρακολούθηση ειδήσεων και κοινωνικών δικτύων, επισημαίνοντας δημοφιλή άρθρα.
+  </details>
+
+  <details>
+    <summary>26. [BuzzSumo](https://buzzsumo.com)</summary>
+    Εργαλείο ανάλυσης και αναζήτησης περιεχομένου, ιδανικό για κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>27. [CrowdTangle](https://www.crowdtangle.com)</summary>
+    Ανάλυση και παρακολούθηση περιεχομένου για Facebook, Instagram, YouTube και Twitter.
+  </details>
+
+  <details>
+    <summary>28. [SociallyStacked](https://www.sociallystacked.com)</summary>
+    Σύστημα ανάλυσης και διαχείρισης του περιεχομένου για τα κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>29. [TweetReach](https://tweetreach.com)</summary>
+    Εργαλείο ανάλυσης για τη μέτρηση της εμβέλειας του περιεχομένου στο Twitter.
+  </details>
+
+  <details>
+    <summary>30. [ViralWoot](https://viralwoot.com)</summary>
+    Διαχείριση και ανάλυση περιεχομένου στο Pinterest.
+  </details>
+
+  <details>
+    <summary>31. [SocialBee](https://socialbee.io)</summary>
+    Ολοκληρωμένο εργαλείο για τη διαχείριση των κοινωνικών δικτύων και την ανάλυση δεδομένων.
+  </details>
+
+  <details>
+    <summary>32. [Hootsuite Insights](https://hootsuite.com/insights)</summary>
+    Σύστημα ανάλυσης δεδομένων και παρακολούθησης για τα κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>33. [Klear](https://klear.com)</summary>
+    Ανάλυση επιρροών και παρακολούθηση της απόδοσης στα κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>34. [SocialRank](https://socialrank.com)</summary>
+    Εργαλείο για την ανάλυση των ακολούθων και της εμπλοκής στα κοινωνικά δίκτυα.
+  </details>
+
+  <details>
+    <summary>35. [Crowd Analyzer](https://www.crowdanalyzer.com)</summary>
+    Ανάλυση των κοινωνικών δικτύων και ερμηνεία των συναισθημάτων των
