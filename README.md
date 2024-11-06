@@ -234,26 +234,26 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 | Αριθμός | Όνομα Εργαλείου         | Σύνδεσμος                                  |
 |---------|--------------------------|--------------------------------------------|
-| 1.      | [Awario]                 | [Awario](https://awario.com)               |
-| 2.      | [Brandwatch]             | [Brandwatch](https://www.brandwatch.com)   |
-| 3.      | [Talkwalker]             | [Talkwalker](https://www.talkwalker.com)   |
-| 4.      | [Meltwater]              | [Meltwater](https://www.meltwater.com)     |
-| 5.      | [Sprinklr]               | [Sprinklr](https://www.sprinklr.com)       |
-| 6.      | [Synthesio]              | [Synthesio](https://www.synthesio.com)     |
-| 7.      | [NetBase]                | [NetBase](https://www.netbase.com)         |
-| 8.      | [Crimson Hexagon]        | [Crimson Hexagon](https://www.crimsonhexagon.com) |
-| 9.      | [Reputology]             | [Reputology](https://www.reputology.com)   |
-| 10.     | [Socialbakers]           | [Socialbakers](https://www.socialbakers.com) |
-| 11.     | [Sprout Social]          | [Sprout Social](https://sproutsocial.com)  |
-| 12.     | [BuzzSumo]               | [BuzzSumo](https://buzzsumo.com)           |
-| 13.     | [Brand24]                | [Brand24](https://brand24.com)             |
-| 14.     | [Mention]                | [Mention](https://mention.com)             |
-| 15.     | [Agorapulse]             | [Agorapulse](https://www.agorapulse.com)   |
-| 16.     | [Hootsuite]              | [Hootsuite](https://hootsuite.com)         |
-| 17.     | [Social Studio]          | [Social Studio](https://www.salesforce.com/products/marketing-cloud/social-studio/) |
-| 18.     | [Union Metrics]          | [Union Metrics](https://unionmetrics.com)  |
-| 19.     | [Sysomos]                | [Sysomos](https://sysomos.com)             |
-| 20.     | [Social Pilot]           | [Social Pilot](https://socialpilot.co)     |
+| 1.      |  Awario                  | https://awario.com               |
+| 2.      |  Brandwatch              | https://www.brandwatch.com   |
+| 3.      |  Talkwalker              | https://www.talkwalker.com   |
+| 4.      |  Meltwater               | https://www.meltwater.com     |
+| 5.      |  Sprinklr                | https://www.sprinklr.com       |
+| 6.      |  Synthesio               | https://www.synthesio.com     |
+| 7.      |  NetBase                 | https://www.netbase.com         |
+| 8.      |  Crimson Hexagon         | https://www.crimsonhexagon.com |
+| 9.      |  Reputology              | https://www.reputology.com   |
+| 10.     |  Socialbakers            | https://www.socialbakers.com |
+| 11.     |  Sprout Social           | https://sproutsocial.com  |
+| 12.     |  BuzzSumo                | https://buzzsumo.com           |
+| 13.     |  Brand24                 | https://brand24.com             |
+| 14.     |  Mention                 | https://mention.com             |
+| 15.     |  Agorapulse              | https://www.agorapulse.com   |
+| 16.     |  Hootsuite               | https://hootsuite.com         |
+| 17.     |  Social Studio           | https://www.salesforce.com/products/marketing-cloud/social-studio/ |
+| 18.     |  Union Metrics           | https://unionmetrics.com  |
+| 19.     |  Sysomos                 | https://sysomos.com             |
+| 20.     |  Social Pilot            | https://socialpilot.co     |
 
 ---
 
@@ -263,56 +263,56 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 | Αριθμός | Όνομα Εργαλείου         | Σύνδεσμος                                      |
 |---------|--------------------------|------------------------------------------------|
-| 1.      | [All Hashtag]            | [All Hashtag](https://www.all-hashtag.com)      |
-| 2.      | [Best Hashtags]          | [Best Hashtags](https://best-hashtags.com)      |
-| 3.      | [Buffer Hashtag Manager] | [Buffer](https://buffer.com)                    |
-| 4.      | [Daily Follower](https://www.dailyfollower.com) | [Daily Follower](https://www.dailyfollower.com) |
-| 5.      | [Display Purposes]       | [Display Purposes](https://displaypurposes.com) |
-| 6.      | [Find That Hashtag]      | [Find That Hashtag](https://findthathashtag.com)|
-| 7.      | [Focalmark]              | [Focalmark](https://focalmark.com)              |
-| 8.      | [Gettags]                | [Gettags](https://gettags.info)                 |
-| 9.      | [Hashatit]               | [Hashatit](https://www.hashatit.com)            |
-| 10.     | [Hashtag Generator]      | [Hashtag Generator](https://hashtag-generator.org) |
-| 11.     | [Hashtag Stack]          | [Hashtag Stack](https://hashtagstack.com)       |
-| 12.     | [Hashtagify Free]        | [Hashtagify](https://hashtagify.me)             |
-| 13.     | [Hashtags For Likes Free]| [Hashtags For Likes](https://www.hashtagsforlikes.co) |
-| 14.     | [HashMe]                 | [HashMe](https://hashme.app)                    |
-| 15.     | [Ingramer Free]          | [Ingramer](https://ingramer.com/hashtag-generator) |
-| 16.     | [Instavast Hashtag Generator] | [Instavast](https://instavast.com/hashtag-generator) |
-| 17.     | [Keyword Tool Free]      | [Keyword Tool](https://keywordtool.io/hashtag)  |
-| 18.     | [Leetags]                | [Leetags](https://leetags.com)                  |
-| 19.     | [Meta Hashtags]          | [Meta Hashtags](https://metahashtags.com)       |
-| 20.     | [Pixlee Hashtag Generator] | [Pixlee](https://www.pixlee.com)              |
-| 21.     | [Planoly Hashtag Manager]| [Planoly](https://www.planoly.com)             |
-| 22.     | [RiteTag Free]           | [RiteTag](https://ritetag.com)                  |
-| 23.     | [Seekmetrics]            | [Seekmetrics](https://seekmetrics.com)          |
-| 24.     | [Sistrix Hashtag Generator] | [Sistrix](https://app.sistrix.com/hashtag-generator) |
-| 25.     | [Socialert Free]         | [Socialert](https://www.socialert.net)          |
-| 26.     | [TagsFinder]             | [TagsFinder](https://tagsfinder.com)            |
-| 27.     | [Tagdef]                 | [Tagdef](https://www.tagdef.com)                |
-| 28.     | [Taggbox]                | [Taggbox](https://taggbox.com)                  |
-| 29.     | [Toptager]               | [Toptager](https://toptager.com)                |
-| 30.     | [TrendHERO]              | [TrendHERO](https://trendhero.io)               |
-| 31.     | [Trendsmap Free]         | [Trendsmap](https://www.trendsmap.com)          |
-| 32.     | [Twubs]                  | [Twubs](https://twubs.com)                      |
-| 33.     | [Viral Findr]            | [Viral Findr](https://viralfindr.com)           |
-| 34.     | [Zoho Social Free]       | [Zoho Social](https://www.zoho.com/social/)     |
-| 35.     | [Tag Explorer]           | [Tag Explorer](https://tagexplorer.com)         |
-| 36.     | [TagX](https://tagx.com) | [TagX](https://tagx.com)                        |
-| 37.     | [IQ Hashtags Free]       | [IQ Hashtags](https://iqhashtags.com)           |
-| 38.     | [TrackMyHashtag]         | [TrackMyHashtag](https://www.trackmyhashtag.com)|
-| 39.     | [TrendSpottr]            | [TrendSpottr](https://trendspottr.com)          |
-| 40.     | [Metricool Free]         | [Metricool](https://metricool.com)              |
-| 41.     | [AgoraPulse Free Hashtags](https://agorapulse.com) | [AgoraPulse](https://agorapulse.com) |
-| 42.     | [Brand24 Free]           | [Brand24](https://brand24.com)                  |
-| 43.     | [BuzzSumo Free]          | [BuzzSumo](https://buzzsumo.com)                |
-| 44.     | [Social Searcher]        | [Social Searcher](https://www.social-searcher.com) |
-| 45.     | [Trackur Free]           | [Trackur](https://trackur.com)                  |
-| 46.     | [Buzzmonitor Free]       | [Buzzmonitor](https://buzzmonitor.com)          |
-| 47.     | [Zoho Cliq]              | [Zoho Cliq](https://zoho.com)                   |
-| 48.     | [DataSift Free]          | [DataSift](https://datasift.com)                |
-| 49.     | [TrackMaven Free]        | [TrackMaven](https://trackmaven.com)            |
-| 50.     | [Klear Free]             | [Klear](https://klear.com)                      |
+| 1.      |  All Hashtag             | https://www.all-hashtag.com      |
+| 2.      |  Best Hashtags           | https://best-hashtags.com      |
+| 3.      |  Buffer Hashtag Manager  | https://buffer.com                    |
+| 4.      |  Daily Follower          | https://www.dailyfollower.com |
+| 5.      |  Display Purposes        | https://displaypurposes.com |
+| 6.      |  Find That Hashtag       | https://findthathashtag.com|
+| 7.      |  Focalmark               | https://focalmark.com              |
+| 8.      |  Gettags                 | https://gettags.info                 |
+| 9.      |  Hashatit                | https://www.hashatit.com            |
+| 10.     |  Hashtag Generator       | https://hashtag-generator.org |
+| 11.     |  Hashtag Stack           | https://hashtagstack.com       |
+| 12.     |  Hashtagify Free         | https://hashtagify.me             |
+| 13.     |  Hashtags For Likes Free | https://www.hashtagsforlikes.co |
+| 14.     |  HashMe                  | https://hashme.app                    |
+| 15.     |  Ingramer Free           | https://ingramer.com/hashtag-generator |
+| 16.     |  Instavast Hashtag Generator | https://instavast.com/hashtag-generator |
+| 17.     |  Keyword Tool Free       | https://keywordtool.io/hashtag  |
+| 18.     |  Leetags                 | https://leetags.com                  |
+| 19.     |  Meta Hashtags           | https://metahashtags.com       |
+| 20.     |  Pixlee Hashtag Generator  | https://www.pixlee.com              |
+| 21.     |  Planoly Hashtag Manager | https://www.planoly.com             |
+| 22.     |  RiteTag Free            | https://ritetag.com                  |
+| 23.     |  Seekmetrics             | https://seekmetrics.com          |
+| 24.     |  Sistrix Hashtag Generator  | https://app.sistrix.com/hashtag-generator |
+| 25.     |  Socialert Free          | https://www.socialert.net          |
+| 26.     |  TagsFinder              | https://tagsfinder.com            |
+| 27.     |  Tagdef                  | https://www.tagdef.com                |
+| 28.     |  Taggbox                 | https://taggbox.com                  |
+| 29.     |  Toptager                | https://toptager.com                |
+| 30.     |  TrendHERO               | https://trendhero.io               |
+| 31.     |  Trendsmap Free          | https://www.trendsmap.com          |
+| 32.     |  Twubs                   | https://twubs.com                      |
+| 33.     |  Viral Findr             | https://viralfindr.com           |
+| 34.     |  Zoho Social Free        | https://www.zoho.com/social     |
+| 35.     |  Tag Explorer            | https://tagexplorer.com         |
+| 36.     |  TagX                    | https://tagx.com                        |
+| 37.     |  IQ Hashtags Free        | https://iqhashtags.com           |
+| 38.     |  TrackMyHashtag          | https://www.trackmyhashtag.com|
+| 39.     |  TrendSpottr             | https://trendspottr.com          |
+| 40.     |  Metricool Free          | https://metricool.com              |
+| 41.     |  AgoraPulse Free Hashtags | https://agorapulse.com |
+| 42.     |  Brand24 Free            | https://brand24.com                  |
+| 43.     |  BuzzSumo Free           | https://buzzsumo.com                |
+| 44.     |  Social Searcher         | https://www.social-searcher.com |
+| 45.     |  Trackur Free            | https://trackur.com                  |
+| 46.     |  Buzzmonitor Free        | https://buzzmonitor.com          |
+| 47.     |  Zoho Cliq               | https://zoho.com                   |
+| 48.     |  DataSift Free           | https://datasift.com                |
+| 49.     |  TrackMaven Free         | https://trackmaven.com            |
+| 50.     |  Klear Free              | https://klear.com                      |
 
 ---
 
@@ -320,56 +320,56 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 | Αριθμός | Όνομα Εργαλείου         | Σύνδεσμος                                      |
 |---------|--------------------------|------------------------------------------------|
-| 1.      | [AgoraPulse]             | [AgoraPulse](https://agorapulse.com)           |
-| 2.      | [Awario]                 | [Awario](https://awario.com)                   |
-| 3.      | [BigSpy]                 | [BigSpy](https://bigspy.com)                   |
-| 4.      | [Brand24]                | [Brand24](https://brand24.com)                 |
-| 5.      | [BrandMentions]          | [BrandMentions](https://brandmentions.com)     |
-| 6.      | [Brandwatch]             | [Brandwatch](https://brandwatch.com)           |
-| 7.      | [BuzzSumo]               | [BuzzSumo](https://buzzsumo.com)               |
-| 8.      | [Clarabridge Engage]     | [Clarabridge Engage](https://clarabridge.com)  |
-| 9.      | [ContentStudio]          | [ContentStudio](https://contentstudio.io)      |
-| 10.     | [CrowdTangle]            | [CrowdTangle](https://crowdtangle.com)         |
-| 11.     | [Digimind Social]        | [Digimind Social](https://digimind.com)        |
-| 12.     | [Falcon.io]              | [Falcon.io](https://falcon.io)                 |
-| 13.     | [Feedly]                 | [Feedly](https://feedly.com)                   |
-| 14.     | [Foursixty]              | [Foursixty](https://foursixty.com)             |
-| 15.     | [Hootsuite]              | [Hootsuite](https://hootsuite.com)             |
-| 16.     | [Iconosquare]            | [Iconosquare](https://iconosquare.com)         |
-| 17.     | [Infegy Atlas]           | [Infegy Atlas](https://infegy.com)             |
-| 18.     | [Khoros]                 | [Khoros](https://khoros.com)                   |
-| 19.     | [Keyhole]                | [Keyhole](https://keyhole.co)                  |
-| 20.     | [Locowise]               | [Locowise](https://locowise.com)               |
-| 21.     | [Meltwater]              | [Meltwater](https://meltwater.com)             |
-| 22.     | [Mention]                | [Mention](https://mention.com)                 |
-| 23.     | [NetBase Quid]           | [NetBase Quid](https://netbasequid.com)        |
-| 24.     | [NewsWhip]               | [NewsWhip](https://newswhip.com)               |
-| 25.     | [NUVI]                   | [NUVI](https://nuvi.com)                       |
-| 26.     | [Oktopost]               | [Oktopost](https://oktopost.com)               |
-| 27.     | [Onalytica]              | [Onalytica](https://onalytica.com)             |
-| 28.     | [Phlanx]                 | [Phlanx](https://phlanx.com)                   |
-| 29.     | [Prowly]                 | [Prowly](https://prowly.com)                   |
-| 30.     | [Reputology]             | [Reputology](https://reputology.com)           |
-| 31.     | [Rival IQ]               | [Rival IQ](https://rivaliq.com)                |
-| 32.     | [Salesforce Social Studio]| [Salesforce Social Studio](https://salesforce.com) |
-| 33.     | [Sendible]               | [Sendible](https://sendible.com)               |
-| 34.     | [Shareablee]             | [Shareablee](https://shareablee.com)           |
-| 35.     | [Simply Measured]        | [Simply Measured](https://simplymeasured.com)  |
-| 36.     | [Socialbakers]           | [Socialbakers](https://socialbakers.com)       |
-| 37.     | [SocialBee]              | [SocialBee](https://socialbee.io)              |
-| 38.     | [Socialinsider]          | [Socialinsider](https://socialinsider.io)      |
-| 39.     | [SocialMention]          | [SocialMention](https://socialmention.com)     |
-| 40.     | [SocialPilot]            | [SocialPilot](https://socialpilot.co)          |
-| 41.     | [Social Report]          | [Social Report](https://socialreport.com)      |
-| 42.     | [Sprinklr]               | [Sprinklr](https://sprinklr.com)               |
-| 43.     | [Sprout Social]          | [Sprout Social](https://sproutsocial.com)      |
-| 44.     | [Synthesio]              | [Synthesio](https://synthesio.com)             |
-| 45.     | [Talkwalker]             | [Talkwalker](https://talkwalker.com)           |
-| 46.     | [Traackr]                | [Traackr](https://traackr.com)                 |
-| 47.     | [TrendKite]              | [TrendKite](https://trendkite.com)             |
-| 48.     | [TweetReach by Union Metrics] | [TweetReach](https://unionmetrics.com)  |
-| 49.     | [Unmetric]               | [Unmetric](https://unmetric.com)               |
-| 50.     | [Zoho Social]            | [Zoho Social](https://zoho.com/social)         |
+| 1.      |  AgoraPulse              | https://agorapulse.com           |
+| 2.      |  Awario                  | https://awario.com                   |
+| 3.      |  BigSpy                  | https://bigspy.com                   |
+| 4.      |  Brand24                 | https://brand24.com                 |
+| 5.      |  BrandMentions           | https://brandmentions.com     |
+| 6.      |  Brandwatch              | https://brandwatch.com           |
+| 7.      |  BuzzSumo                | https://buzzsumo.com               |
+| 8.      |  Clarabridge Engage      | https://clarabridge.com  |
+| 9.      |  ContentStudio           | https://contentstudio.io      |
+| 10.     |  CrowdTangle             | https://crowdtangle.com         |
+| 11.     |  Digimind Social         | https://digimind.com        |
+| 12.     |  Falcon.io               | https://falcon.io                 |
+| 13.     |  Feedly                  | https://feedly.com                   |
+| 14.     |  Foursixty               | https://foursixty.com             |
+| 15.     |  Hootsuite               | https://hootsuite.com             |
+| 16.     |  Iconosquare             | https://iconosquare.com         |
+| 17.     |  Infegy Atlas            | https://infegy.com             |
+| 18.     |  Khoros                  | https://khoros.com                   |
+| 19.     |  Keyhole                 | https://keyhole.co                  |
+| 20.     |  Locowise                | https://locowise.com               |
+| 21.     |  Meltwater               | https://meltwater.com             |
+| 22.     |  Mention                 | https://mention.com                 |
+| 23.     |  NetBase Quid            | https://netbasequid.com        |
+| 24.     |  NewsWhip                | https://newswhip.com               |
+| 25.     |  NUVI                    | https://nuvi.com                       |
+| 26.     |  Oktopost                | https://oktopost.com               |
+| 27.     |  Onalytica               | https://onalytica.com             |
+| 28.     |  Phlanx                  | https://phlanx.com                   |
+| 29.     |  Prowly                  | https://prowly.com                   |
+| 30.     |  Reputology              | https://reputology.com           |
+| 31.     |  Rival IQ                | https://rivaliq.com                |
+| 32.     |  Salesforce Social Studio | https://salesforce.com |
+| 33.     |  Sendible                | https://sendible.com               |
+| 34.     |  Shareablee              | https://shareablee.com           |
+| 35.     |  Simply Measured         | https://simplymeasured.com  |
+| 36.     |  Socialbakers            | https://socialbakers.com       |
+| 37.     |  SocialBee               | https://socialbee.io               |
+| 38.     |  Socialinsider           | https://socialinsider.io       |
+| 39.     |  SocialMention           | https://socialmention.com      |
+| 40.     |  SocialPilot             | https://socialpilot.co                         |
+| 41.     |  Social Report           | https://socialreport.com                       |
+| 42.     |  Sprinklr                | https://sprinklr.com                           |
+| 43.     |  Sprout Social           | https://sproutsocial.com                       |
+| 44.     |  Synthesio               | https://synthesio.com                          |
+| 45.     |  Talkwalker              | https://talkwalker.com                         |
+| 46.     |  Traackr                 | https://traackr.com                            |
+| 47.     |  TrendKite               | https://trendkite.com                          |
+| 48.     |  TweetReach by Union Metrics | https://unionmetrics.com                   |
+| 49.     |  Unmetric                | https://unmetric.com                           |
+| 50.     |  Zoho Social             | https://zoho.com/social                        |
 
 
 ---
@@ -378,56 +378,56 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 | Αριθμός | Όνομα Εργαλείου         | Σύνδεσμος                                      |
 |---------|--------------------------|------------------------------------------------|
-| 1.      | [Agorapulse]             | [Agorapulse](https://www.agorapulse.com)        |
-| 2.      | [Brandwatch]             | [Brandwatch](https://www.brandwatch.com)        |
-| 3.      | [BuzzSumo]               | [BuzzSumo](https://www.buzzsumo.com)            |
-| 4.      | [Clarabridge]            | [Clarabridge](https://www.clarabridge.com)      |
-| 5.      | [Digimind]               | [Digimind](https://www.digimind.com)            |
-| 6.      | [Falcon.io]              | [Falcon.io](https://www.falcon.io)              |
-| 7.      | [Hootsuite]              | [Hootsuite](https://www.hootsuite.com)          |
-| 8.      | [Iconosquare]            | [Iconosquare](https://www.iconosquare.com)      |
-| 9.      | [Khoros]                 | [Khoros](https://www.khoros.com)                |
-| 10.     | [Meltwater]              | [Meltwater](https://www.meltwater.com)          |
-| 11.     | [Mention]                | [Mention](https://www.mention.com)              |
-| 12.     | [NetBase Quid]           | [NetBase Quid](https://www.netbasequid.com)     |
-| 13.     | [NewsWhip]               | [NewsWhip](https://www.newswhip.com)            |
-| 14.     | [NUVI]                   | [NUVI](https://www.nuvi.com)                    |
-| 15.     | [Oktopost]               | [Oktopost](https://www.oktopost.com)            |
-| 16.     | [Phlanx]                 | [Phlanx](https://www.phlanx.com)                |
-| 17.     | [Prowly]                 | [Prowly](https://www.prowly.com)                |
-| 18.     | [Reputology]             | [Reputology](https://www.reputology.com)        |
-| 19.     | [Rival IQ]               | [Rival IQ](https://www.rivaliq.com)             |
-| 20.     | [Salesforce Social Studio] | [Salesforce Social Studio](https://www.salesforce.com) |
-| 21.     | [Sendible]               | [Sendible](https://www.sendible.com)            |
-| 22.     | [Shareablee]             | [Shareablee](https://www.shareablee.com)        |
-| 23.     | [Socialbakers]           | [Socialbakers](https://www.socialbakers.com)    |
-| 24.     | [SocialBee]              | [SocialBee](https://www.socialbee.io)           |
-| 25.     | [Socialinsider]          | [Socialinsider](https://www.socialinsider.io)   |
-| 26.     | [SocialMention]          | [SocialMention](https://www.socialmention.com)  |
-| 27.     | [SocialPilot]            | [SocialPilot](https://www.socialpilot.co)       |
-| 28.     | [Social Report]          | [Social Report](https://www.socialreport.com)   |
-| 29.     | [Sprinklr]               | [Sprinklr](https://www.sprinklr.com)            |
-| 30.     | [Sprout Social]          | [Sprout Social](https://www.sproutsocial.com)   |
-| 31.     | [Synthesio]              | [Synthesio](https://www.synthesio.com)          |
-| 32.     | [Talkwalker]             | [Talkwalker](https://www.talkwalker.com)        |
-| 33.     | [Traackr]                | [Traackr](https://www.traackr.com)              |
-| 34.     | [TrendKite]              | [TrendKite](https://www.trendkite.com)          |
-| 35.     | [TweetReach by Union Metrics] | [TweetReach](https://www.unionmetrics.com)   |
-| 36.     | [Unmetric]               | [Unmetric](https://www.unmetric.com)            |
-| 37.     | [Zoho Social]            | [Zoho Social](https://www.zoho.com/social)      |
-| 38.     | [Buzzlogix]              | [Buzzlogix](https://www.buzzlogix.com)          |
-| 39.     | [PostBeyond]             | [PostBeyond](https://www.postbeyond.com)       |
-| 40.     | [SocialRank]             | [SocialRank](https://www.socialrank.com)        |
-| 41.     | [InfluencerDB]           | [InfluencerDB](https://www.influencerdb.com)    |
-| 42.     | [Keyhole]                | [Keyhole](https://www.keyhole.co)               |
-| 43.     | [Klear]                  | [Klear](https://www.klear.com)                  |
-| 44.     | [Upfluence]              | [Upfluence](https://www.upfluence.com)          |
-| 45.     | [TrackMaven]             | [TrackMaven](https://www.trackmaven.com)        |
-| 46.     | [Sumall]                 | [Sumall](https://www.sumall.com)                |
-| 47.     | [Reputation.com]         | [Reputation.com](https://www.reputation.com)    |
-| 48.     | [Nimble]                 | [Nimble](https://www.nimble.com)                |
-| 49.     | [Hootsuite Insights]     | [Hootsuite Insights](https://www.hootsuite.com) |
-| 50.     | [Falcon Social]          | [Falcon Social](https://www.falcon.io)          |
+| 1.      |  Agorapulse              | https://www.agorapulse.com        |
+| 2.      |  Brandwatch              | https://www.brandwatch.com        |
+| 3.      |  BuzzSumo]               | https://www.buzzsumo.com            |
+| 4.      |  Clarabridge]            | https://www.clarabridge.com      |
+| 5.      |  Digimind]               | https://www.digimind.com            |
+| 6.      |  Falcon.io]              | https://www.falcon.io              |
+| 7.      |  Hootsuite]              | https://www.hootsuite.com          |
+| 8.      |  Iconosquare]            | https://www.iconosquare.com      |
+| 9.      |  Khoros]                 | https://www.khoros.com                |
+| 10.     |  Meltwater]              | https://www.meltwater.com          |
+| 11.     |  Mention]                | https://www.mention.com              |
+| 12.     |  NetBase Quid]           | https://www.netbasequid.com     |
+| 13.     |  NewsWhip]               | https://www.newswhip.com            |
+| 14.     |  NUVI]                   | https://www.nuvi.com                    |
+| 15.     |  Oktopost]               | https://www.oktopost.com            |
+| 16.     |  Phlanx]                 | https://www.phlanx.com                |
+| 17.     |  Prowly]                 | https://www.prowly.com                |
+| 18.     |  Reputology]             | https://www.reputology.com        |
+| 19.     |  Rival IQ]               | https://www.rivaliq.com             |
+| 20.     |  Salesforce Social Studio| https://www.salesforce.com |
+| 21.     |  Sendible]               | https://www.sendible.com            |
+| 22.     |  Shareablee]             | https://www.shareablee.com        |
+| 23.     |  Socialbakers]           | https://www.socialbakers.com    |
+| 24.     |  SocialBee]              | https://www.socialbee.io           |
+| 25.     |  Socialinsider]          | https://www.socialinsider.io   |
+| 26.     |  SocialMention]          | https://www.socialmention.com  |
+| 27.     |  SocialPilot]            | https://www.socialpilot.co       |
+| 28.     |  Social Report]          | https://www.socialreport.com   |
+| 29.     |  Sprinklr]               | https://www.sprinklr.com            |
+| 30.     |  Sprout Social]          | https://www.sproutsocial.com   |
+| 31.     |  Synthesio]              | https://www.synthesio.com          |
+| 32.     |  Talkwalker]             | https://www.talkwalker.com        |
+| 33.     |  Traackr]                | https://www.traackr.com              |
+| 34.     |  TrendKite]              | https://www.trendkite.com          |
+| 35.     |  TweetReach by Union Metrics] | https://www.unionmetrics.com   |
+| 36.     |  Unmetric]               | https://www.unmetric.com            |
+| 37.     |  Zoho Social]            | https://www.zoho.com/social      |
+| 38.     |  Buzzlogix]              | https://www.buzzlogix.com          |
+| 39.     |  PostBeyond]             | https://www.postbeyond.com       |
+| 40.     |  SocialRank]             | https://www.socialrank.com        |
+| 41.     |  InfluencerDB]           | https://www.influencerdb.com    |
+| 42.     |  Keyhole]                | https://www.keyhole.co               |
+| 43.     |  Klear]                  | https://www.klear.com                  |
+| 44.     |  Upfluence]              | https://www.upfluence.com          |
+| 45.     |  TrackMaven]             | https://www.trackmaven.com        |
+| 46.     |  Sumall]                 | https://www.sumall.com                |
+| 47.     |  Reputation.com]         | https://www.reputation.com    |
+| 48.     |  Nimble]                 | https://www.nimble.com                |
+| 49.     |  Hootsuite Insights]     | https://www.hootsuite.com |
+| 50.     |  Falcon Social]          | https://www.falcon.io          |
 
 ---
 
