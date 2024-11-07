@@ -2686,226 +2686,9 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 ---
 
 <details>
-  <summary>Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική</summary>
-
-## Διεθνή Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική
-
-| Νο. | Όνομα Ιστοσελίδας             | URL                                              |
-|-----|-------------------------------|--------------------------------------------------|
-| 1   | Google Translate               | https://translate.google.com/                    |
-| 2   | DeepL                          | https://www.deepl.com/                           |
-| 3   | Grammarly                      | https://www.grammarly.com/                       |
-| 4   | ProWritingAid                  | https://prowritingaid.com/                       |
-| 5   | Microsoft Translator           | https://www.microsoft.com/en-us/translator/       |
-| 6   | Reverso                        | https://www.reverso.net/                         |
-| 7   | Linguee                        | https://www.linguee.com/                         |
-| 8   | Babylon                        | https://www.babylon-software.com/                 |
-| 9   | QuillBot                       | https://quillbot.com/                            |
-| 10  | Wordtune                       | https://www.wordtune.com/                        |
-| 11  | Ginger Software                | https://www.gingersoftware.com/                  |
-| 12  | WhiteSmoke                     | https://www.whitesmoke.com/                      |
-| 13  | Smartling                      | https://www.smartling.com/                       |
-| 14  | SDL Trados Studio              | https://www.sdl.com/                              |
-| 15  | Memsource                      | https://www.memsource.com/                       |
-| 16  | iTranslate                     | https://www.itranslate.com/                      |
-| 17  | Apertium                       | https://www.apertium.org/                        |
-| 18  | TextRanch                       | https://www.textranch.com/                       |
-| 19  | SentenceCheck                  | https://www.sentencecheckup.com/                  |
-| 20  | Translate.com                  | https://www.translate.com/                       |
-| 21  | WordReference                  | https://www.wordreference.com/                   |
-| 22  | Lingvist                        | https://lingvist.com/                            |
-| 23  | Papago                         | https://papago.naver.com/                        |
-| 24  | BabelFish                      | https://www.babelfish.com/                       |
-| 25  | Translate Now                  | https://www.translatenow.com/                    |
-| 26  | Yandex Translate               | https://translate.yandex.com/                    |
-| 27  | Lingoda                        | https://www.lingoda.com/                         |
-| 28  | iTalki                         | https://www.italki.com/                          |
-| 29  | MyMemory                       | https://mymemory.translated.net/                 |
-| 30  | Vocre                          | https://vocre.com/                               |
-| 31  | Verbix                         | https://www.verbix.com/                          |
-| 32  | LanguageTool                   | https://languagetool.org/                        |
-| 33  | Paralink                       | https://www.paralink.com/                        |
-| 34  | Speakly                        | https://www.speakly.me/                          |
-| 35  | Conjugation.com                | https://www.conjugation.com/                     |
-| 36  | PONS                           | https://en.pons.com/                             |
-| 37  | LingoDeer                      | https://www.lingodeer.com/                       |
-| 38  | Wordnik                        | https://www.wordnik.com/                         |
-| 39  | Lexico                         | https://www.lexico.com/                          |
-| 40  | Tandem                         | https://www.tandem.net/                          |
-| 41  | Deepl API                      | https://www.deepl.com/pro#developer              |
-| 42  | Smart Translate                | https://www.smarttranslate.com/                   |
-| 43  | TextMaster                     | https://www.textmaster.com/                      |
-| 44  | Translate Shell                | https://www.gnu.org/software/translate/           |
-| 45  | iTranscribe                    | https://itranscribe.com/                         |
-| 46  | SubTrans                       | https://www.subtrans.com/                        |
-| 47  | Unbabel                        | https://www.unbabel.com/                         |
-| 48  | Gengo                          | https://gengo.com/                               |
-| 49  | Transifex                      | https://www.transifex.com/                       |
-| 50  | MateCat                        | https://www.matecat.com/                         |
-| 51  | Clarity English                | https://www.clarityenglish.com/                  |
-| 52  | Lingvist                        | https://www.lingvist.com/                        |
-| 53  | TextExpander                   | https://textexpander.com/                        |
-| 54  | Translated.net                 | https://www.translated.net/                      |
-| 55  | WordPerfect                    | https://www.wordperfect.com/                     |
-| 56  | Kudo                           | https://kudoway.com/                             |
-| 57  | Forvo                          | https://forvo.com/                               |
-| 58  | TTSReader                      | https://ttsreader.com/                           |
-| 59  | Spoke                           | https://www.spokeapp.com/                        |
-| 60  | DeepL for Teams                | https://www.deepl.com/teams/                     |
-| 61  | Transcriber                    | https://www.transcriber.com/                     |
-| 62  | Notion                         | https://www.notion.so/                           |
-| 63  | Evernote                       | https://evernote.com/                            |
-| 64  | Grammarly Business             | https://www.grammarly.com/business/              |
-| 65  | Proofread Bot                  | https://www.proofreadbot.com/                    |
-| 66  | Scrivener                      | https://www.literatureandlatte.com/scrivener/     |
-| 67  | Translation Exchange           | https://www.translationexchange.com/             |
-| 68  | Amara                          | https://amara.org/                               |
-| 69  | Memrise                        | https://www.memrise.com/                         |
-| 70  | Edubirdie                      | https://edubirdie.com/                           |
-| 71  | TextRanch                      | https://www.textranch.com/                       |
-| 72  | EnAGO                          | https://www.enago.com/                           |
-| 73  | Expert Translator              | https://www.experttranslator.com/                |
-| 74  | Polylang                       | https://polylang.pro/                            |
-| 75  | WPML                           | https://wpml.org/                                |
-| 76  | SimulTrans                     | https://www.simultrans.com/                      |
-| 77  | Lingualia                       | https://www.lingualia.com/                       |
-| 78  | ReadLang                       | https://readlang.com/                            |
-| 79  | Yabla                          | https://www.yabla.com/                           |
-| 80  | Bab.la                         | https://www.babla.com/                           |
-| 81  | Google Cloud Translation API   | https://cloud.google.com/translate/              |
-| 82  | TextGrabber                    | https://www.textgrabber.com/                     |
-| 83  | Smartling                      | https://www.smartling.com/                       |
-| 84  | TranslatorsCafe                | https://www.translatorscafe.com/                 |
-| 85  | PhraseApp                      | https://www.phraseapp.com/                       |
-| 86  | TransPerfect                   | https://www.transperfect.com/                    |
-| 87  | Crowdin                        | https://www.crowdin.com/                         |
-| 88  | Localize                       | https://www.localize.io/                         |
-| 89  | One Hour Translation           | https://www.onehourtranslation.com/              |
-| 90  | Translated.io                  | https://www.translated.io/                       |
-| 91  | BabelEdit                      | https://www.bableedit.com/                       |
-| 92  | TranscribeMe                   | https://www.transcribeme.com/                    |
-| 93  | GoTranscript                   | https://gotranscript.com/                        |
-| 94  | Speechmatics                   | https://www.speechmatics.com/                    |
-| 95  | Expensify                      | https://www.expensify.com/                       |
-| 96  | ZipYourLip                     | https://www.zipyourlip.com/                      |
-| 97  | Seeker.io                      | https://seeker.io/                               |
-| 98  | Transcriber Pro                | https://www.transcriberpro.com/                  |
-| 99  | Trint                          | https://www.trint.com/                           |
-| 100 | Sonix                          | https://sonix.ai/                                |
-
-## Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική (Ελληνικά)
-
-| Νο. | Όνομα Ιστοσελίδας               | URL                                              |
-|-----|----------------------------------|--------------------------------------------------|
-| 1   | Google Translate                | https://translate.google.gr/                     |
-| 2   | Reverso                        | https://www.reverso.net/el/                      |
-| 3   | WordReference                   | https://www.wordreference.com/el/                 |
-| 4   | Grammatical                     | https://www.grammatical.gr/                      |
-| 5   | Σύνταξη (Syntax.gr)             | https://www.syntax.gr/                           |
-| 6   | ΕΛΛΗΝΙΚΗ ΟΡΘΟΓΡΑΦΙΑ            | https://www.orthografos.gr/                      |
-| 7   | Μετάφραση ΕΛΛΗΝΙΚΑ             | https://www.mεταφραση.gr/                        |
-| 8   | Γλωσσική Ανάλυση               | https://www.glosanalysis.gr/                     |
-| 9   | GreekSpell                      | https://www.greekspell.gr/                       |
-| 10  | SyntaxChecker                   | https://www.syntaxchecker.gr/                    |
-| 11  | Εργαλείο Ορθογραφίας           | https://www.orthosyn.gr/                         |
-| 12  | Ελληνική Γραμματική            | https://www.grammatiche.gr/                      |
-| 13  | Λεξικό Ελληνικής Γλώσσας       | https://www.lexiko.gr/                           |
-| 14  | Μετάφραση από Ελληνικά σε Αγγλικά | https://www.el-angliki.gr/                      |
-| 15  | Elliniki Lexi                   | https://www.elliniki-lexi.gr/                    |
-| 16  | Ελληνικό Λεξικό                | https://www.ellexiko.gr/                         |
-| 17  | Greek Grammar Checker           | https://www.grammarchecker.gr/                   |
-| 18  | Greek Language Tools            | https://www.greeklanguage.gr/                     |
-| 19  | Ελληνοαγγλικό Λεξικό           | https://www.elliniko-lexiko.gr/                   |
-| 20  | Συμπλήρωμα Ελληνικής Σύνταξης  | https://www.syntaksi.gr/                         |
-| 21  | Ελληνική Δομή                   | https://www.ellinikidomi.gr/                     |
-| 22  | Δημιουργία Κειμένου για Μετάφραση | https://www.texttranslation.gr/                 |
-| 23  | Φωνητική Αναγνώριση Ελληνικών  | https://www.phonetics.gr/                        |
-| 24  | Εργαλείο Μετάφρασης Κειμένου   | https://www.translation.gr/                      |
-| 25  | Μεταφραστικός Οδηγός           | https://www.metafrastis.gr/                      |
-| 26  | Πολυγλωσσική Υποστήριξη        | https://www.polyglottools.gr/                    |
-| 27  | Ελληνικό Σημειωματάριο Γλώσσας | https://www.greekdictionary.gr/                   |
-| 28  | Ελληνική Ορθογραφία            | https://www.orthografe.gr/                       |
-| 29  | Σύνταξη και Γραμματική Ελλήνων | https://www.syntaksi.gr/                         |
-| 30  | Διόρθωση Κειμένων Ελληνικά     | https://www.diorothosi.gr/                       |
-| 31  | Γλωσσική Βοήθεια               | https://www.glossiki.gr/                         |
-| 32  | Ελληνικό Λεξικό Σύνταξης       | https://www.greek-syntax.gr/                     |
-| 33  | Μετάφραση Online               | https://www.metalex.gr/                          |
-| 34  | Ανάλυση Ελληνικών Γλωσσών      | https://www.analysiglossas.gr/                   |
-| 35  | Ελληνικό Λεξικό Αντιστοιχιών    | https://www.lexiconmatching.gr/                  |
-| 36  | Αντίστροφο Λεξικό              | https://www.antistrofolexiko.gr/                 |
-| 37  | Online Ορθογράφος               | https://www.orthographos.gr/                     |
-| 38  | Ελληνική Σύνταξη και Γραμματική | https://www.syntaxis.gr/                         |
-| 39  | Γλωσσικές Λύσεις               | https://www.glossolutions.gr/                    |
-| 40  | Λεξικό της Ελληνικής Γλώσσας   | https://www.lexikoellinikis.gr/                  |
-| 41  | Μετάφραση για Έλληνες          | https://www.metafraser.gr/                       |
-| 42  | Συντακτικό Έργαλεία            | https://www.syntaxtools.gr/                      |
-| 43  | GrammarCheck                   | https://www.grammarcheck.gr/                     |
-| 44  | Ελληνικά για Μαθητές           | https://www.ellinikamaxites.gr/                  |
-| 45  | Ορθογραφία και Σύνταξη         | https://www.syntagxigraps.gr/                    |
-| 46  | Λεξικό Εκπαίδευσης             | https://www.edulexiko.gr/                        |
-| 47  | Μετάφραση Ελληνικών σε Ξένες Γλώσσες | https://www.el-translate.gr/                    |
-| 48  | Συντακτικό Ελληνικών Εργαλείων | https://www.syntactictools.gr/                   |
-| 49  | Online Λεξικό Ελληνοαγγλικό    | https://www.elliniki-angliki.gr/                 |
-| 50  | Σύνταξη για Επαγγελματίες       | https://www.expertsyntax.gr/                     |
-| 51  | Σύνταξη για Σπουδαστές         | https://www.studentsyntax.gr/                    |
-| 52  | Φρασεολογία της Ελληνικής Γλώσσας | https://www.greekphrases.gr/                     |
-| 53  | Κριτική Σύνταξης               | https://www.criticalsyntax.gr/                   |
-| 54  | Βοηθητικά Γλωσσικά Εργαλεία    | https://www.helpgreek.gr/                        |
-| 55  | Εργαλείο Κειμένων              | https://www.texttools.gr/                        |
-| 56  | Ελληνική Ορθογραφία Online     | https://www.orthographiaonline.gr/                |
-| 57  | Γραμματική του Ελληνικού Λόγου | https://www.grgrammar.gr/                        |
-| 58  | Βοήθεια Σύνταξης Κειμένων      | https://www.texthelp.gr/                         |
-| 59  | Μάθε Γραμματική                | https://www.learngrammar.gr/                     |
-| 60  | Πολυγλωσσική Μετάφραση         | https://www.multilingualtranslate.gr/             |
-| 61  | Συμβουλές για Μετάφραση        | https://www.translationhelp.gr/                  |
-| 62  | Μεταφραστικά Εργαλεία Online    | https://www.translationtools.gr/                 |
-| 63  | Ελληνικό Λεξικό Αργκό         | https://www.greekargot.gr/                       |
-| 64  | Λεξικό με Αντίστροφη Μετάφραση | https://www.reverselexico.gr/                    |
-| 65  | Γλωσσική Υποστήριξη            | https://www.glosssupport.gr/                     |
-| 66  | Μετάφραση για Τεχνικούς        | https://www.techtranslation.gr/                  |
-| 67  | Λεξικό Χρηστικών Όρων         | https://www.uselexicon.gr/                       |
-| 68  | Ορθογραφία και Γραμματική Γενική | https://www.grammarcheck.gr/                     |
-| 69  | Μετάφραση σε Πραγματικό Χρόνο  | https://www.realtime-translate.gr/                |
-| 70  | Συντακτικό Διορθώσεων          | https://www.syntaxcorrector.gr/                   |
-| 71  | Μετάφραση με AI                | https://www.aimeta.gr/                           |
-| 72  | Ειδικό Λεξικό Επιστημονικής Μετάφρασης | https://www.scientificlexicon.gr/              |
-| 73  | Εργαλείο Φωνητικής Αναγνώρισης | https://www.speechtools.gr/                      |
-| 74  | Διόρθωση Κειμένων Online       | https://www.textcorrect.gr/                      |
-| 75  | Σύγχρονη Ελληνική Γραμματική   | https://www.modernhellenic.gr/                   |
-| 76  | Βοηθός Μετάφρασης Κειμένων     | https://www.textassistant.gr/                    |
-| 77  | Λεξικό για Ξένες Γλώσσες       | https://www.foreignlexicon.gr/                   |
-| 78  | Εργαλείο Ανάλυσης Κειμένων     | https://www.textanalysis.gr/                     |
-| 79  | Διορθώτης Γλώσσας             | https://www.languagedoctor.gr/                   |
-| 80  | Προτεινόμενα Λεξικά            | https://www.suggestedlexicons.gr/                |
-| 81  | Παράδειγμα Μετάφρασης         | https://www.translationexamples.gr/              |
-| 82  | Εργαλείο Δημιουργίας Γλωσσών   | https://www.languagecreation.gr/                 |
-| 83  | Πολυγλωσσική Γραμματική        | https://www.multi-languagegrammar.gr/            |
-| 84  | Εργαλείο για Τη Σύνταξη Κειμένων | https://www.textwritingtools.gr/                |
-| 85  | Ορθογραφία Ελληνικών Κειμένων  | https://www.hellenicspellcheck.gr/                |
-| 86  | Εργαλείο Γραμματικής Σημείων   | https://www.grammarpoints.gr/                    |
-| 87  | Κείμενο Χωρίς Λάθη            | https://www.errorfreegr.gr/                      |
-| 88  | Έλεγχος Γλωσσικής Σύνταξης     | https://www.languagecheck.gr/                    |
-| 89  | Ελληνική Γλώσσα για Εκπαιδευτικούς | https://www.teachersgreeklanguage.gr/            |
-| 90  | Ακριβής Μετάφραση             | https://www.accurate-translate.gr/                |
-| 91  | Βοηθητικό Λεξικό Ελληνικών     | https://www.assistlexicon.gr/                    |
-| 92  | Μεταφραστικά Εργαλεία για Σπουδαστές | https://www.studenttranslationtools.gr/        |
-| 93  | Ελληνική Μετάφραση Γραφείων   | https://www.office-translate.gr/                  |
-| 94  | Γλωσσική Ανάλυση Χωρίς Κόπο    | https://www.easylanguageanalysis.gr/             |
-| 95  | Διόρθωση Ελληνικών Κειμένων    | https://www.correctgr.gr/                        |
-| 96  | Ελληνικά Λεξικά για Μάθηση    | https://www.greekdictionaries.gr/                 |
-| 97  | Γραμματική Εργαλεία Ανάλυσης   | https://www.grammaranalysis.gr/                  |
-| 98  | Μετάφραση με Σύνθεση Γλώσσας  | https://www.languagecomposite.gr/                |
-| 99  | Σύστημα Διορθώσεων            | https://www.textsystem.gr/                       |
-| 100 | Πολυγλωσσικά Εργαλεία         | https://www.multi-lingualtools.gr/               |
-
-</details>
-
----
-
-<details>
   <summary>OPSEC - Counterintelligence (Operational Security) - ΕΠΙΣΑ - Ευφυής Έρευνα Αντιμέτρων (Επιχειρησιακή Ασφάλεια)</summary>
 
-  # OPSEC (Operational Security) - ΕΠΙΣΑ (Επιχειρησιακή Ασφάλεια)
+  # 12. OPSEC (Operational Security) - ΕΠΙΣΑ (Επιχειρησιακή Ασφάλεια)
 
 | Αριθμός | Εργαλείο | Σύνδεσμος |
 | --- | --- | --- |
@@ -3112,4 +2895,219 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 </details>
 
-  
+---
+
+<details>
+  <summary>I. Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική</summary>
+
+## Διεθνή Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική
+
+| Νο. | Όνομα Ιστοσελίδας             | URL                                              |
+|-----|-------------------------------|--------------------------------------------------|
+| 1   | Google Translate               | https://translate.google.com/                    |
+| 2   | DeepL                          | https://www.deepl.com/                           |
+| 3   | Grammarly                      | https://www.grammarly.com/                       |
+| 4   | ProWritingAid                  | https://prowritingaid.com/                       |
+| 5   | Microsoft Translator           | https://www.microsoft.com/en-us/translator/       |
+| 6   | Reverso                        | https://www.reverso.net/                         |
+| 7   | Linguee                        | https://www.linguee.com/                         |
+| 8   | Babylon                        | https://www.babylon-software.com/                 |
+| 9   | QuillBot                       | https://quillbot.com/                            |
+| 10  | Wordtune                       | https://www.wordtune.com/                        |
+| 11  | Ginger Software                | https://www.gingersoftware.com/                  |
+| 12  | WhiteSmoke                     | https://www.whitesmoke.com/                      |
+| 13  | Smartling                      | https://www.smartling.com/                       |
+| 14  | SDL Trados Studio              | https://www.sdl.com/                              |
+| 15  | Memsource                      | https://www.memsource.com/                       |
+| 16  | iTranslate                     | https://www.itranslate.com/                      |
+| 17  | Apertium                       | https://www.apertium.org/                        |
+| 18  | TextRanch                       | https://www.textranch.com/                       |
+| 19  | SentenceCheck                  | https://www.sentencecheckup.com/                  |
+| 20  | Translate.com                  | https://www.translate.com/                       |
+| 21  | WordReference                  | https://www.wordreference.com/                   |
+| 22  | Lingvist                        | https://lingvist.com/                            |
+| 23  | Papago                         | https://papago.naver.com/                        |
+| 24  | BabelFish                      | https://www.babelfish.com/                       |
+| 25  | Translate Now                  | https://www.translatenow.com/                    |
+| 26  | Yandex Translate               | https://translate.yandex.com/                    |
+| 27  | Lingoda                        | https://www.lingoda.com/                         |
+| 28  | iTalki                         | https://www.italki.com/                          |
+| 29  | MyMemory                       | https://mymemory.translated.net/                 |
+| 30  | Vocre                          | https://vocre.com/                               |
+| 31  | Verbix                         | https://www.verbix.com/                          |
+| 32  | LanguageTool                   | https://languagetool.org/                        |
+| 33  | Paralink                       | https://www.paralink.com/                        |
+| 34  | Speakly                        | https://www.speakly.me/                          |
+| 35  | Conjugation.com                | https://www.conjugation.com/                     |
+| 36  | PONS                           | https://en.pons.com/                             |
+| 37  | LingoDeer                      | https://www.lingodeer.com/                       |
+| 38  | Wordnik                        | https://www.wordnik.com/                         |
+| 39  | Lexico                         | https://www.lexico.com/                          |
+| 40  | Tandem                         | https://www.tandem.net/                          |
+| 41  | Deepl API                      | https://www.deepl.com/pro#developer              |
+| 42  | Smart Translate                | https://www.smarttranslate.com/                   |
+| 43  | TextMaster                     | https://www.textmaster.com/                      |
+| 44  | Translate Shell                | https://www.gnu.org/software/translate/           |
+| 45  | iTranscribe                    | https://itranscribe.com/                         |
+| 46  | SubTrans                       | https://www.subtrans.com/                        |
+| 47  | Unbabel                        | https://www.unbabel.com/                         |
+| 48  | Gengo                          | https://gengo.com/                               |
+| 49  | Transifex                      | https://www.transifex.com/                       |
+| 50  | MateCat                        | https://www.matecat.com/                         |
+| 51  | Clarity English                | https://www.clarityenglish.com/                  |
+| 52  | Lingvist                        | https://www.lingvist.com/                        |
+| 53  | TextExpander                   | https://textexpander.com/                        |
+| 54  | Translated.net                 | https://www.translated.net/                      |
+| 55  | WordPerfect                    | https://www.wordperfect.com/                     |
+| 56  | Kudo                           | https://kudoway.com/                             |
+| 57  | Forvo                          | https://forvo.com/                               |
+| 58  | TTSReader                      | https://ttsreader.com/                           |
+| 59  | Spoke                           | https://www.spokeapp.com/                        |
+| 60  | DeepL for Teams                | https://www.deepl.com/teams/                     |
+| 61  | Transcriber                    | https://www.transcriber.com/                     |
+| 62  | Notion                         | https://www.notion.so/                           |
+| 63  | Evernote                       | https://evernote.com/                            |
+| 64  | Grammarly Business             | https://www.grammarly.com/business/              |
+| 65  | Proofread Bot                  | https://www.proofreadbot.com/                    |
+| 66  | Scrivener                      | https://www.literatureandlatte.com/scrivener/     |
+| 67  | Translation Exchange           | https://www.translationexchange.com/             |
+| 68  | Amara                          | https://amara.org/                               |
+| 69  | Memrise                        | https://www.memrise.com/                         |
+| 70  | Edubirdie                      | https://edubirdie.com/                           |
+| 71  | TextRanch                      | https://www.textranch.com/                       |
+| 72  | EnAGO                          | https://www.enago.com/                           |
+| 73  | Expert Translator              | https://www.experttranslator.com/                |
+| 74  | Polylang                       | https://polylang.pro/                            |
+| 75  | WPML                           | https://wpml.org/                                |
+| 76  | SimulTrans                     | https://www.simultrans.com/                      |
+| 77  | Lingualia                       | https://www.lingualia.com/                       |
+| 78  | ReadLang                       | https://readlang.com/                            |
+| 79  | Yabla                          | https://www.yabla.com/                           |
+| 80  | Bab.la                         | https://www.babla.com/                           |
+| 81  | Google Cloud Translation API   | https://cloud.google.com/translate/              |
+| 82  | TextGrabber                    | https://www.textgrabber.com/                     |
+| 83  | Smartling                      | https://www.smartling.com/                       |
+| 84  | TranslatorsCafe                | https://www.translatorscafe.com/                 |
+| 85  | PhraseApp                      | https://www.phraseapp.com/                       |
+| 86  | TransPerfect                   | https://www.transperfect.com/                    |
+| 87  | Crowdin                        | https://www.crowdin.com/                         |
+| 88  | Localize                       | https://www.localize.io/                         |
+| 89  | One Hour Translation           | https://www.onehourtranslation.com/              |
+| 90  | Translated.io                  | https://www.translated.io/                       |
+| 91  | BabelEdit                      | https://www.bableedit.com/                       |
+| 92  | TranscribeMe                   | https://www.transcribeme.com/                    |
+| 93  | GoTranscript                   | https://gotranscript.com/                        |
+| 94  | Speechmatics                   | https://www.speechmatics.com/                    |
+| 95  | Expensify                      | https://www.expensify.com/                       |
+| 96  | ZipYourLip                     | https://www.zipyourlip.com/                      |
+| 97  | Seeker.io                      | https://seeker.io/                               |
+| 98  | Transcriber Pro                | https://www.transcriberpro.com/                  |
+| 99  | Trint                          | https://www.trint.com/                           |
+| 100 | Sonix                          | https://sonix.ai/                                |
+
+##II. Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική (Ελληνικά)
+
+| Νο. | Όνομα Ιστοσελίδας               | URL                                              |
+|-----|----------------------------------|--------------------------------------------------|
+| 1   | Google Translate                | https://translate.google.gr/                     |
+| 2   | Reverso                        | https://www.reverso.net/el/                      |
+| 3   | WordReference                   | https://www.wordreference.com/el/                 |
+| 4   | Grammatical                     | https://www.grammatical.gr/                      |
+| 5   | Σύνταξη (Syntax.gr)             | https://www.syntax.gr/                           |
+| 6   | ΕΛΛΗΝΙΚΗ ΟΡΘΟΓΡΑΦΙΑ            | https://www.orthografos.gr/                      |
+| 7   | Μετάφραση ΕΛΛΗΝΙΚΑ             | https://www.mεταφραση.gr/                        |
+| 8   | Γλωσσική Ανάλυση               | https://www.glosanalysis.gr/                     |
+| 9   | GreekSpell                      | https://www.greekspell.gr/                       |
+| 10  | SyntaxChecker                   | https://www.syntaxchecker.gr/                    |
+| 11  | Εργαλείο Ορθογραφίας           | https://www.orthosyn.gr/                         |
+| 12  | Ελληνική Γραμματική            | https://www.grammatiche.gr/                      |
+| 13  | Λεξικό Ελληνικής Γλώσσας       | https://www.lexiko.gr/                           |
+| 14  | Μετάφραση από Ελληνικά σε Αγγλικά | https://www.el-angliki.gr/                      |
+| 15  | Elliniki Lexi                   | https://www.elliniki-lexi.gr/                    |
+| 16  | Ελληνικό Λεξικό                | https://www.ellexiko.gr/                         |
+| 17  | Greek Grammar Checker           | https://www.grammarchecker.gr/                   |
+| 18  | Greek Language Tools            | https://www.greeklanguage.gr/                     |
+| 19  | Ελληνοαγγλικό Λεξικό           | https://www.elliniko-lexiko.gr/                   |
+| 20  | Συμπλήρωμα Ελληνικής Σύνταξης  | https://www.syntaksi.gr/                         |
+| 21  | Ελληνική Δομή                   | https://www.ellinikidomi.gr/                     |
+| 22  | Δημιουργία Κειμένου για Μετάφραση | https://www.texttranslation.gr/                 |
+| 23  | Φωνητική Αναγνώριση Ελληνικών  | https://www.phonetics.gr/                        |
+| 24  | Εργαλείο Μετάφρασης Κειμένου   | https://www.translation.gr/                      |
+| 25  | Μεταφραστικός Οδηγός           | https://www.metafrastis.gr/                      |
+| 26  | Πολυγλωσσική Υποστήριξη        | https://www.polyglottools.gr/                    |
+| 27  | Ελληνικό Σημειωματάριο Γλώσσας | https://www.greekdictionary.gr/                   |
+| 28  | Ελληνική Ορθογραφία            | https://www.orthografe.gr/                       |
+| 29  | Σύνταξη και Γραμματική Ελλήνων | https://www.syntaksi.gr/                         |
+| 30  | Διόρθωση Κειμένων Ελληνικά     | https://www.diorothosi.gr/                       |
+| 31  | Γλωσσική Βοήθεια               | https://www.glossiki.gr/                         |
+| 32  | Ελληνικό Λεξικό Σύνταξης       | https://www.greek-syntax.gr/                     |
+| 33  | Μετάφραση Online               | https://www.metalex.gr/                          |
+| 34  | Ανάλυση Ελληνικών Γλωσσών      | https://www.analysiglossas.gr/                   |
+| 35  | Ελληνικό Λεξικό Αντιστοιχιών    | https://www.lexiconmatching.gr/                  |
+| 36  | Αντίστροφο Λεξικό              | https://www.antistrofolexiko.gr/                 |
+| 37  | Online Ορθογράφος               | https://www.orthographos.gr/                     |
+| 38  | Ελληνική Σύνταξη και Γραμματική | https://www.syntaxis.gr/                         |
+| 39  | Γλωσσικές Λύσεις               | https://www.glossolutions.gr/                    |
+| 40  | Λεξικό της Ελληνικής Γλώσσας   | https://www.lexikoellinikis.gr/                  |
+| 41  | Μετάφραση για Έλληνες          | https://www.metafraser.gr/                       |
+| 42  | Συντακτικό Έργαλεία            | https://www.syntaxtools.gr/                      |
+| 43  | GrammarCheck                   | https://www.grammarcheck.gr/                     |
+| 44  | Ελληνικά για Μαθητές           | https://www.ellinikamaxites.gr/                  |
+| 45  | Ορθογραφία και Σύνταξη         | https://www.syntagxigraps.gr/                    |
+| 46  | Λεξικό Εκπαίδευσης             | https://www.edulexiko.gr/                        |
+| 47  | Μετάφραση Ελληνικών σε Ξένες Γλώσσες | https://www.el-translate.gr/                    |
+| 48  | Συντακτικό Ελληνικών Εργαλείων | https://www.syntactictools.gr/                   |
+| 49  | Online Λεξικό Ελληνοαγγλικό    | https://www.elliniki-angliki.gr/                 |
+| 50  | Σύνταξη για Επαγγελματίες       | https://www.expertsyntax.gr/                     |
+| 51  | Σύνταξη για Σπουδαστές         | https://www.studentsyntax.gr/                    |
+| 52  | Φρασεολογία της Ελληνικής Γλώσσας | https://www.greekphrases.gr/                     |
+| 53  | Κριτική Σύνταξης               | https://www.criticalsyntax.gr/                   |
+| 54  | Βοηθητικά Γλωσσικά Εργαλεία    | https://www.helpgreek.gr/                        |
+| 55  | Εργαλείο Κειμένων              | https://www.texttools.gr/                        |
+| 56  | Ελληνική Ορθογραφία Online     | https://www.orthographiaonline.gr/                |
+| 57  | Γραμματική του Ελληνικού Λόγου | https://www.grgrammar.gr/                        |
+| 58  | Βοήθεια Σύνταξης Κειμένων      | https://www.texthelp.gr/                         |
+| 59  | Μάθε Γραμματική                | https://www.learngrammar.gr/                     |
+| 60  | Πολυγλωσσική Μετάφραση         | https://www.multilingualtranslate.gr/             |
+| 61  | Συμβουλές για Μετάφραση        | https://www.translationhelp.gr/                  |
+| 62  | Μεταφραστικά Εργαλεία Online    | https://www.translationtools.gr/                 |
+| 63  | Ελληνικό Λεξικό Αργκό         | https://www.greekargot.gr/                       |
+| 64  | Λεξικό με Αντίστροφη Μετάφραση | https://www.reverselexico.gr/                    |
+| 65  | Γλωσσική Υποστήριξη            | https://www.glosssupport.gr/                     |
+| 66  | Μετάφραση για Τεχνικούς        | https://www.techtranslation.gr/                  |
+| 67  | Λεξικό Χρηστικών Όρων         | https://www.uselexicon.gr/                       |
+| 68  | Ορθογραφία και Γραμματική Γενική | https://www.grammarcheck.gr/                     |
+| 69  | Μετάφραση σε Πραγματικό Χρόνο  | https://www.realtime-translate.gr/                |
+| 70  | Συντακτικό Διορθώσεων          | https://www.syntaxcorrector.gr/                   |
+| 71  | Μετάφραση με AI                | https://www.aimeta.gr/                           |
+| 72  | Ειδικό Λεξικό Επιστημονικής Μετάφρασης | https://www.scientificlexicon.gr/              |
+| 73  | Εργαλείο Φωνητικής Αναγνώρισης | https://www.speechtools.gr/                      |
+| 74  | Διόρθωση Κειμένων Online       | https://www.textcorrect.gr/                      |
+| 75  | Σύγχρονη Ελληνική Γραμματική   | https://www.modernhellenic.gr/                   |
+| 76  | Βοηθός Μετάφρασης Κειμένων     | https://www.textassistant.gr/                    |
+| 77  | Λεξικό για Ξένες Γλώσσες       | https://www.foreignlexicon.gr/                   |
+| 78  | Εργαλείο Ανάλυσης Κειμένων     | https://www.textanalysis.gr/                     |
+| 79  | Διορθώτης Γλώσσας             | https://www.languagedoctor.gr/                   |
+| 80  | Προτεινόμενα Λεξικά            | https://www.suggestedlexicons.gr/                |
+| 81  | Παράδειγμα Μετάφρασης         | https://www.translationexamples.gr/              |
+| 82  | Εργαλείο Δημιουργίας Γλωσσών   | https://www.languagecreation.gr/                 |
+| 83  | Πολυγλωσσική Γραμματική        | https://www.multi-languagegrammar.gr/            |
+| 84  | Εργαλείο για Τη Σύνταξη Κειμένων | https://www.textwritingtools.gr/                |
+| 85  | Ορθογραφία Ελληνικών Κειμένων  | https://www.hellenicspellcheck.gr/                |
+| 86  | Εργαλείο Γραμματικής Σημείων   | https://www.grammarpoints.gr/                    |
+| 87  | Κείμενο Χωρίς Λάθη            | https://www.errorfreegr.gr/                      |
+| 88  | Έλεγχος Γλωσσικής Σύνταξης     | https://www.languagecheck.gr/                    |
+| 89  | Ελληνική Γλώσσα για Εκπαιδευτικούς | https://www.teachersgreeklanguage.gr/            |
+| 90  | Ακριβής Μετάφραση             | https://www.accurate-translate.gr/                |
+| 91  | Βοηθητικό Λεξικό Ελληνικών     | https://www.assistlexicon.gr/                    |
+| 92  | Μεταφραστικά Εργαλεία για Σπουδαστές | https://www.studenttranslationtools.gr/        |
+| 93  | Ελληνική Μετάφραση Γραφείων   | https://www.office-translate.gr/                  |
+| 94  | Γλωσσική Ανάλυση Χωρίς Κόπο    | https://www.easylanguageanalysis.gr/             |
+| 95  | Διόρθωση Ελληνικών Κειμένων    | https://www.correctgr.gr/                        |
+| 96  | Ελληνικά Λεξικά για Μάθηση    | https://www.greekdictionaries.gr/                 |
+| 97  | Γραμματική Εργαλεία Ανάλυσης   | https://www.grammaranalysis.gr/                  |
+| 98  | Μετάφραση με Σύνθεση Γλώσσας  | https://www.languagecomposite.gr/                |
+| 99  | Σύστημα Διορθώσεων            | https://www.textsystem.gr/                       |
+| 100 | Πολυγλωσσικά Εργαλεία         | https://www.multi-lingualtools.gr/               |
+
+</details>  
