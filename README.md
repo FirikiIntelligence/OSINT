@@ -26,6 +26,8 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 11. GEOINT - ΓΕΩΠΟΝΟ (Geopolitical Intelligence - Γεωπολιτική Νοημοσύνη): Εστιάζει σε πληροφορίες που αφορούν διεθνείς σχέσεις, συγκρούσεις, και διπλωματικές κινήσεις. Οι πηγές περιλαμβάνουν ειδήσεις για συγκρούσεις, στρατιωτικές εντάσεις, διεθνείς συμφωνίες, και συμμαχίες.
 
+12. OPSEC - Counterintelligence (Operational Security) - ΕΠΙΣΑ - Ευφυής Έρευνα Αντιμέτρων (Επιχειρησιακή Ασφάλεια): Αναφέρεται στη διαδικασία και τα εργαλεία που χρησιμοποιούνται για την προστασία των επιχειρησιακών πληροφοριών από διαρροές και ανιχνεύσεις, εστιάζοντας στην ανωνυμοποίηση, στην αποφυγή παρακολούθησης και στην αποτροπή πρόσβασης σε κρίσιμες πληροφορίες από αντίπαλες δυνάμεις. Επίσης, αφορά την εφαρμογή αντιμέτρων για την ανίχνευση και την αντιμετώπιση πιθανών απειλών, διασφαλίζοντας την ασφάλεια των επιχειρησιακών δραστηριοτήτων και των πληροφοριών.
+
 Το OSINT συνδυάζει τα παραπάνω είδη για να παρέχει ολοκληρωμένες και ακριβείς πληροφορίες που ενισχύουν την κατανόηση της κατάστασης και τη λήψη αποφάσεων. Χρησιμοποιείται εκτενώς σε τομείς όπως η εθνική ασφάλεια, η καταπολέμηση του εγκλήματος, η επιχειρησιακή νοημοσύνη και η στρατηγική ανάλυση. Η ανοιχτή φύση των δεδομένων του OSINT το καθιστά έναν σημαντικό πόρο για την κατανόηση, την πρόληψη και την αντίδραση σε πιθανούς κινδύνους και απειλές.
 
 ---
@@ -1910,6 +1912,161 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 199     | MixRank                         | https://www.mixrank.com/                         |
 | 200     | Survicate                       | https://www.survicate.com/                       |
 
+Διεθνή Εργαλεία Ειδήσεων και Επαλήθευσης
+
+| No. | Website Name             | URL                                        |
+|-----|--------------------------|--------------------------------------------|
+| 1   | Google News              | https://news.google.com/                   |
+| 2   | Reuters                  | https://www.reuters.com/                   |
+| 3   | BBC News                 | https://www.bbc.com/news                   |
+| 4   | The New York Times       | https://www.nytimes.com/                   |
+| 5   | Al Jazeera               | https://www.aljazeera.com/                 |
+| 6   | The Guardian             | https://www.theguardian.com/               |
+| 7   | News.com.au              | https://www.news.com.au/                   |
+| 8   | Associated Press         | https://apnews.com/                        |
+| 9   | The Washington Post      | https://www.washingtonpost.com/            |
+| 10  | Reuters Fact Check       | https://www.reuters.com/fact-check/        |
+| 11  | FactCheck.org            | https://www.factcheck.org/                 |
+| 12  | PolitiFact               | https://www.politifact.com/                |
+| 13  | Snopes                   | https://www.snopes.com/                    |
+| 14  | BBC Reality Check        | https://www.bbc.co.uk/news/reality_check  |
+| 15  | The Verification Junkie  | https://theverificationjunkie.com/         |
+| 16  | Media Bias/Fact Check    | https://mediabiasfactcheck.com/            |
+| 17  | Buzzfeed News            | https://www.buzzfeednews.com/              |
+| 18  | AP Fact Check            | https://apnews.com/ap-fact-check          |
+| 19  | Politico                 | https://www.politico.com/                  |
+| 20  | OpenSecrets              | https://www.opensecrets.org/               |
+| 21  | Fact Checker             | https://www.factchecker.co.uk/             |
+| 22  | Check Your Fact          | https://checkyourfact.com/                |
+| 23  | The Intercept            | https://theintercept.com/                  |
+| 24  | Media Matters            | https://www.mediamatters.org/              |
+| 25  | Reuters Fact Check       | https://www.reuters.com/fact-check/        |
+| 26  | Washington Post Fact Check | https://www.washingtonpost.com/news/fact-checker/ |
+| 27  | The Guardian             | https://www.theguardian.com/               |
+| 28  | The Independent          | https://www.independent.co.uk/             |
+| 29  | Time                     | https://time.com/                         |
+| 30  | Politico                 | https://www.politico.com/                  |
+| 31  | Bloomberg                | https://www.bloomberg.com/                 |
+| 32  | Business Insider         | https://www.businessinsider.com/           |
+| 33  | Wired                    | https://www.wired.com/                     |
+| 34  | Quartz                   | https://qz.com/                            |
+| 35  | TechCrunch               | https://techcrunch.com/                   |
+| 36  | Mashable                 | https://mashable.com/                      |
+| 37  | The Verge                | https://www.theverge.com/                  |
+| 38  | Axios                    | https://www.axios.com/                     |
+| 39  | Fast Company             | https://www.fastcompany.com/               |
+| 40  | The Financial Times      | https://www.ft.com/                        |
+| 41  | Reuters Fact Check       | https://www.reuters.com/fact-check/        |
+| 42  | FactCheck.org            | https://www.factcheck.org/                 |
+| 43  | PolitiFact               | https://www.politifact.com/                |
+| 44  | Snopes                   | https://www.snopes.com/                    |
+| 45  | BBC Reality Check        | https://www.bbc.co.uk/news/reality_check  |
+| 46  | The Verification Junkie  | https://theverificationjunkie.com/         |
+| 47  | Media Bias/Fact Check    | https://mediabiasfactcheck.com/            |
+| 48  | Buzzfeed News            | https://www.buzzfeednews.com/              |
+| 49  | AP Fact Check            | https://apnews.com/ap-fact-check          |
+| 50  | Reuters Fact Check       | https://www.reuters.com/fact-check/        |
+| 51  | Fact Checker             | https://www.factchecker.co.uk/             |
+| 52  | Check Your Fact          | https://checkyourfact.com/                |
+| 53  | The Intercept            | https://theintercept.com/                  |
+| 54  | Media Matters            | https://www.mediamatters.org/              |
+| 55  | Reuters News             | https://www.reuters.com/                   |
+| 56  | The Hill                 | https://thehill.com/                       |
+| 57  | The New York Times       | https://www.nytimes.com/                   |
+| 58  | Wall Street Journal      | https://www.wsj.com/                       |
+| 59  | Global Times             | https://www.globaltimes.cn/                |
+| 60  | The Diplomat             | https://thediplomat.com/                   |
+| 61  | Foreign Policy           | https://foreignpolicy.com/                 |
+| 62  | International Crisis Group | https://www.crisisgroup.org/              |
+| 63  | Stratfor                 | https://www.stratfor.com/                  |
+| 64  | Center for Strategic and International Studies (CSIS) | https://www.csis.org/ |
+| 65  | Council on Foreign Relations (CFR) | https://www.cfr.org/                  |
+| 66  | The Brookings Institution | https://www.brookings.edu/                |
+| 67  | Carnegie Endowment       | https://carnegieendowment.org/             |
+| 68  | Chatham House            | https://www.chathamhouse.org/              |
+| 69  | RAND Corporation         | https://www.rand.org/                      |
+| 70  | Heritage Foundation      | https://www.heritage.org/                  |
+| 71  | Cato Institute           | https://www.cato.org/                      |
+| 72  | The Center for Global Development | https://www.cgdev.org/              |
+| 73  | Inter-American Dialogue  | https://www.thedialogue.org/               |
+| 74  | The United Nations       | https://www.un.org/                        |
+| 75  | World Bank               | https://www.worldbank.org/                 |
+| 76  | Pew Research Center      | https://www.pewresearch.org/               |
+| 77  | World Economic Forum     | https://www.weforum.org/                   |
+| 78  | Institute for Policy Studies | https://ips-dc.org/                     |
+| 79  | Center for American Progress | https://www.americanprogress.org/      |
+| 80  | National Endowment for Democracy | https://www.ned.org/                 |
+| 81  | The National Interest    | https://nationalinterest.org/              |
+| 82  | The Economic Policy Institute | https://www.epi.org/                  |
+| 83  | National Public Radio    | https://www.npr.org/                       |
+| 84  | Voice of America         | https://www.voanews.com/                   |
+| 85  | The Washington Post      | https://www.washingtonpost.com/            |
+| 86  | Deutsche Welle           | https://www.dw.com/en/top-stories/s-9097  |
+| 87  | France 24                | https://www.france24.com/en/               |
+| 88  | Euronews                 | https://www.euronews.com/                  |
+| 89  | The Economist            | https://www.economist.com/                 |
+| 90  | Reuters Global Report    | https://www.reuters.com/                  |
+| 91  | The Nation               | https://www.thenation.com/                 |
+| 92  | MSNBC                    | https://www.msnbc.com/                     |
+| 93  | The Financial Times      | https://www.ft.com/                        |
+| 94  | Politico Europe          | https://www.politico.eu/                   |
+| 95  | France24                 | https://www.france24.com/                 |
+| 96  | VICE News                | https://www.vice.com/en_us/                |
+| 97  | BusinessWeek             | https://www.businessweek.com/              |
+| 98  | New Statesman            | https://www.newstatesman.com/              |
+| 99  | The Spectator            | https://www.spectator.co.uk/               |
+| 100 | The Telegraph            | https://www.telegraph.co.uk/               |
+| 101 | Fox News                 | https://www.foxnews.com/                   |
+| 102 | Sky News                 | https://news.sky.com/                     |
+| 103 | The Independent          | https://www.independent.co.uk/             |
+| 104 | Mirror Online            | https://www.mirror.co.uk/                  |
+| 105 | The Times                | https://www.thetimes.co.uk/                |
+| 106 | Sunday Times             | https://www.thetimes.co.uk/sunday-times    |
+| 107 | USA Today                | https://www.usatoday.com/                  |
+| 108 | The Chicago Tribune      | https://www.chicagotribune.com/            |
+| 109 | Houston Chronicle        | https://www.houstonchronicle.com/          |
+| 110 | The Arizona Republic     | https://www.azcentral.com/                 |
+| 111 | The San Francisco Chronicle | https://www.sfchronicle.com/            |
+| 112 | The Los Angeles Times    | https://www.latimes.com/                   |
+| 113 | The Miami Herald         | https://www.miamiherald.com/               |
+| 114 | The Denver Post          | https://www.denverpost.com/                |
+| 115 | The Detroit News         | https://www.detroitnews.com/               |
+| 116 | The New Jersey Star-Ledger | https://www.nj.com/starledger/            |
+| 117 | The Star                 | https://www.thestar.com/                   |
+| 118 | Newsweek                 | https://www.newsweek.com/                  |
+| 119 | The Sun                  | https://www.thesun.co.uk/                  |
+| 120 | HuffPost                 | https://www.huffpost.com/                  |
+| 121 | The Atlantic             | https://www.theatlantic.com/               |
+| 122 | The Times of India       | https://timesofindia.indiatimes.com/       |
+| 123 | The Hindu                | https://www.thehindu.com/                  |
+| 124 | Indian Express           | https://indianexpress.com/                 |
+| 125 | Economic Times           | https://economictimes.indiatimes.com/      |
+| 126 | Deccan Herald            | https://www.deccanherald.com/              |
+| 127 | Times Now                | https://www.timesnownews.com/              |
+| 128 | Zee News                 | https://zeenews.india.com/                 |
+| 129 | Hindustan Times          | https://www.hindustantimes.com/            |
+| 130 | Outlook India            | https://www.outlookindia.com/              |
+| 131 | NDTV News                | https://www.ndtv.com/                      |
+| 132 | Firstpost                | https://www.firstpost.com/                 |
+| 133 | Financial Express        | https://www.financialexpress.com/          |
+| 134 | Telegraph India          | https://www.telegraphindia.com/            |
+| 135 | The New Indian Express   | https://www.newindianexpress.com/          |
+| 136 | The Week                 | https://www.theweek.com/                   |
+| 137 | The Statesman            | https://www.thestatesman.com/              |
+| 138 | Deccan Chronicle         | https://www.deccanchronicle.com/           |
+| 139 | India Today              | https://www.indiatoday.in/                 |
+| 140 | The Times of Israel      | https://www.timesofisrael.com/             |
+| 141 | The Jerusalem Post       | https://www.jpost.com/                     |
+| 142 | Haaretz                  | https://www.haaretz.com/                   |
+| 143 | The Moscow Times         | https://www.themoscowtimes.com/            |
+| 144 | Sputnik News             | https://sputniknews.com/                   |
+| 145 | RT News                  | https://www.rt.com/                        |
+| 146 | TASS                     | https://tass.com/                          |
+| 147 | The Economic Times       | https://economictimes.indiatimes.com/      |
+| 148 | The Straits Times        | https://www.straitstimes.com/              |
+| 149 | The Japan Times          | https://www.japantimes.co.jp/              |
+| 150 | Bangkok Post             | https://www.bangkokpost.com/               |
+
 ## Ελληνικά Εργαλεία (SOCINT - ΚΟΙΝΟ)
 
 | Αριθμός | Όνομα Εργαλείου                  | Σύνδεσμος                                          |
@@ -2014,6 +2171,111 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 98      | Hellenic Social Insights Hub        | https://www.hellenicsocialinsightshub.gr/            |
 | 99      | Trend Analytics Greece              | https://www.trendanalyticsgreece.gr/                |
 | 100     | Digital Insights Hub Greece         | https://www.digitalinsightshubgreece.gr/            |
+
+##Ελληνικά Εργαλεία Ειδήσεων και Επαλήθευσης
+
+| Νο. | Όνομα Ιστοσελίδας         | URL                                          |
+|-----|---------------------------|----------------------------------------------|
+| 1   | Καθημερινή                | https://www.kathimerini.gr/                   |
+| 2   | Εφημερίδα Των Συντακτών    | https://www.efsyn.gr/                        |
+| 3   | Ναυτεμπορική              | https://www.naftemporiki.gr/                  |
+| 4   | Το Βήμα                    | https://www.tovima.gr/                       |
+| 5   | ΣΚΑΪ                      | https://www.skai.gr/                         |
+| 6   | Πρώτο Θέμα                | https://www.protothema.gr/                   |
+| 7   | News247                   | https://www.news247.gr/                      |
+| 8   | Zougla                    | https://www.zougla.gr/                       |
+| 9   | ΠΑΡΑΠΟΛΙΤΙΚΑ              | https://www.parapolitika.gr/                  |
+| 10  | Real.gr                   | https://www.real.gr/                         |
+| 11  | ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΣ          | https://www.eleftherostypos.gr/               |
+| 12  | Δημοκρατία                | https://www.dimokratianews.gr/                |
+| 13  | Alpha News                | https://www.alphanews.live/                   |
+| 14  | Το Ποντίκι                | https://www.topontiki.gr/                    |
+| 15  | In.gr                     | https://www.in.gr/                           |
+| 16  | Voria                     | https://www.voria.gr/                        |
+| 17  | ΕΡΤ                       | https://www.ert.gr/                          |
+| 18  | Newsbomb.gr               | https://www.newsbomb.gr/                     |
+| 19  | TVXS                      | https://tvxs.gr/                             |
+| 20  | Εφημερίδα Ελευθεροτυπία   | https://www.enet.gr/                         |
+| 21  | Ριζοσπάστης               | https://www.rizospastis.gr/                  |
+| 22  | ΣΥΝΤΑΚΤΗΣ                 | https://www.syntaktis.gr/                    |
+| 23  | iefimerida                 | https://www.iefimerida.gr/                   |
+| 24  | Lifo                      | https://www.lifo.gr/                         |
+| 25  | Cosmote TV News           | https://www.cosmote.gr/tv/                   |
+| 26  | e-kathimerini             | https://www.e-kathimerini.gr/                |
+| 27  | Newsit                    | https://www.newsit.gr/                       |
+| 28  | City Press                | https://www.citypress.gr/                    |
+| 29  | Hellenic News             | https://hellenicnews.com/                    |
+| 30  | Aftodioikisi              | https://www.aftodioikisi.gr/                 |
+| 31  | Hellenic Broadcasting Corporation | https://www.ert.gr/                     |
+| 32  | THE TOC                   | https://www.thetoc.gr/                       |
+| 33  | ΚΟΝΤΡΑ                    | https://www.kontranews.gr/                   |
+| 34  | The Press Project         | https://thepressproject.gr/                  |
+| 35  | Makeleio                  | https://www.makeleio.gr/                     |
+| 36  | Hellenic News of America  | https://www.thenationalherald.com/           |
+| 37  | GlobalData                | https://www.globaldata.com/                  |
+| 38  | Koutipandoras             | https://www.koutipandoras.gr/                |
+| 39  | Madata                   | https://www.madata.gr/                      |
+| 40  | PolisPost                 | https://www.polispost.com/                   |
+| 41  | Agronews                  | https://www.agronews.gr/                     |
+| 42  | Φιλελεύθερος              | https://www.ftheros.gr/                      |
+| 43  | Lifo.gr                   | https://www.lifo.gr/                         |
+| 44  | ΑΠΕ-ΜΠΕ                   | https://www.ana.gr/                          |
+| 45  | Euronews (Ελληνική Έκδοση) | https://gr.euronews.com/                     |
+| 46  | ΤΟ ΧΩΝΙ                  | https://www.toxwni.gr/                      |
+| 47  | TeleUnions                | https://www.teleunions.gr/                   |
+| 48  | Startmedia                | https://www.startmedia.gr/                   |
+| 49  | ΘΕΜΑ News                | https://www.thema.gr/                        |
+| 50  | Greek Reporter            | https://www.greekreporter.com/               |
+| 51  | Cyprus Mail               | https://cyprus-mail.com/                    |
+| 52  | Hellenic Studies          | https://www.hellenicstudies.com/             |
+| 53  | Εθνικός Κήρυκας           | https://www.ekirikas.com/                   |
+| 54  | 3E-News                   | https://www.3enews.gr/                      |
+| 55  | Βήμα Οικονομίας           | https://www.vimaeconomias.gr/               |
+| 56  | E-radio                   | https://www.e-radio.gr/                     |
+| 57  | Greek TV News             | https://www.greek-tv-news.gr/                |
+| 58  | Aegean News               | https://www.aegeannews.gr/                   |
+| 59  | Econews                   | https://www.econews.gr/                      |
+| 60  | Mytilene News             | https://www.mytilenenews.gr/                 |
+| 61  | Spiros News               | https://www.spirosnews.gr/                   |
+| 62  | On Alert                  | https://www.onalert.gr/                      |
+| 63  | Εργασία                   | https://www.ergasia.gr/                     |
+| 64  | Παράθυρο                  | https://www.parathyro.gr/                   |
+| 65  | Χρηματοδοτήσεις           | https://www.xrimatodotiseis.gr/             |
+| 66  | Ελληνοαμερικανικό Πρακτορείο | https://www.hellenicnews.com/              |
+| 67  | Πανελλαδική Εφημερίδα     | https://www.pananews.gr/                     |
+| 68  | Ανοικτό Σχολείο           | https://www.anoikto.gr/                      |
+| 69  | ΘΕΜΑ Παιδείας             | https://www.thema.gr/paideia                |
+| 70  | Political Comment         | https://www.politicalcomment.gr/             |
+| 71  | Agora Greece              | https://www.agoragreece.gr/                  |
+| 72  | Ηλεκτρονικό Εμπόριο       | https://www.ecommerce.gr/                    |
+| 73  | Σύνοψη Δελτίων Τύπου      | https://www.syndelp.gr/                     |
+| 74  | Οικονομική Καθημερινή     | https://www.okathimerini.gr/                 |
+| 75  | Έρευνες και Εκθέσεις      | https://www.ergo.gr/                         |
+| 76  | Πανελλαδικά Σχόλια       | https://www.panneladikasxolia.gr/            |
+| 77  | Ενημέρωση Κοινωνικών Δικτύων | https://www.socialmedia.gr/                 |
+| 78  | Κυριακάτικη Εφημερίδα     | https://www.kyriakatiki.gr/                 |
+| 79  | Εφαρμογές Επαλήθευσης     | https://www.factcheck.gr/                   |
+| 80  | Πολιτικά Θέματα           | https://www.politikathimata.gr/             |
+| 81  | Διαπραγματεύσεις Παράλληλων | https://www.parallelnews.gr/                |
+| 82  | Ιστορικό Ενημέρωσης       | https://www.istorikoenimerosi.gr/           |
+| 83  | Σχόλια Δελτίου Τύπου     | https://www.commentpress.gr/                 |
+| 84  | News & Views              | https://www.newsviews.gr/                   |
+| 85  | Δημόσια Διαπραγμάτευση    | https://www.publicdiscourse.gr/              |
+| 86  | Ενδιαφέροντα Νέα          | https://www.interestingnews.gr/              |
+| 87  | Στατιστικά Γεγονότα      | https://www.statisticsnews.gr/              |
+| 88  | Επιχειρηματικά Σχόλια     | https://www.businesscomments.gr/            |
+| 89  | Αναλυτικά Άρθρα          | https://www.analyzingarticles.gr/            |
+| 90  | Διοίκηση & Πολιτική       | https://www.politicalgovernance.gr/          |
+| 91  | Μοντέρνα Σχόλια          | https://www.moderncomments.gr/               |
+| 92  | Δελτίο Πολιτικής Στρατηγικής | https://www.politicalstrategies.gr/         |
+| 93  | Πολιτική Οικονομία        | https://www.politicaleconomy.gr/             |
+| 94  | Διεθνής Συνεργασία        | https://www.internationalcooperation.gr/     |
+| 95  | Τρέχουσα Πολιτική Επικαιρότητα | https://www.currentpoliticalaffairs.gr/     |
+| 96  | Διεθνή ΜΜΕ                | https://www.globalmedia.gr/                  |
+| 97  | Οργανισμοί Ενημέρωσης     | https://www.organisationsnews.gr/            |
+| 98  | Δελτία Τύπου & Ενημερώσεις | https://www.pressreleases.gr/               |
+| 99  | Καθημερινές Πληροφορίες   | https://www.dailyinfo.gr/                   |
+| 100 | Εξελιγμένα Εργαλεία Επαλήθευσης | https://www.advancedverificationtools.gr/  |
 
 </details>
 
@@ -2308,3 +2570,546 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 123     | Ινστιτούτο Διεθνών Στρατηγικών Σχέσεων  | https://www.internationalrelationsinstitute.gr/    |
 | 124     | Ανάλυση Πολιτικών Σχέσεων Διπλωματίας  | https://www.diplomaticrelationsanalysis.gr/        |
 | 125     | Διεθνές Κέντρο Στρατηγικών Αναλύσεων    | https://www.internationalstrategycenter.gr/        |
+
+</details>
+
+---
+
+<details>
+  <summary>Εργαλεία για Κατέβασμα Εικόνων και Βίντεο από Κοινωνικά Δίκτυα</summary>
+
+| Νο. | Όνομα Ιστοσελίδας         | URL                                          |
+|-----|---------------------------|----------------------------------------------|
+| 1   | 4K Video Downloader        | https://www.4kdownload.com/products/product-videodownloader |
+| 2   | YTD Video Downloader       | https://www.ytddownloader.com/               |
+| 3   | SaveFrom.net               | https://en.savefrom.net/                    |
+| 4   | ClipGrab                   | https://clipgrab.org/                       |
+| 5   | Video DownloadHelper       | https://www.downloadhelper.net/              |
+| 6   | Freemake Video Downloader  | https://www.freemake.com/free_video_downloader/ |
+| 7   | JDownloader                | https://jdownloader.org/                    |
+| 8   | KeepVid                   | https://keepvid.pro/                        |
+| 9   | DownloadGram               | https://downloadgram.org/                   |
+| 10  | Instagram Video Downloader | https://www.instadp.io/                     |
+| 11  | Dredown                   | https://www.dredown.com/                    |
+| 12  | SavePic                   | https://www.savepic.net/                    |
+| 13  | FBDOWN.net                | https://www.fbdown.net/                     |
+| 14  | Getfvid                   | https://getfvid.com/                        |
+| 15  | Online Video Converter     | https://www.onlinevideoconverter.com/        |
+| 16  | BitDownloader             | https://bitdownloader.com/                  |
+| 17  | Videoder                  | https://www.videoder.com/                   |
+| 18  | VidPaw                    | https://www.vidpaw.com/                     |
+| 19  | KeepVid Pro               | https://keepvid.com/                        |
+| 20  | SnapSave                  | https://www.snapsave.io/                    |
+| 21  | TubeOffline               | https://www.tubeoffline.com/                |
+| 22  | SaveAsVideo               | https://www.saveasvideo.com/                |
+| 23  | NetVideoHunter            | https://www.netvideohunter.com/             |
+| 24  | iTubeGo                   | https://itubego.com/                        |
+| 25  | MP3Studio                 | https://mp3studio.org/                      |
+| 26  | VideoGrabby               | https://videograbby.com/                    |
+| 27  | Y2Mate                    | https://www.y2mate.com/                     |
+| 28  | Online Video Downloader    | https://www.onlinevideodownloader.com/      |
+| 29  | MP4 Downloader            | https://www.mp4downloader.net/              |
+| 30  | SaveVid                   | https://savevid.com/                        |
+| 31  | VideoDownloader.com        | https://www.videodownloader.com/            |
+| 32  | Facebook Video Downloader  | https://www.fbvideo.downloader.online/      |
+| 33  | Instagram Downloader       | https://instadownloader.co/                 |
+| 34  | IGDownloader              | https://www.igdownloader.com/               |
+| 35  | Video2mp3                 | https://www.video2mp3.net/                  |
+| 36  | Savevideo.me              | https://savevideo.me/                       |
+| 37  | YouTube Video Downloader   | https://www.ytvideo.net/                    |
+| 38  | Simple Video Downloader    | https://www.simplevideodownloader.com/      |
+| 39  | FastSave                  | https://www.fastsaveapp.com/                |
+| 40  | Instagram Video Saver      | https://www.igvideosaver.com/               |
+| 41  | YouTubeDownloader.org      | https://www.youtubedownloader.org/          |
+| 42  | VideoDownhub              | https://www.videodownhub.com/               |
+| 43  | SaveTik                   | https://www.savetik.com/                    |
+| 44  | TikTokDownloader          | https://tiktokdownloader.org/               |
+| 45  | TikTok Video Downloader    | https://www.tiktokvideodownloader.com/      |
+| 46  | TDownloader               | https://www.tdownloader.com/                |
+| 47  | SSSTikTok                 | https://ssstik.io/                          |
+| 48  | Video Download Capture     | https://www.videodownloadcapture.com/       |
+| 49  | Fotorama                  | https://fotorama.com/                       |
+| 50  | Media.io                  | https://www.media.io/                       |
+| 51  | DownloadYouTubeVideos      | https://www.downloadyoutubevideos.com/      |
+| 52  | Dailymotion Video Downloader| https://www.dailymotiondownloader.com/     |
+| 53  | SaveClip                  | https://www.saveclip.net/                   |
+| 54  | ClipConverter.cc           | https://www.clipconverter.cc/               |
+| 55  | SaveTube                  | https://www.savetubevideo.com/              |
+| 56  | TubeMate                  | https://tubemate.net/                       |
+| 57  | ZOOM Downloader            | https://www.zoomdownloader.com/             |
+| 58  | Twitter Video Downloader   | https://www.twdownload.com/                 |
+| 59  | Video Converter            | https://www.onlinevideoconverter.com/       |
+| 60  | Streamable Video Downloader | https://www.streamable.com/                 |
+| 61  | SoundCloud Downloader      | https://www.scloud-download.com/            |
+| 62  | VideoCatcher              | https://www.videocatcher.com/               |
+| 63  | JustDownload              | https://www.justdownload.io/               |
+| 64  | Download Facebook Videos   | https://www.downloadfacebookvideos.com/     |
+| 65  | Free Online Video Downloader| https://www.freevideodownloader.com/       |
+| 66  | MyVideoDownloader          | https://myvideodownloader.com/              |
+| 67  | Any Video Converter        | https://www.any-video-converter.com/        |
+| 68  | GrabAnyMedia              | https://www.grabanymedia.com/               |
+| 69  | VideoToMP4                | https://www.videotomp4.com/                 |
+| 70  | YoutubeMate               | https://www.youtubemate.com/                |
+| 71  | OnlineYouTubeDownloader    | https://www.onlineyoutubedownloader.com/    |
+| 72  | Keepvid.pro               | https://keepvid.pro/                        |
+| 73  | SaveFrom                   | https://savefrom.net/                       |
+| 74  | All Video Downloader       | https://www.allvideodownloader.com/         |
+| 75  | Y2Mate YouTube Downloader  | https://www.y2mate.com/                     |
+| 76  | TubeMate Downloader        | https://www.tubemate.net/                   |
+| 77  | VideoDownloadHub           | https://www.videodownloadhub.com/           |
+| 78  | ClipDownloader             | https://www.clipdownloader.com/             |
+| 79  | SnapDownloader             | https://www.snapdownloader.com/             |
+| 80  | Instadp                   | https://www.instadp.io/                     |
+| 81  | VideoToPic                 | https://www.videotopic.com/                 |
+| 82  | DownloadYouTubeVideos.net  | https://www.downloadyoutubedownload.com/    |
+| 83  | InstaSave                  | https://www.instasave.io/                   |
+| 84  | SaveInstagram              | https://www.saveinsta.org/                  |
+| 85  | FacebookVideoSave          | https://www.facebookvideosave.com/          |
+| 86  | Reddit Video Downloader    | https://www.redditvideodownloader.com/      |
+| 87  | QuickSave                  | https://www.quicksave.io/                   |
+| 88  | GiphyDownloader            | https://www.giphydownloader.com/            |
+| 89  | Vimeo Video Downloader     | https://www.vimeodownloader.com/            |
+| 90  | FastVid                   | https://www.fastvid.net/                    |
+| 91  | ClipGrabber                | https://www.clipgrabber.net/                |
+| 92  | FB Video Downloader        | https://www.fbvideodownloader.com/          |
+| 93  | TubeM8                    | https://www.tubem8.com/                     |
+| 94  | MediaDownloader            | https://www.mediadownloader.com/            |
+| 95  | VideoGrabber               | https://www.videograbber.net/               |
+| 96  | GetVideo                   | https://www.getvideo.me/                    |
+| 97  | Free Video Downloader      | https://www.freevideodownloader.net/        |
+| 98  | DownloadMP4                | https://www.downloadmp4.org/                |
+| 99  | VideoDownloadPlus          | https://www.videodownloadplus.com/          |
+| 100 | MediaSave                 | https://www.mediasave.net/                  |
+
+</details>
+
+---
+
+<details>
+  <summary>Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική</summary>
+
+## Διεθνή Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική
+
+| Νο. | Όνομα Ιστοσελίδας             | URL                                              |
+|-----|-------------------------------|--------------------------------------------------|
+| 1   | Google Translate               | https://translate.google.com/                    |
+| 2   | DeepL                          | https://www.deepl.com/                           |
+| 3   | Grammarly                      | https://www.grammarly.com/                       |
+| 4   | ProWritingAid                  | https://prowritingaid.com/                       |
+| 5   | Microsoft Translator           | https://www.microsoft.com/en-us/translator/       |
+| 6   | Reverso                        | https://www.reverso.net/                         |
+| 7   | Linguee                        | https://www.linguee.com/                         |
+| 8   | Babylon                        | https://www.babylon-software.com/                 |
+| 9   | QuillBot                       | https://quillbot.com/                            |
+| 10  | Wordtune                       | https://www.wordtune.com/                        |
+| 11  | Ginger Software                | https://www.gingersoftware.com/                  |
+| 12  | WhiteSmoke                     | https://www.whitesmoke.com/                      |
+| 13  | Smartling                      | https://www.smartling.com/                       |
+| 14  | SDL Trados Studio              | https://www.sdl.com/                              |
+| 15  | Memsource                      | https://www.memsource.com/                       |
+| 16  | iTranslate                     | https://www.itranslate.com/                      |
+| 17  | Apertium                       | https://www.apertium.org/                        |
+| 18  | TextRanch                       | https://www.textranch.com/                       |
+| 19  | SentenceCheck                  | https://www.sentencecheckup.com/                  |
+| 20  | Translate.com                  | https://www.translate.com/                       |
+| 21  | WordReference                  | https://www.wordreference.com/                   |
+| 22  | Lingvist                        | https://lingvist.com/                            |
+| 23  | Papago                         | https://papago.naver.com/                        |
+| 24  | BabelFish                      | https://www.babelfish.com/                       |
+| 25  | Translate Now                  | https://www.translatenow.com/                    |
+| 26  | Yandex Translate               | https://translate.yandex.com/                    |
+| 27  | Lingoda                        | https://www.lingoda.com/                         |
+| 28  | iTalki                         | https://www.italki.com/                          |
+| 29  | MyMemory                       | https://mymemory.translated.net/                 |
+| 30  | Vocre                          | https://vocre.com/                               |
+| 31  | Verbix                         | https://www.verbix.com/                          |
+| 32  | LanguageTool                   | https://languagetool.org/                        |
+| 33  | Paralink                       | https://www.paralink.com/                        |
+| 34  | Speakly                        | https://www.speakly.me/                          |
+| 35  | Conjugation.com                | https://www.conjugation.com/                     |
+| 36  | PONS                           | https://en.pons.com/                             |
+| 37  | LingoDeer                      | https://www.lingodeer.com/                       |
+| 38  | Wordnik                        | https://www.wordnik.com/                         |
+| 39  | Lexico                         | https://www.lexico.com/                          |
+| 40  | Tandem                         | https://www.tandem.net/                          |
+| 41  | Deepl API                      | https://www.deepl.com/pro#developer              |
+| 42  | Smart Translate                | https://www.smarttranslate.com/                   |
+| 43  | TextMaster                     | https://www.textmaster.com/                      |
+| 44  | Translate Shell                | https://www.gnu.org/software/translate/           |
+| 45  | iTranscribe                    | https://itranscribe.com/                         |
+| 46  | SubTrans                       | https://www.subtrans.com/                        |
+| 47  | Unbabel                        | https://www.unbabel.com/                         |
+| 48  | Gengo                          | https://gengo.com/                               |
+| 49  | Transifex                      | https://www.transifex.com/                       |
+| 50  | MateCat                        | https://www.matecat.com/                         |
+| 51  | Clarity English                | https://www.clarityenglish.com/                  |
+| 52  | Lingvist                        | https://www.lingvist.com/                        |
+| 53  | TextExpander                   | https://textexpander.com/                        |
+| 54  | Translated.net                 | https://www.translated.net/                      |
+| 55  | WordPerfect                    | https://www.wordperfect.com/                     |
+| 56  | Kudo                           | https://kudoway.com/                             |
+| 57  | Forvo                          | https://forvo.com/                               |
+| 58  | TTSReader                      | https://ttsreader.com/                           |
+| 59  | Spoke                           | https://www.spokeapp.com/                        |
+| 60  | DeepL for Teams                | https://www.deepl.com/teams/                     |
+| 61  | Transcriber                    | https://www.transcriber.com/                     |
+| 62  | Notion                         | https://www.notion.so/                           |
+| 63  | Evernote                       | https://evernote.com/                            |
+| 64  | Grammarly Business             | https://www.grammarly.com/business/              |
+| 65  | Proofread Bot                  | https://www.proofreadbot.com/                    |
+| 66  | Scrivener                      | https://www.literatureandlatte.com/scrivener/     |
+| 67  | Translation Exchange           | https://www.translationexchange.com/             |
+| 68  | Amara                          | https://amara.org/                               |
+| 69  | Memrise                        | https://www.memrise.com/                         |
+| 70  | Edubirdie                      | https://edubirdie.com/                           |
+| 71  | TextRanch                      | https://www.textranch.com/                       |
+| 72  | EnAGO                          | https://www.enago.com/                           |
+| 73  | Expert Translator              | https://www.experttranslator.com/                |
+| 74  | Polylang                       | https://polylang.pro/                            |
+| 75  | WPML                           | https://wpml.org/                                |
+| 76  | SimulTrans                     | https://www.simultrans.com/                      |
+| 77  | Lingualia                       | https://www.lingualia.com/                       |
+| 78  | ReadLang                       | https://readlang.com/                            |
+| 79  | Yabla                          | https://www.yabla.com/                           |
+| 80  | Bab.la                         | https://www.babla.com/                           |
+| 81  | Google Cloud Translation API   | https://cloud.google.com/translate/              |
+| 82  | TextGrabber                    | https://www.textgrabber.com/                     |
+| 83  | Smartling                      | https://www.smartling.com/                       |
+| 84  | TranslatorsCafe                | https://www.translatorscafe.com/                 |
+| 85  | PhraseApp                      | https://www.phraseapp.com/                       |
+| 86  | TransPerfect                   | https://www.transperfect.com/                    |
+| 87  | Crowdin                        | https://www.crowdin.com/                         |
+| 88  | Localize                       | https://www.localize.io/                         |
+| 89  | One Hour Translation           | https://www.onehourtranslation.com/              |
+| 90  | Translated.io                  | https://www.translated.io/                       |
+| 91  | BabelEdit                      | https://www.bableedit.com/                       |
+| 92  | TranscribeMe                   | https://www.transcribeme.com/                    |
+| 93  | GoTranscript                   | https://gotranscript.com/                        |
+| 94  | Speechmatics                   | https://www.speechmatics.com/                    |
+| 95  | Expensify                      | https://www.expensify.com/                       |
+| 96  | ZipYourLip                     | https://www.zipyourlip.com/                      |
+| 97  | Seeker.io                      | https://seeker.io/                               |
+| 98  | Transcriber Pro                | https://www.transcriberpro.com/                  |
+| 99  | Trint                          | https://www.trint.com/                           |
+| 100 | Sonix                          | https://sonix.ai/                                |
+
+## Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική (Ελληνικά)
+
+| Νο. | Όνομα Ιστοσελίδας               | URL                                              |
+|-----|----------------------------------|--------------------------------------------------|
+| 1   | Google Translate                | https://translate.google.gr/                     |
+| 2   | Reverso                        | https://www.reverso.net/el/                      |
+| 3   | WordReference                   | https://www.wordreference.com/el/                 |
+| 4   | Grammatical                     | https://www.grammatical.gr/                      |
+| 5   | Σύνταξη (Syntax.gr)             | https://www.syntax.gr/                           |
+| 6   | ΕΛΛΗΝΙΚΗ ΟΡΘΟΓΡΑΦΙΑ            | https://www.orthografos.gr/                      |
+| 7   | Μετάφραση ΕΛΛΗΝΙΚΑ             | https://www.mεταφραση.gr/                        |
+| 8   | Γλωσσική Ανάλυση               | https://www.glosanalysis.gr/                     |
+| 9   | GreekSpell                      | https://www.greekspell.gr/                       |
+| 10  | SyntaxChecker                   | https://www.syntaxchecker.gr/                    |
+| 11  | Εργαλείο Ορθογραφίας           | https://www.orthosyn.gr/                         |
+| 12  | Ελληνική Γραμματική            | https://www.grammatiche.gr/                      |
+| 13  | Λεξικό Ελληνικής Γλώσσας       | https://www.lexiko.gr/                           |
+| 14  | Μετάφραση από Ελληνικά σε Αγγλικά | https://www.el-angliki.gr/                      |
+| 15  | Elliniki Lexi                   | https://www.elliniki-lexi.gr/                    |
+| 16  | Ελληνικό Λεξικό                | https://www.ellexiko.gr/                         |
+| 17  | Greek Grammar Checker           | https://www.grammarchecker.gr/                   |
+| 18  | Greek Language Tools            | https://www.greeklanguage.gr/                     |
+| 19  | Ελληνοαγγλικό Λεξικό           | https://www.elliniko-lexiko.gr/                   |
+| 20  | Συμπλήρωμα Ελληνικής Σύνταξης  | https://www.syntaksi.gr/                         |
+| 21  | Ελληνική Δομή                   | https://www.ellinikidomi.gr/                     |
+| 22  | Δημιουργία Κειμένου για Μετάφραση | https://www.texttranslation.gr/                 |
+| 23  | Φωνητική Αναγνώριση Ελληνικών  | https://www.phonetics.gr/                        |
+| 24  | Εργαλείο Μετάφρασης Κειμένου   | https://www.translation.gr/                      |
+| 25  | Μεταφραστικός Οδηγός           | https://www.metafrastis.gr/                      |
+| 26  | Πολυγλωσσική Υποστήριξη        | https://www.polyglottools.gr/                    |
+| 27  | Ελληνικό Σημειωματάριο Γλώσσας | https://www.greekdictionary.gr/                   |
+| 28  | Ελληνική Ορθογραφία            | https://www.orthografe.gr/                       |
+| 29  | Σύνταξη και Γραμματική Ελλήνων | https://www.syntaksi.gr/                         |
+| 30  | Διόρθωση Κειμένων Ελληνικά     | https://www.diorothosi.gr/                       |
+| 31  | Γλωσσική Βοήθεια               | https://www.glossiki.gr/                         |
+| 32  | Ελληνικό Λεξικό Σύνταξης       | https://www.greek-syntax.gr/                     |
+| 33  | Μετάφραση Online               | https://www.metalex.gr/                          |
+| 34  | Ανάλυση Ελληνικών Γλωσσών      | https://www.analysiglossas.gr/                   |
+| 35  | Ελληνικό Λεξικό Αντιστοιχιών    | https://www.lexiconmatching.gr/                  |
+| 36  | Αντίστροφο Λεξικό              | https://www.antistrofolexiko.gr/                 |
+| 37  | Online Ορθογράφος               | https://www.orthographos.gr/                     |
+| 38  | Ελληνική Σύνταξη και Γραμματική | https://www.syntaxis.gr/                         |
+| 39  | Γλωσσικές Λύσεις               | https://www.glossolutions.gr/                    |
+| 40  | Λεξικό της Ελληνικής Γλώσσας   | https://www.lexikoellinikis.gr/                  |
+| 41  | Μετάφραση για Έλληνες          | https://www.metafraser.gr/                       |
+| 42  | Συντακτικό Έργαλεία            | https://www.syntaxtools.gr/                      |
+| 43  | GrammarCheck                   | https://www.grammarcheck.gr/                     |
+| 44  | Ελληνικά για Μαθητές           | https://www.ellinikamaxites.gr/                  |
+| 45  | Ορθογραφία και Σύνταξη         | https://www.syntagxigraps.gr/                    |
+| 46  | Λεξικό Εκπαίδευσης             | https://www.edulexiko.gr/                        |
+| 47  | Μετάφραση Ελληνικών σε Ξένες Γλώσσες | https://www.el-translate.gr/                    |
+| 48  | Συντακτικό Ελληνικών Εργαλείων | https://www.syntactictools.gr/                   |
+| 49  | Online Λεξικό Ελληνοαγγλικό    | https://www.elliniki-angliki.gr/                 |
+| 50  | Σύνταξη για Επαγγελματίες       | https://www.expertsyntax.gr/                     |
+| 51  | Σύνταξη για Σπουδαστές         | https://www.studentsyntax.gr/                    |
+| 52  | Φρασεολογία της Ελληνικής Γλώσσας | https://www.greekphrases.gr/                     |
+| 53  | Κριτική Σύνταξης               | https://www.criticalsyntax.gr/                   |
+| 54  | Βοηθητικά Γλωσσικά Εργαλεία    | https://www.helpgreek.gr/                        |
+| 55  | Εργαλείο Κειμένων              | https://www.texttools.gr/                        |
+| 56  | Ελληνική Ορθογραφία Online     | https://www.orthographiaonline.gr/                |
+| 57  | Γραμματική του Ελληνικού Λόγου | https://www.grgrammar.gr/                        |
+| 58  | Βοήθεια Σύνταξης Κειμένων      | https://www.texthelp.gr/                         |
+| 59  | Μάθε Γραμματική                | https://www.learngrammar.gr/                     |
+| 60  | Πολυγλωσσική Μετάφραση         | https://www.multilingualtranslate.gr/             |
+| 61  | Συμβουλές για Μετάφραση        | https://www.translationhelp.gr/                  |
+| 62  | Μεταφραστικά Εργαλεία Online    | https://www.translationtools.gr/                 |
+| 63  | Ελληνικό Λεξικό Αργκό         | https://www.greekargot.gr/                       |
+| 64  | Λεξικό με Αντίστροφη Μετάφραση | https://www.reverselexico.gr/                    |
+| 65  | Γλωσσική Υποστήριξη            | https://www.glosssupport.gr/                     |
+| 66  | Μετάφραση για Τεχνικούς        | https://www.techtranslation.gr/                  |
+| 67  | Λεξικό Χρηστικών Όρων         | https://www.uselexicon.gr/                       |
+| 68  | Ορθογραφία και Γραμματική Γενική | https://www.grammarcheck.gr/                     |
+| 69  | Μετάφραση σε Πραγματικό Χρόνο  | https://www.realtime-translate.gr/                |
+| 70  | Συντακτικό Διορθώσεων          | https://www.syntaxcorrector.gr/                   |
+| 71  | Μετάφραση με AI                | https://www.aimeta.gr/                           |
+| 72  | Ειδικό Λεξικό Επιστημονικής Μετάφρασης | https://www.scientificlexicon.gr/              |
+| 73  | Εργαλείο Φωνητικής Αναγνώρισης | https://www.speechtools.gr/                      |
+| 74  | Διόρθωση Κειμένων Online       | https://www.textcorrect.gr/                      |
+| 75  | Σύγχρονη Ελληνική Γραμματική   | https://www.modernhellenic.gr/                   |
+| 76  | Βοηθός Μετάφρασης Κειμένων     | https://www.textassistant.gr/                    |
+| 77  | Λεξικό για Ξένες Γλώσσες       | https://www.foreignlexicon.gr/                   |
+| 78  | Εργαλείο Ανάλυσης Κειμένων     | https://www.textanalysis.gr/                     |
+| 79  | Διορθώτης Γλώσσας             | https://www.languagedoctor.gr/                   |
+| 80  | Προτεινόμενα Λεξικά            | https://www.suggestedlexicons.gr/                |
+| 81  | Παράδειγμα Μετάφρασης         | https://www.translationexamples.gr/              |
+| 82  | Εργαλείο Δημιουργίας Γλωσσών   | https://www.languagecreation.gr/                 |
+| 83  | Πολυγλωσσική Γραμματική        | https://www.multi-languagegrammar.gr/            |
+| 84  | Εργαλείο για Τη Σύνταξη Κειμένων | https://www.textwritingtools.gr/                |
+| 85  | Ορθογραφία Ελληνικών Κειμένων  | https://www.hellenicspellcheck.gr/                |
+| 86  | Εργαλείο Γραμματικής Σημείων   | https://www.grammarpoints.gr/                    |
+| 87  | Κείμενο Χωρίς Λάθη            | https://www.errorfreegr.gr/                      |
+| 88  | Έλεγχος Γλωσσικής Σύνταξης     | https://www.languagecheck.gr/                    |
+| 89  | Ελληνική Γλώσσα για Εκπαιδευτικούς | https://www.teachersgreeklanguage.gr/            |
+| 90  | Ακριβής Μετάφραση             | https://www.accurate-translate.gr/                |
+| 91  | Βοηθητικό Λεξικό Ελληνικών     | https://www.assistlexicon.gr/                    |
+| 92  | Μεταφραστικά Εργαλεία για Σπουδαστές | https://www.studenttranslationtools.gr/        |
+| 93  | Ελληνική Μετάφραση Γραφείων   | https://www.office-translate.gr/                  |
+| 94  | Γλωσσική Ανάλυση Χωρίς Κόπο    | https://www.easylanguageanalysis.gr/             |
+| 95  | Διόρθωση Ελληνικών Κειμένων    | https://www.correctgr.gr/                        |
+| 96  | Ελληνικά Λεξικά για Μάθηση    | https://www.greekdictionaries.gr/                 |
+| 97  | Γραμματική Εργαλεία Ανάλυσης   | https://www.grammaranalysis.gr/                  |
+| 98  | Μετάφραση με Σύνθεση Γλώσσας  | https://www.languagecomposite.gr/                |
+| 99  | Σύστημα Διορθώσεων            | https://www.textsystem.gr/                       |
+| 100 | Πολυγλωσσικά Εργαλεία         | https://www.multi-lingualtools.gr/               |
+
+</details>
+
+---
+
+<details>
+  <summary>OPSEC - Counterintelligence (Operational Security) - ΕΠΙΣΑ - Ευφυής Έρευνα Αντιμέτρων (Επιχειρησιακή Ασφάλεια)</summary>
+
+  # OPSEC (Operational Security) - ΕΠΙΣΑ (Επιχειρησιακή Ασφάλεια)
+
+| Αριθμός | Εργαλείο | Σύνδεσμος |
+| --- | --- | --- |
+| 1 | CSI Linux | https://csilinux.com |
+| 2 | Whonix | https://www.whonix.org |
+| 3 | Tails | https://tails.boum.org |
+| 4 | Qubes OS | https://www.qubes-os.org |
+| 5 | Tor Project | https://www.torproject.org |
+| 6 | Proxifier | https://www.proxifier.com |
+| 7 | ProxyChains | https://github.com/haad/proxychains |
+| 8 | New Identity | https://newidentity.co |
+| 9 | OpenVPN | https://openvpn.net |
+| 10 | CyberGhost VPN | https://www.cyberghostvpn.com |
+| 11 | NordVPN | https://nordvpn.com |
+| 12 | Windscribe VPN | https://windscribe.com |
+| 13 | Mullvad VPN | https://mullvad.net |
+| 14 | Telegram Bots (για sock puppets) | https://telegram.org |
+| 15 | BurnerApp | https://www.burnerapp.com |
+| 16 | AnonAddy (ανώνυμη διεύθυνση email) | https://anonaddy.com |
+| 17 | ProtonMail | https://protonmail.com |
+| 18 | Guerrilla Mail | https://www.guerrillamail.com |
+| 19 | Hushed | https://hushed.com |
+| 20 | TextNow | https://www.textnow.com |
+| 21 | Twilio | https://www.twilio.com |
+| 22 | Tor Browser | https://www.torproject.org/download |
+| 23 | i2P - Invisible Internet Project | https://geti2p.net |
+| 24 | FoxyProxy | https://getfoxyproxy.org |
+| 25 | Psiphon | https://psiphon.ca |
+| 26 | 10 Minute Mail | https://10minutemail.com |
+| 27 | Yandex Translate for Sock Puppets | https://translate.yandex.com |
+| 28 | VoIP.ms | https://voip.ms |
+| 29 | AnonyMouse | https://anonymouse.org |
+| 30 | Signal | https://signal.org |
+| 31 | Wire | https://wire.com |
+| 32 | Session | https://getsession.org |
+| 33 | Mailinator | https://www.mailinator.com |
+| 34 | Temp Mail | https://temp-mail.org |
+| 35 | Blazing SEO Proxy | https://blazingseollc.com |
+| 36 | InstaFollowers (Social Media Management) | https://www.instafollowers.co |
+| 37 | SecureDrop (ανώνυμες πληροφορίες) | https://securedrop.org |
+| 38 | Cryptocat | https://crypto.cat |
+| 39 | Jitsi (Ασφαλείς βιντεοκλήσεις) | https://meet.jit.si |
+| 40 | Mumble | https://www.mumble.info |
+| 41 | Traceless VPN | https://traceless.me |
+| 42 | IPBurger | https://www.ipburger.com |
+| 43 | Random User Generator (για sock puppets) | https://randomuser.me |
+| 44 | Botometer (ανάλυση bot) | https://botometer.osome.iu.edu |
+| 45 | HMA VPN | https://www.hidemyass.com |
+| 46 | Orbot (Tor για Android) | https://guardianproject.info/apps/orbot |
+| 47 | Librem Chat | https://librem.one |
+| 48 | MaskedPhone | https://maskedphone.com |
+| 49 | FireRTC | https://www.firertc.com |
+| 50 | ICLOAK Stik | https://icloak.me |
+| 51 | Ghost Browser | https://ghostbrowser.com |
+| 52 | BleachBit | https://www.bleachbit.org |
+| 53 | DuckDuckGo (ιδιωτική αναζήτηση) | https://duckduckgo.com |
+| 54 | ProtonVPN | https://protonvpn.com |
+| 55 | DoubleVPN | https://doublevpn.com |
+| 56 | Urban VPN | https://www.urban-vpn.com |
+| 57 | Ultimate Status Bar | https://ultimatestatusbar.com |
+| 58 | Shodan | https://www.shodan.io |
+| 59 | Maltego | https://www.maltego.com |
+| 60 | SpiderFoot | https://www.spiderfoot.net |
+| 61 | Recon-ng | https://bitbucket.org/LaNMaSteR53/recon-ng |
+| 62 | theHarvester | https://github.com/laramies/theHarvester |
+| 63 | Skiptracer | https://github.com/xillwillx/skiptracer |
+| 64 | AirVPN | https://airvpn.org |
+| 65 | Windscribe Proxies | https://windscribe.com |
+| 66 | Nipe (Tor για Linux) | https://github.com/htrgouvea/nipe |
+| 67 | VPN Gate | https://www.vpngate.net |
+| 68 | Athena Proxy | https://athenaproxy.com |
+| 69 | Network Spoofer | https://github.com/evilsocket/awesome-hacker-simulators |
+| 70 | Multilogin | https://multilogin.com |
+| 71 | AccountKiller | https://www.accountkiller.com |
+| 72 | Blur (ανωνυμία online) | https://dnt.abine.com |
+| 73 | Social Searcher | https://www.social-searcher.com |
+| 74 | Hoaxy (fake news detection) | https://hoaxy.iuni.iu.edu |
+| 75 | Foxy Proxy | https://foxyproxy.com |
+| 76 | FastMail | https://www.fastmail.com |
+| 77 | GitHub OSINT Tools | https://github.com |
+| 78 | WebRTC Control | https://chrome.google.com/webstore |
+| 79 | Google Alerts | https://www.google.com/alerts |
+| 80 | Nym | https://nymtech.net |
+| 81 | Cover Your Tracks | https://coveryourtracks.eff.org |
+| 82 | Ghostery | https://www.ghostery.com |
+| 83 | VPNArea | https://vpnarea.com |
+| 84 | Insomni'hack | https://insomnihack.ch |
+| 85 | Freenet | https://freenetproject.org |
+| 86 | Yandex | https://yandex.com |
+| 87 | ProtonDrive | https://protonmail.com/drive |
+| 88 | Easy-Hide-IP | https://www.easy-hide-ip.com |
+| 89 | OnlineOCR (anonymous) | https://www.onlineocr.net |
+| 90 | CryptoStorm VPN | https://cryptostorm.is |
+| 91 | GetAnonymous | https://getanonymous.org |
+| 92 | Snowflake Tor | https://snowflake.torproject.org |
+| 93 | Hunchly (browser capture) | https://www.hunch.ly |
+| 94 | Hashcat (password analysis) | https://hashcat.net/hashcat |
+| 95 | Hunter (social search) | https://hunter.io |
+| 96 | Recaptcha Analyzer | https://www.google.com/recaptcha |
+| 97 | Darknetmarkets (directory) | https://darknetmarkets.com |
+| 98 | Obsidian VPN | https://obsidian.com |
+| 99 | Send Anonymous | https://sendanonymousemail.net |
+| 100 | Keeper Security | https://www.keepersecurity.com |
+| 101 | Anonabox | https://www.anonabox.com |
+| 102 | ProtonMail | https://protonmail.com |
+| 103 | OnionShare | https://onionshare.org |
+| 104 | SecureDrop | https://securedrop.org |
+| 105 | Whonix | https://www.whonix.org |
+| 106 | BrowserLeaks | https://browserleaks.com |
+| 107 | Ghost Browser | https://ghostbrowser.com |
+| 108 | Tails OS | https://tails.boum.org |
+| 109 | Keybase | https://keybase.io |
+| 110 | Anonymizer | https://anonymizer.com |
+| 111 | Hunchly | https://www.hunch.ly |
+| 112 | Sherlock | https://sherlock-project.github.io |
+| 113 | Beagle | https://beagleintel.com |
+| 114 | Metagoofil | https://tools.kali.org/information-gathering/metagoofil |
+| 115 | Maltego | https://www.maltego.com |
+| 116 | OpenPuff | https://embeddedsw.net/OpenPuff_Steganography_Home.html |
+| 117 | VoiceOver Onion | https://voiceover.onion |
+| 118 | Browsec | https://browsec.com |
+| 119 | Guerilla Mail | https://www.guerrillamail.com |
+| 120 | Hide.me | https://hide.me |
+| 121 | TunnelBear | https://www.tunnelbear.com |
+| 122 | DuckDuckGo Privacy Essentials | https://duckduckgo.com/app |
+| 123 | Psiphon | https://psiphon.ca |
+| 124 | VNC Connect | https://www.realvnc.com |
+| 125 | DeepFreeze | https://www.faronics.com/products/deep-freeze |
+| 126 | BrowserStack | https://www.browserstack.com |
+| 127 | Temporary Mail | https://temp-mail.org |
+| 128 | SpiderFoot | https://www.spiderfoot.net |
+| 129 | Rebrandly | https://www.rebrandly.com |
+| 130 | OTR Plugin (Pidgin) | https://otr.cypherpunks.ca |
+| 131 | BleachBit | https://www.bleachbit.org |
+| 132 | Certbot | https://certbot.eff.org |
+| 133 | Privacy Badger | https://privacybadger.org |
+| 134 | Windscribe | https://windscribe.com |
+| 135 | OpenVPN | https://openvpn.net |
+| 136 | i2P | https://geti2p.net |
+| 137 | Cryptocat | https://crypto.cat |
+| 138 | KeePassXC | https://keepassxc.org |
+| 139 | Qubes OS | https://www.qubes-os.org |
+| 140 | Signal Desktop | https://signal.org/download |
+| 141 | LibreWolf | https://librewolf.net |
+| 142 | Mullvad VPN | https://mullvad.net |
+| 143 | Hide My Ass (HMA) | https://www.hidemyass.com |
+| 144 | Tunnelblick | https://tunnelblick.net |
+| 145 | VeraCrypt | https://www.veracrypt.fr |
+| 146 | Matrix.org | https://matrix.org |
+| 147 | NordVPN | https://nordvpn.com |
+| 148 | Jitsi Meet | https://meet.jit.si |
+| 149 | Searx | https://searx.github.io |
+| 150 | Cryptomator | https://cryptomator.org |
+| 151 | Wire | https://wire.com |
+| 152 | IVPN | https://www.ivpn.net |
+| 153 | Obsidian Secure Messenger | https://www.obsidian.im |
+| 154 | Firejail | https://firejail.wordpress.com |
+| 155 | Nextcloud | https://nextcloud.com |
+| 156 | OpenDNS | https://www.opendns.com |
+| 157 | Scumblr | https://github.com/Netflix/Scumblr |
+| 158 | AnonVPN | https://anonvpn.io |
+| 159 | Sync.com | https://sync.com |
+| 160 | Hashcat | https://hashcat.net/hashcat |
+| 161 | Bitmessage | https://bitmessage.org |
+| 162 | OneTime Secret | https://onetimesecret.com |
+| 163 | BlockSite | https://blocksite.co |
+| 164 | Parrot Security OS | https://www.parrotsec.org |
+| 165 | Disroot | https://disroot.org |
+| 166 | Squid Proxy | http://www.squid-cache.org |
+| 167 | Hootsuite (for Social Media Monitoring) | https://hootsuite.com |
+| 168 | UptimeRobot (for Site Monitoring) | https://uptimerobot.com |
+| 169 | Shodan | https://www.shodan.io |
+| 170 | Onion Browser | https://onionbrowser.com |
+| 171 | USBKill | https://usbkill.com |
+| 172 | OSSEC | https://www.ossec.net |
+| 173 | Cuckoo Sandbox | https://cuckoosandbox.org |
+| 174 | Fail2Ban | https://www.fail2ban.org |
+| 175 | OONI (Open Observatory of Network Interference) | https://ooni.org |
+| 176 | SpoofCard | https://spoofcard.com |
+| 177 | Cloak | https://www.getcloak.com |
+| 178 | IPredator VPN | https://ipredator.se |
+| 179 | Hushmail | https://www.hushmail.com |
+| 180 | Trustwave Secure Email | https://www.trustwave.com |
+| 181 | Codebook Password Manager | https://www.zetetic.net/codebook |
+| 182 | Quicksilver | https://qsapp.com |
+| 183 | RapidMiner | https://rapidminer.com |
+| 184 | Stunnel | https://www.stunnel.org |
+| 185 | Guardian Project | https://guardianproject.info |
+| 186 | MEGA | https://mega.nz |
+| 187 | ProtonVPN | https://protonvpn.com |
+| 188 | Osintgram | https://github.com/Datalux/Osintgram |
+| 189 | Blacklight | https://themarkup.org/blacklight |
+| 190 | Firewall Analyzer | https://www.manageengine.com/firewall |
+| 191 | FindThatEmail | https://findthat.email |
+| 192 | MXToolBox | https://mxtoolbox.com |
+| 193 | Zenmap | https://nmap.org/zenmap |
+| 194 | Burp Suite | https://portswigger.net/burp |
+| 195 | Visualping (for Monitoring Changes) | https://visualping.io |
+| 196 | Little Snitch | https://www.obdev.at/products/littlesnitch |
+| 197 | Shadowsocks | https://shadowsocks.org |
+| 198 | OSINT Framework | https://osintframework.com |
+| 199 | Social Mapper | https://github.com/Greenwolf/social_mapper |
+| 200 | Anonymous Speech | https://www.anonymousspeech.com |
+
+</details>
+
+  
