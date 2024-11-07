@@ -2576,9 +2576,9 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 ---
 
 <details>
-  <summary>OPSEC - Counterintelligence (Operational Security) - ΕΠΙΣΑ - Ευφυής Έρευνα Αντιμέτρων (Επιχειρησιακή Ασφάλεια)</summary>
+  <summary>12. OPSEC - Counterintelligence (Operational Security) - ΕΠΙΣΑ - Ευφυής Έρευνα Αντιμέτρων (Επιχειρησιακή Ασφάλεια)</summary>
 
-  # 12. OPSEC (Operational Security) - ΕΠΙΣΑ (Επιχειρησιακή Ασφάλεια)
+  # OPSEC (Operational Security) - ΕΠΙΣΑ (Επιχειρησιακή Ασφάλεια)
 
 | Αριθμός | Εργαλείο | Σύνδεσμος |
 | --- | --- | --- |
@@ -3001,8 +3001,6 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 100 | Πολυγλωσσικά Εργαλεία         | https://www.multi-lingualtools.gr/               |
 
 </details>
-
----
 
 ---
 
