@@ -948,6 +948,98 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 ---
 
 <details>
+  <summary>5. CYBINT - ΚΥΒΕΡΝΟ (Cyber Intelligence - Κυβερνοημοσύνη)</summary>
+
+## Διεθνή Εργαλεία
+
+| Αριθμός | Κατηγορία                | Όνομα Εργαλείου               | Σύνδεσμος                                          |
+|---------|--------------------------|-------------------------------|---------------------------------------------------|
+| 1       | Κυβερνοασφάλεια           | CrowdStrike                   | https://www.crowdstrike.com/                       |
+| 2       | Κυβερνοασφάλεια           | FireEye                        | https://www.fireeye.com/                          |
+| 3       | Ανάλυση Κινητικότητας     | ThreatConnect                  | https://www.threatconnect.com/                     |
+| 4       | Κυβερνοασφάλεια           | Palo Alto Networks             | https://www.paloaltonetworks.com/                  |
+| 5       | Ανάλυση Κινητικότητας     | Mandiant                       | https://www.mandiant.com/                         |
+| 6       | Δοκιμές Ασφάλειας         | Sumo Logic                     | https://www.sumologic.com/                        |
+| 7       | Κυβερνοασφάλεια           | IBM Security                   | https://www.ibm.com/security                      |
+| 8       | Δοκιμές Ασφάλειας         | Splunk                         | https://www.splunk.com/                           |
+| 9       | Ανάλυση Δεδομένων         | Carbon Black                   | https://www.vmware.com/products/carbon-black.html |
+| 10      | Ανάλυση Ιχνηλασιμότητας    | AlienVault                     | https://www.alienvault.com/                       |
+| 11      | Κυβερνοασφάλεια           | Rapid7                         | https://www.rapid7.com/                          |
+| 12      | Κυβερνοασφάλεια           | Kaspersky                      | https://www.kaspersky.com/                        |
+| 13      | Κυβερνοασφάλεια           | McAfee                         | https://www.mcafee.com/                           |
+| 14      | Δοκιμές Ασφάλειας         | Qualys                         | https://www.qualys.com/                           |
+| 15      | Ανάλυση Απειλών           | Cisco Talos                    | https://www.talosintelligence.com/                 |
+| 16      | Δοκιμές Ασφάλειας         | Tenable                        | https://www.tenable.com/                          |
+| 17      | Ανάλυση Δεδομένων         | Recorded Future                | https://www.recordedfuture.com/                   |
+| 18      | Ανάλυση Δεδομένων         | Anomali                        | https://www.anomali.com/                          |
+| 19      | Κυβερνοασφάλεια           | Check Point                    | https://www.checkpoint.com/                       |
+| 20      | Ανάλυση Απειλών           | ThreatQuotient                 | https://www.threatquotient.com/                   |
+| 21      | Ανάλυση Κινητικότητας     | Verint                          | https://www.verint.com/                           |
+| 22      | Ανάλυση Δεδομένων         | Digital Shadows                | https://www.digitalshadows.com/                   |
+| 23      | Κυβερνοασφάλεια           | Symantec                       | https://www.broadcom.com/company/newsroom/press-releases?filtr=Symantec |
+| 24      | Ανάλυση Ιχνηλασιμότητας    | Bitdefender                    | https://www.bitdefender.com/                      |
+| 25      | Κυβερνοασφάλεια           | Sophos                         | https://www.sophos.com/                           |
+| 26      | Κυβερνοασφάλεια           | Fortinet                       | https://www.fortinet.com/                         |
+| 27      | Κυβερνοασφάλεια           | Trend Micro                    | https://www.trendmicro.com/                       |
+| 28      | Ανάλυση Απειλών           | Proofpoint                     | https://www.proofpoint.com/                       |
+| 29      | Ανάλυση Απειλών           | SecuLore                       | https://www.seculore.com/                         |
+| 30      | Κυβερνοασφάλεια           | Zscaler                        | https://www.zscaler.com/                          |
+| 31      | Ανάλυση Ιχνηλασιμότητας    | Elastic Security                | https://www.elastic.co/security                   |
+| 32      | Κυβερνοασφάλεια           | Cybereason                     | https://www.cybereason.com/                       |
+| 33      | Ανάλυση Ιχνηλασιμότητας    | Digital Defence                | https://www.digitaldefence.com/                   |
+| 34      | Κυβερνοασφάλεια           | White Ops                      | https://www.whiteops.com/                         |
+| 35      | Ανάλυση Απειλών           | PhishLabs                      | https://www.phishlabs.com/                        |
+| 36      | Κυβερνοασφάλεια           | Malwarebytes                   | https://www.malwarebytes.com/                     |
+| 37      | Ανάλυση Απειλών           | MalwareTech                    | https://www.malwaretech.com/                      |
+| 38      | Κυβερνοασφάλεια           | Verint                         | https://www.verint.com/                           |
+| 39      | Ανάλυση Ιχνηλασιμότητας    | CrowdStrike Falcon             | https://www.crowdstrike.com/                       |
+| 40      | Κυβερνοασφάλεια           | AhnLab                         | https://www.ahnlab.com/                           |
+| 41      | Ανάλυση Κινητικότητας     | IntSights                      | https://www.intsights.com/                        |
+| 42      | Κυβερνοασφάλεια           | Palo Alto Cortex               | https://www.paloaltonetworks.com/cortex           |
+| 43      | Ανάλυση Δεδομένων         | Qualys                         | https://www.qualys.com/                           |
+| 44      | Ανάλυση Απειλών           | Huawei Cyber Security          | https://support.huawei.com/                       |
+| 45      | Κυβερνοασφάλεια           | ESET                           | https://www.eset.com/                             |
+| 46      | Κυβερνοασφάλεια           | F5 Networks                    | https://www.f5.com/                               |
+| 47      | Ανάλυση Απειλών           | SilverSky                      | https://www.silversky.com/                        |
+| 48      | Κυβερνοασφάλεια           | Sumo Logic                     | https://www.sumologic.com/                        |
+| 49      | Κυβερνοασφάλεια           | Cybereason                     | https://www.cybereason.com/                       |
+| 50      | Ανάλυση Απειλών           | Anomali                        | https://www.anomali.com/                          |
+
+## Ελληνικά Εργαλεία
+
+| Αριθμός | Κατηγορία                | Όνομα Εργαλείου               | Σύνδεσμος                                          |
+|---------|--------------------------|-------------------------------|---------------------------------------------------|
+| 1       | Κυβερνοασφάλεια           | SingularLogic                  | https://www.singularlogic.gr/                      |
+| 2       | Κυβερνοασφάλεια           | Intracom Telecom               | https://www.intracom-telecom.com/                  |
+| 3       | Κυβερνοασφάλεια           | Entersoft                      | https://www.entersoft.gr/                         |
+| 4       | Ανάλυση Απειλών           | Profile Defenders              | https://www.profiledefenders.gr/                   |
+| 5       | Κυβερνοασφάλεια           | InfoSec Solutions              | https://www.infosec.gr/                           |
+| 6       | Ανάλυση Απειλών           | MrWebSafety                    | https://www.mrwebsafety.com/                      |
+| 7       | Κυβερνοασφάλεια           | Kaspersky Greece               | https://www.kaspersky.com.gr/                     |
+| 8       | Ανάλυση Δεδομένων         | Data Protection Labs           | https://www.dataprotectionlabs.gr/                |
+| 9       | Κυβερνοασφάλεια           | Secure.gr                      | https://www.secure.gr/                            |
+| 10      | Κυβερνοασφάλεια           | Hellas Online                  | https://www.hellas-online.gr/                     |
+| 11      | Κυβερνοασφάλεια           | G Data                          | https://www.gdata.gr/                             |
+| 12      | Κυβερνοασφάλεια           | Software Secure                | https://www.software-secure.gr/                   |
+| 13      | Ανάλυση Κινητικότητας     | Unisys                         | https://www.unisys.gr/                            |
+| 14      | Κυβερνοασφάλεια           | Reboot Solutions               | https://www.reboot.gr/                            |
+| 15      | Ανάλυση Απειλών           | Vector Security                | https://www.vectorsecurity.gr/                    |
+| 16      | Κυβερνοασφάλεια           | MalwareBytes Greece             | https://www.malwarebytes.gr/                      |
+| 17      | Ανάλυση Ιχνηλασιμότητας    | TNS Greek Cybersecurity        | https://www.tnsgr.gr/                             |
+| 18      | Κυβερνοασφάλεια           | EpsilonNet                     | https://www.epsilonnet.gr/                        |
+| 19      | Ανάλυση Κινητικότητας     | CyberSecure                    | https://www.cybersecure.gr/                       |
+| 20      | Κυβερνοασφάλεια           | Hellenic Cyber Security        | https://www.cybersecurity.gr/                     |
+| 21      | Κυβερνοασφάλεια           | Digital Forensics               | https://www.digital-forensics.gr/                 |
+| 22      | Κυβερνοασφάλεια           | TechnoSec                      | https://www.technosec.gr/                         |
+| 23      | Ανάλυση Απειλών           | NetSecure                      | https://www.netsecure.gr/                         |
+| 24      | Κυβερνοασφάλεια           | CyberXperts                    | https://www.cyberxperts.gr/                       |
+| 25      | Ανάλυση Απειλών           | SafeNet                        | https://www.safenet.gr/                           |
+
+</details>
+
+---
+
+<details>
   <summary>6. HUMINT - ΑΝΟ (Human Intelligence - Ανθρώπινη Νοημοσύνη)</summary>
 
   ## Διεθνή Εργαλεία
