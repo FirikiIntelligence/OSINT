@@ -851,7 +851,6 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 24      | Ανάλυση Δορυφορικών Εικόνων | Υπηρεσίες Δορυφορικής Διαχείρισης | https://www.satmanagement.gr/                    |
 | 25      | Ανάλυση Εικόνας             | Χάρτες Κλιματικής Αλλαγής    | https://www.climate-maps.gr/                     |
 
-
 </details>
 
 ---
