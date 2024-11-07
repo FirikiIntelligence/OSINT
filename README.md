@@ -761,6 +761,959 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 10      | Γεωγραφική Ανάλυση          | Εθνικό Ινστιτούτο Γεωεπιστημών | https://www.igme.gr/                             |
 | 11      | Γεωχωρική Ανάλυση           | Ειδική Επιτροπή Χαρτών       | https://www.efh.gr/                              |
 
+# Μαζικά Μέσα Μεταφοράς - Διεθνή Εργαλεία
+
+## Αεροπορικές Εταιρείες
+
+| Αριθμός | Όνομα Εργαλείου           | Σύνδεσμος                                         |
+|---------|---------------------------|---------------------------------------------------|
+| 1       | FlightAware               | https://www.flightaware.com                       |
+| 2       | Skyscanner                | https://www.skyscanner.com                        |
+| 3       | Kayak                     | https://www.kayak.com                             |
+| 4       | Expedia                   | https://www.expedia.com                           |
+| 5       | Google Flights            | https://www.google.com/flights                   |
+| 6       | Momondo                   | https://www.momondo.com                           |
+| 7       | CheapOair                 | https://www.cheapoair.com                         |
+| 8       | Orbitz                    | https://www.orbitz.com                            |
+| 9       | Kiwi.com                  | https://www.kiwi.com                              |
+| 10      | Air France                | https://www.airfrance.com                         |
+| 11      | Lufthansa                 | https://www.lufthansa.com                         |
+| 12      | British Airways           | https://www.britishairways.com                    |
+| 13      | Emirates                  | https://www.emirates.com                          |
+| 14      | Qatar Airways             | https://www.qatarairways.com                      |
+| 15      | United Airlines           | https://www.united.com                            |
+| 16      | Delta Airlines            | https://www.delta.com                             |
+| 17      | Southwest Airlines        | https://www.southwest.com                         |
+| 18      | American Airlines         | https://www.aa.com                                |
+| 19      | Singapore Airlines        | https://www.singaporeair.com                      |
+| 20      | Turkish Airlines          | https://www.turkishairlines.com                   |
+| 21      | Cathay Pacific Airways    | https://www.cathaypacific.com                     |
+| 22      | Aeroflot                  | https://www.aeroflot.ru                           |
+| 23      | ANA                       | https://www.ana.co.jp                             |
+| 24      | Japan Airlines (JAL)      | https://www.jal.co.jp                             |
+| 25      | Air Canada                | https://www.aircanada.com                         |
+| 26      | Alaska Airlines           | https://www.alaskaair.com                         |
+| 27      | KLM Royal Dutch Airlines  | https://www.klm.com                               |
+| 28      | Air New Zealand           | https://www.airnewzealand.com                     |
+| 29      | Finnair                   | https://www.finnair.com                           |
+| 30      | Ryanair                   | https://www.ryanair.com                           |
+| 31      | EasyJet                   | https://www.easyjet.com                           |
+| 32      | Air India                 | https://www.airindia.in                           |
+| 33      | Jet Airways               | https://www.jetairways.com                        |
+| 34      | Korean Air                | https://www.koreanair.com                         |
+| 35      | Thai Airways              | https://www.thaiairways.com                       |
+| 36      | China Eastern Airlines    | https://www.ceair.com                              |
+| 37      | China Southern Airlines   | https://www.csair.com                             |
+| 38      | Ethiopian Airlines        | https://www.flyethiopian.com                       |
+| 39      | Royal Jordanian Airlines  | https://www.rj.com                               |
+| 40      | SAS Scandinavian Airlines | https://www.flysas.com                             |
+| 41      | EgyptAir                  | https://www.egyptair.com                           |
+| 42      | AirAsia                   | https://www.airasia.com                            |
+| 43      | Spirit Airlines           | https://www.spirit.com                             |
+| 44      | Hawaiian Airlines         | https://www.hawaiianairlines.com                   |
+| 45      | JetBlue Airways           | https://www.jetblue.com                           |
+| 46      | Allegiant Air             | https://www.allegiantair.com                       |
+| 47      | Vistara                   | https://www.airvistara.com                         |
+| 48      | Azul Brazilian Airlines   | https://www.voeazul.com.br                        |
+| 49      | Gol Linhas Aéreas         | https://www.voegol.com.br                          |
+| 50      | TAP Air Portugal          | https://www.flytap.com                            |
+| 51      | Lion Air                  | https://www.lionair.co.id                         |
+| 52      | Scoot                     | https://www.flyscoot.com                          |
+| 53      | Swiss International Air Lines | https://www.swiss.com                        |
+| 54      | Brussels Airlines         | https://www.brusselsairlines.com                   |
+| 55      | Air Malta                 | https://www.airmalta.com                          |
+| 56      | EgyptAir                  | https://www.egyptair.com                          |
+| 57      | TAP Portugal              | https://www.flytap.com                            |
+| 58      | Norwegian Air Shuttle     | https://www.norwegian.com                         |
+| 59      | Pegasus Airlines          | https://www.flypgs.com                             |
+| 60      | Air Seychelles            | https://www.airseychelles.com                     |
+| 61      | Flydubai                  | https://www.flydubai.com                          |
+| 62      | SriLankan Airlines        | https://www.srilankan.com                          |
+| 63      | Mango Airlines            | https://www.flymango.com                          |
+| 64      | AirAsia X                 | https://www.airasia.com                            |
+| 65      | Qatar Executive           | https://www.qatarexecutive.com                     |
+| 66      | Oman Air                  | https://www.omanair.com                            |
+| 67      | Air Arabia                | https://www.airarabia.com                         |
+| 68      | Flynas                    | https://www.flynas.com                             |
+| 69      | Mahan Air                 | https://www.mahan.aero                            |
+| 70      | Royal Air Maroc           | https://www.royalairmaroc.com                     |
+| 71      | Air Mauritius             | https://www.airmauritius.com                       |
+| 72      | Air Greenland             | https://www.airgreenland.com                       |
+| 73      | Aegean Airlines           | https://www.aegeanair.com                         |
+| 74      | Wizz Air                  | https://www.wizzair.com                            |
+| 75      | Primera Air               | https://www.primeraair.com                        |
+| 76      | TAP Portugal              | https://www.flytap.com                            |
+| 77      | Blue Air                  | https://www.blueairweb.com                        |
+| 78      | Monarch Airlines          | https://www.monarch.co.uk                         |
+| 79      | Flybe                     | https://www.flybe.com                             |
+| 80      | Transavia                 | https://www.transavia.com                         |
+| 81      | Eurowings                 | https://www.eurowings.com                         |
+| 82      | Icelandair                | https://www.icelandair.com                        |
+| 83      | WestJet                   | https://www.westjet.com                           |
+| 84      | Horizon Air               | https://www.horizonairlines.com                    |
+| 85      | Alaska Airlines           | https://www.alaskaair.com                         |
+| 86      | Air Vanuatu               | https://www.airvanuatu.com                        |
+| 87      | Air Tahiti Nui            | https://www.airtahitinui.com                      |
+| 88      | Philippine Airlines       | https://www.philippineairlines.com                |
+| 89      | Korean Air                | https://www.koreanair.com                         |
+| 90      | Jet2                      | https://www.jet2.com                              |
+| 91      | Wizz Air                  | https://www.wizzair.com                            |
+| 92      | Azul Linhas Aéreas        | https://www.voeazul.com.br                        |
+| 93      | Copa Airlines             | https://www.copaair.com                           |
+| 94      | American Airlines         | https://www.aa.com                                |
+| 95      | Delta Airlines            | https://www.delta.com                             |
+| 96      | Spirit Airlines           | https://www.spirit.com                             |
+| 97      | Southwest Airlines        | https://www.southwest.com                         |
+| 98      | JetBlue Airways           | https://www.jetblue.com                           |
+| 99      | Air Arabia                | https://www.airarabia.com                         |
+| 100     | Flynas                    | https://www.flynas.com                             |
+
+
+## Αεροδρόμια
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | FlightStats                | https://www.flightstats.com                        |
+| 2       | Airport Radar              | https://www.airport-radar.com                      |
+| 3       | Skytrax                    | https://www.airlinequality.com                     |
+| 4       | Airport Guides             | https://www.airport-guides.com                     |
+| 5       | ACI World                  | https://aci.aero                                   |
+| 6       | World Airport Awards       | https://www.worldairportawards.com                 |
+| 7       | Flightradar24              | https://www.flightradar24.com                      |
+| 8       | Google Flights             | https://www.google.com/flights                     |
+| 9       | LiveATC                   | https://www.liveatc.net                            |
+| 10      | AirNav RadarBox            | https://www.radarbox24.com                         |
+| 11      | FlightAware                | https://www.flightaware.com                        |
+| 12      | FlightView                 | https://www.flightview.com                         |
+| 13      | Weather.com (Airport Weather) | https://www.weather.com/weather/today/             |
+| 14      | Runway Status Information  | https://www.runwaystatus.com                       |
+| 15      | Air Traffic Control (ATC)   | https://www.atccommunication.com                   |
+| 16      | The Airport Authority      | https://www.airports.org                           |
+| 17      | Aviation24                 | https://www.aviation24.be                          |
+| 18      | Aviation News Network      | https://www.avionews.com                           |
+| 19      | FlyOnTime                  | https://www.flyontime.com                          |
+| 20      | Flightradar 24 (iOS/Android) | https://www.flightradar24.com                      |
+| 21      | AENA (Spain)               | https://www.aena.es/en/                            |
+| 22      | AirportCity                | https://www.airportcity.com                        |
+| 23      | LHR (London Heathrow)      | https://www.heathrow.com                           |
+| 24      | JFK Airport                | https://www.jfkairport.com                         |
+| 25      | DFW Airport                | https://www.dfwairport.com                         |
+| 26      | ATL (Atlanta Airport)      | https://www.atl.com                                |
+| 27      | ORD (Chicago O'Hare)       | https://www.flychicago.com                         |
+| 28      | LAX Airport                | https://www.lawa.org                                |
+| 29      | Dubai International Airport| https://www.dubaiairports.ae                       |
+| 30      | Changi Airport Singapore   | https://www.changiairport.com                      |
+| 31      | Hong Kong International Airport | https://www.hkiairport.com                    |
+| 32      | Munich Airport             | https://www.munich-airport.com                     |
+| 33      | London Gatwick             | https://www.gatwickairport.com                     |
+| 34      | Paris Charles de Gaulle    | https://www.parisaeroport.fr/en                     |
+| 35      | Amsterdam Schiphol Airport | https://www.schiphol.nl/en/                        |
+| 36      | Frankfurt Airport          | https://www.frankfurt-airport.com                  |
+| 37      | Zurich Airport             | https://www.zurich-airport.com                     |
+| 38      | Milan Malpensa             | https://www.milanomalpensa-airport.com             |
+| 39      | Oslo Gardermoen            | https://www.osl.no/en/                             |
+| 40      | Copenhagen Airport         | https://www.cph.dk/en/                             |
+| 41      | Sydney Airport             | https://www.sydneyairport.com.au                   |
+| 42      | Toronto Pearson            | https://www.torontopearson.com                     |
+| 43      | Seoul Incheon Airport      | https://www.airport.kr/eng/index.do                |
+| 44      | San Francisco International Airport | https://www.flysfo.com                      |
+| 45      | Singapore Changi           | https://www.changiairport.com                      |
+| 46      | Jakarta Soekarno-Hatta     | https://www.soekarnohatta-airport.co.id/           |
+| 47      | Abu Dhabi International Airport | https://www.adairport.ae/en/                   |
+| 48      | Doha Hamad International Airport | https://www.dohahamadairport.com             |
+| 49      | Copenhagen Airport         | https://www.cph.dk/en/                             |
+| 50      | Shenzhen Bao'an Airport    | https://www.szairport.com/                         |
+| 51      | Phuket International Airport | https://www.phuketairportthai.com                |
+| 52      | Heathrow Airport Live Map  | https://www.heathrow.com/live-map                  |
+| 53      | Bali Denpasar Airport      | https://www.baliairport.com                        |
+| 54      | London Stansted Airport    | https://www.stanstedairport.com                    |
+| 55      | Melbourne Airport          | https://www.melbourneairport.com.au                |
+| 56      | Beijing Capital Airport    | https://www.bcia.com.cn/                           |
+| 57      | Tokyo Narita Airport       | https://www.narita-airport.jp/en/                  |
+| 58      | Bahrain International Airport | https://www.bahrainairport.com                  |
+| 59      | Cape Town International Airport | https://www.airports.co.za/cape-town-airport |
+| 60      | Vancouver International Airport | https://www.yvr.ca/en                             |
+| 61      | Moscow Sheremetyevo Airport| https://www.svo.aero/en/                           |
+| 62      | Tokyo Haneda Airport       | https://www.haneda-airport.jp/en/                  |
+| 63      | Cairo International Airport| https://www.cairo-airport.com                      |
+| 64      | Brussels Airport           | https://www.brusselsairport.be/en                  |
+| 65      | Stockholm Arlanda Airport  | https://www.swedavia.com/arlanda/en/               |
+| 66      | Helsinki Airport           | https://www.helsinki-airport.fi/en/                |
+| 67      | Cairo Airport              | https://www.cairo-airport.com                      |
+| 68      | Madrid Barajas Airport     | https://www.aeropuertomadrid-barajas.com/          |
+| 69      | Panama Tocumen Airport     | https://www.tocumenpanama.aero/en/                 |
+| 70      | Colombo Bandaranaike Airport | https://www.airport.lk                          |
+| 71      | Riyadh King Khalid Airport | https://www.kkia.sa/en/                            |
+| 72      | Quito Mariscal Sucre Airport | https://www.aeropuertoquito.aero                |
+| 73      | Manila NAIA Airport        | https://www.manilairport.com                        |
+| 74      | Lima Jorge Chavez Airport  | https://www.limainternationalairport.com            |
+| 75      | Tbilisi International Airport | https://www.tbilisiairport.com                 |
+| 76      | Minsk National Airport     | https://www.minskairport.by/en/                    |
+| 77      | Zurich International Airport | https://www.zurich-airport.com                   |
+| 78      | Johannesburg OR Tambo International | https://www.airports.co.za/johannesburg-airport |
+| 79      | St. Petersburg Pulkovo     | https://www.pulkovoairport.ru/en/                  |
+| 80      | Sanya Phoenix International Airport | https://www.sanyaairport.com                  |
+| 81      | Bogota El Dorado Airport   | https://www.eldorado.aero/en/                      |
+| 82      | Baku Heydar Aliyev Airport | https://www.airport.az/eng/index.php               |
+| 83      | Addis Ababa Bole International Airport | https://www.addisairport.com            |
+| 84      | Nairobi Jomo Kenyatta Airport | https://www.kq.com/kenya-airports/jomo-kenyatta-airport |
+| 85      | Muscat Seeb International Airport | https://www.omanairports.co.om           |
+| 86      | New York LaGuardia Airport | https://www.laguardiaairport.com                   |
+| 87      | Dallas Love Field Airport  | https://www.dallas-lovefield.com                   |
+| 88      | Charlotte Douglas Airport  | https://www.charlotteairport.com                   |
+| 89      | Montreal Pierre Elliott Trudeau Airport | https://www.admtl.com/                |
+| 90      | Denver International Airport | https://www.flydenver.com/                     |
+| 91      | Indianapolis Airport       | https://www.indianapolisairport.com                |
+| 92      | Austin Bergstrom Airport   | https://www.abia.org/                              |
+| 93      | Kansas City International Airport | https://www.flykci.com                      |
+| 94      | Chicago Midway Airport     | https://www.flychicago.com/midway                 |
+| 95      | Salt Lake City International Airport | https://www.slcairport.com                 |
+| 96      | Detroit Metropolitan Airport | https://www.metroairport.com                     |
+| 97      | Phoenix Sky Harbor Airport | https://www.skyharbor.com                          |
+| 98      | Orlando International Airport | https://orlandoairports.net/                   |
+| 99      | Minneapolis-St. Paul International Airport | https://www.mspairport.com           |
+| 100     | Cleveland Hopkins International Airport | https://www.clevelandairport.com           |
+
+## Παρακολούθηση Πτήσεων
+
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | FlightAware                | https://www.flightaware.com                       |
+| 2       | Flightradar24              | https://www.flightradar24.com                      |
+| 3       | FlightStats                | https://www.flightstats.com                        |
+| 4       | FlightView                 | https://www.flightview.com                         |
+| 5       | AirNav RadarBox            | https://www.radarbox24.com                         |
+| 6       | Plane Finder               | https://www.planefinder.net                        |
+| 7       | AirTrafficTracker          | https://www.airtraffictracker.com                  |
+| 8       | RadarBox                   | https://www.radarbox24.com                         |
+| 9       | FlightRadar24              | https://www.flightradar24.com                      |
+| 10      | SkyScanner                 | https://www.skyscanner.com                         |
+| 11      | FlightAware Live Flight Tracker | https://www.flightaware.com/live/               |
+| 12      | FlightRadar Live           | https://www.flightradar.live                      |
+| 13      | FlightTrack24              | https://www.flighttrack24.com                      |
+| 14      | Flight Mapper              | https://www.flightmapper.net                       |
+| 15      | OpenSky Network            | https://opensky-network.org                        |
+| 16      | Planes Live                | https://www.planeslive.com                         |
+| 17      | Plane Radar                | https://www.planeradar.com                         |
+| 18      | Flight Scanner             | https://www.flightscanner.com                      |
+| 19      | AirNav.com                 | https://www.airnav.com                             |
+| 20      | Airliners.net              | https://www.airliners.net                          |
+| 21      | JetPhotos                  | https://www.jetphotos.com                          |
+| 22      | LiveATC                   | https://www.liveatc.net                            |
+| 23      | Flight Aware               | https://www.flightaware.com                       |
+| 24      | Flight Tracker             | https://www.flighttracker24.com                    |
+| 25      | Air Traffic Control Monitor | https://www.atcmonitor.com                        |
+| 26      | ATC Radar Tracker          | https://www.atcradartracker.com                    |
+| 27      | Air Traffic Online         | https://www.airtrafficonline.com                   |
+| 28      | Flight Radar Now           | https://www.flightradarnow.com                     |
+| 29      | PlaneSpotters              | https://www.planespotters.net                       |
+| 30      | Plane Tracker              | https://www.planetracker.net                       |
+| 31      | Air Spotter                | https://www.airspotter.com                         |
+| 32      | Flight Path Tracker        | https://www.flightpathtracker.com                  |
+| 33      | Flight Tracker 24          | https://www.flighttracker24.com                    |
+| 34      | FlightView Live            | https://www.flightviewlive.com                     |
+| 35      | Air Traffic Info           | https://www.airtrafficinfo.com                     |
+| 36      | FlightRadar24 Tracker      | https://www.flightradar24tracker.com                |
+| 37      | Sky Live Flight Tracker    | https://www.skyflighttracker.com                    |
+| 38      | JetTracker                 | https://www.jettracker.com                         |
+| 39      | Live Plane Tracker         | https://www.liveplanetracker.com                   |
+| 40      | Airport Tracker            | https://www.airporttracker.com                     |
+| 41      | FlightTrack Live           | https://www.flighttracklive.com                    |
+| 42      | FlightReport               | https://www.flightreport.com                        |
+| 43      | FlightWatch                | https://www.flightwatch.com                        |
+| 44      | PlaneWatch                 | https://www.planewatch.com                         |
+| 45      | Airport View               | https://www.airportview.com                        |
+| 46      | FlightAware Tracker        | https://www.flightaware.com/tracker                |
+| 47      | Air Traffic Control Tracker | https://www.airtrafficcontroltracker.com          |
+| 48      | AirSpace Monitor           | https://www.airspacemonitor.com                    |
+| 49      | SkyMonitor                 | https://www.skymonitor.com                         |
+| 50      | Flight Live                | https://www.flightlive.com                         |
+| 51      | FlightPath Radar           | https://www.flightpathradar.com                    |
+| 52      | AirTraffic Monitor         | https://www.airtrafficmonitor.com                  |
+| 53      | FlightLive24               | https://www.flightlive24.com                       |
+| 54      | FlyRadar24                 | https://www.flyradar24.com                         |
+| 55      | Aviation Tracker           | https://www.aviationtracker.com                    |
+| 56      | Radar Watch                | https://www.radarwatch.com                         |
+| 57      | SkyRadar                   | https://www.skyradar.com                           |
+| 58      | FlightNet                  | https://www.flightnet.com                           |
+| 59      | SpotterRadar               | https://www.spotterradar.com                       |
+| 60      | AirTrafficView             | https://www.airtrafficview.com                     |
+| 61      | Airspotter Radar           | https://www.airspotterradar.com                    |
+| 62      | PlaneWatchers              | https://www.planewatchers.com                      |
+| 63      | Plane Track 24             | https://www.planetrack24.com                       |
+| 64      | FlightFinders              | https://www.flightfinders.com                      |
+| 65      | RadarAir                  | https://www.radarair.com                            |
+| 66      | Flight Tracer              | https://www.flighttracer.com                       |
+| 67      | Plane Search               | https://www.planesearch.com                        |
+| 68      | Plane Logger               | https://www.planelogger.com                        |
+| 69      | AirFlight Tracker          | https://www.airflighttracker.com                   |
+| 70      | Flightradar24 Now          | https://www.flightradar24now.com                   |
+| 71      | SkyRadar Live              | https://www.skyradarlive.com                       |
+| 72      | AirNav Live Tracker        | https://www.airnavlivetracker.com                  |
+| 73      | Flight Tracker Pro         | https://www.flighttrackerpro.com                   |
+| 74      | Flight Watcher             | https://www.flightwatcher.com                      |
+| 75      | Flight Radar Tracker       | https://www.flightradartracker.com                 |
+| 76      | JetTrackers                | https://www.jettrackers.com                        |
+| 77      | Flight Spotters            | https://www.flightspotters.com                     |
+| 78      | Airplane Tracker           | https://www.airplanetracker.com                     |
+| 79      | Plane Detect               | https://www.planedetect.com                        |
+| 80      | LiveFlightRadar            | https://www.liveflightradar.com                     |
+| 81      | Airplane Watching          | https://www.airplanewatching.com                    |
+| 82      | Air Navigation Tracker     | https://www.airnavigationtracker.com               |
+| 83      | FlightLink Tracker         | https://www.flightlinktracker.com                   |
+| 84      | Plane Flight Tracker       | https://www.planeflighttracker.com                  |
+| 85      | Aviation Radar             | https://www.aviationradar.com                      |
+| 86      | Flight Data Tracker        | https://www.flightdatatracker.com                  |
+| 87      | Flight Path Finder         | https://www.flightpathfinder.com                   |
+| 88      | Plane View                 | https://www.planeview.com                           |
+| 89      | SkyTracker                 | https://www.skytracker.com                         |
+| 90      | Flight Seekers             | https://www.flightseekers.com                      |
+| 91      | Flight Watch Radar         | https://www.flightwatchradar.com                    |
+| 92      | SkyFlight Radar            | https://www.skyflightradar.com                      |
+| 93      | Plane Monitor              | https://www.planemonitor.com                        |
+| 94      | Sky Flight Tracker         | https://www.skyflighttracker.com                    |
+| 95      | JetSpotter                 | https://www.jetspotter.com                         |
+| 96      | FlightExplorer             | https://www.flighexplorer.com                      |
+| 97      | Planetracker24             | https://www.planetracker24.com                     |
+| 98      | Airspot Live               | https://www.airspotlive.com                        |
+| 99      | FlightSpy                  | https://www.flightspy.com                           |
+| 100     | RadarWatch24               | https://www.radarwatch24.com                       |
+
+
+## Ντρόουνς
+
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | Drone Tracker              | https://www.dronetracker.net                       |
+| 2       | DroneRadar                 | https://www.droneradar.com                         |
+| 3       | Airspace Monitor           | https://www.airspacemonitor.com                    |
+| 4       | Dronewatcher               | https://www.dronewatcher.com                       |
+| 5       | SkyDrones                  | https://www.skydrones.com                          |
+| 6       | UAV Radar                  | https://www.uavradar.com                           |
+| 7       | DroneSpotter               | https://www.dronespotter.com                       |
+| 8       | DroneScanner               | https://www.dronescanner.com                       |
+| 9       | DroneGuard                 | https://www.droneguard.com                         |
+| 10      | DroneMapper                | https://www.dronemapper.com                        |
+| 11      | FlySafe                    | https://www.flysafe.com                            |
+| 12      | Drone Flight Tracker       | https://www.droneradar24.com                       |
+| 13      | DJI Flight Tracker         | https://www.dji.com/flight-tracker                 |
+| 14      | Airborne Radar             | https://www.airborneradar.com                      |
+| 15      | UAV Tracking               | https://www.uavtracking.com                        |
+| 16      | Drone Flight Monitor       | https://www.droneflightmonitor.com                 |
+| 17      | SkyTrack                   | https://www.skytrack.com                           |
+| 18      | DroneControl               | https://www.dronecontrol.com                       |
+| 19      | DroneEye                   | https://www.droneeye.com                           |
+| 20      | UAVFinder                  | https://www.uavfinder.com                          |
+| 21      | Drone Watcher              | https://www.dronewatcher.com                       |
+| 22      | UAV Spotter                | https://www.uavspotter.com                         |
+| 23      | DroneAlert                 | https://www.dronealert.com                         |
+| 24      | DroneNet                   | https://www.dronenet.com                           |
+| 25      | FlightRadar24 for Drones   | https://www.flightradar24.com/drones               |
+| 26      | SkyNet UAV                 | https://www.skynet-uav.com                         |
+| 27      | Dronescope                 | https://www.dronescope.com                         |
+| 28      | AirDroneMonitor            | https://www.airdronemonitor.com                    |
+| 29      | UAV Flight Tracker         | https://www.uavflighttracker.com                   |
+| 30      | DroneTrackingSystem        | https://www.dronetrackingsystem.com                |
+| 31      | SkyScanner Drones          | https://www.skyscannerdrones.com                   |
+| 32      | DroneRadar Pro             | https://www.droneradarpro.com                      |
+| 33      | DroneDetect                | https://www.dronedetect.com                        |
+| 34      | UAVRadar Pro               | https://www.uavradarpro.com                        |
+| 35      | DroneSpot Pro              | https://www.dronespotpro.com                       |
+| 36      | DroneTracker Online        | https://www.dronetrackeronline.com                 |
+| 37      | SkyTracker UAV             | https://www.skytrackeruav.com                      |
+| 38      | AirSpace Drone Monitor     | https://www.airspacedronemonitor.com               |
+| 39      | FlightAware for Drones     | https://www.flightaware.com/drones                 |
+| 40      | Airplane Drone Monitor     | https://www.airplanedronemonitor.com               |
+| 41      | SkyRadar Drone Tracker     | https://www.skyradardronetracker.com               |
+| 42      | UAV Monitoring             | https://www.uavmonitoring.com                      |
+| 43      | DroneTrackers               | https://www.dronetrackers.com                      |
+| 44      | AirRadar Drone Watch       | https://www.airradardronewatch.com                 |
+| 45      | DroneSentry                | https://www.dronesentry.com                        |
+| 46      | FlightMonitor Drones       | https://www.flightmonitordrones.com                |
+| 47      | UAVTrack                   | https://www.uavtrack.com                            |
+| 48      | SkyDrone Radar             | https://www.skydroneradar.com                      |
+| 49      | Drone Observer             | https://www.droneobserver.com                      |
+| 50      | FlightRadar Drones         | https://www.flightradar24.com/drones               |
+| 51      | UAVTrackPro                | https://www.uavtrackpro.com                        |
+| 52      | SkyNet Radar for UAVs      | https://www.skynet-radar.com/uavs                  |
+| 53      | Dronie                     | https://www.dronie.com                             |
+| 54      | DronesOnline               | https://www.dronesonline.com                       |
+| 55      | UAV Detection              | https://www.uavdetection.com                       |
+| 56      | Drone Tracker Plus         | https://www.dronetrackerplus.com                   |
+| 57      | SkySurveillance            | https://www.skysurveillance.com                    |
+| 58      | UAVFlight Monitor          | https://www.uavflightmonitor.com                   |
+| 59      | AirMonitor Drones          | https://www.airmonitordrones.com                   |
+| 60      | DroneSpotter Pro           | https://www.dronespotterpro.com                    |
+| 61      | UAVGuard                   | https://www.uavguard.com                           |
+| 62      | Drone Signal Tracker       | https://www.dronesignaltracker.com                 |
+| 63      | SkyWatcher UAV             | https://www.skywatcheruav.com                      |
+| 64      | Drone Monitoring System    | https://www.dronemonitoringsystem.com              |
+| 65      | SkySpotter                 | https://www.skysptter.com                          |
+| 66      | FlightWatch UAV            | https://www.flightwatchuav.com                     |
+| 67      | Airborne Surveillance      | https://www.airbornesurveillance.com                |
+| 68      | UAVTracking24              | https://www.uavtracking24.com                      |
+| 69      | DroneView Tracker          | https://www.droneviewtracker.com                   |
+| 70      | UAVWatch                   | https://www.uavwatch.com                           |
+| 71      | SkyMap UAV Tracker         | https://www.skymapuavtracker.com                   |
+| 72      | Airspace Drone Radar       | https://www.airspacedroneradar.com                 |
+| 73      | DroneRadar Live            | https://www.droneradar.live                        |
+| 74      | UAV Network                | https://www.uavnetwork.com                          |
+| 75      | DroneLiveTracker           | https://www.dronelivetracker.com                   |
+| 76      | Flight Track for Drones    | https://www.flighttrackfordrones.com                |
+| 77      | UAVMapping                 | https://www.uavmapping.com                         |
+| 78      | Airspace Drones Live       | https://www.airspacedroneslive.com                 |
+| 79      | UAVTracks                  | https://www.uavtracks.com                          |
+| 80      | DroneWatchers              | https://www.dronewatchers.com                      |
+| 81      | DroneAlert Pro             | https://www.dronealertpro.com                      |
+| 82      | FlightSpotter              | https://www.flightspotter.com                      |
+| 83      | SkyRadar UAV Monitor       | https://www.skyradaruavmonitor.com                  |
+| 84      | UAV Locator                | https://www.uavlocator.com                         |
+| 85      | SkyMapper UAV              | https://www.skymapperuav.com                       |
+| 86      | Flight Log Drones          | https://www.flightlogdrones.com                    |
+| 87      | UAV Flight Path Monitor    | https://www.uavflightpathmonitor.com               |
+| 88      | Drone Tracking System      | https://www.dronetrackingsystem.com                |
+| 89      | UAV Surveil                | https://www.uavsurveil.com                         |
+| 90      | AirScanner UAV             | https://www.airscanneruav.com                      |
+| 91      | DroneTracker Global        | https://www.dronetrackerglobal.com                 |
+| 92      | UAV Tracking Pro           | https://www.uavtrackingpro.com                     |
+| 93      | DroneSignal                | https://www.dronesignal.com                        |
+| 94      | Airborne Drone Tracking    | https://www.airbornedronetracking.com              |
+| 95      | UAVLive                    | https://www.uavlive.com                             |
+| 96      | DroneTrack Pro             | https://www.dronetrackpro.com                      |
+| 97      | FlightTrace                | https://www.flighttrace.com                        |
+| 98      | UAVMonitorLive             | https://www.uavmonitorlive.com                     |
+| 99      | DroneNav                   | https://www.dronenav.com                            |
+| 100     | AirMonitor Pro             | https://www.airmonitorpro.com                      |
+
+
+## Αυτοκίνητα
+
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | Car Tracker                | https://www.cartracker.com                         |
+| 2       | Track Your Car             | https://www.trackyourcar.com                       |
+| 3       | GPS Car Tracking           | https://www.gpscartracking.com                     |
+| 4       | Vehicle Tracker Pro        | https://www.vehicletrackerpro.com                  |
+| 5       | Fleet Complete             | https://www.fleetcomplete.com                      |
+| 6       | Tracki GPS                 | https://www.tracki.com                             |
+| 7       | SpyTec GPS                 | https://www.spytec.com                             |
+| 8       | Geotab Vehicle Tracking    | https://www.geotab.com                             |
+| 9       | Fleetmatics                | https://www.fleetmatics.com                        |
+| 10      | CarLock                    | https://www.carlock.com                            |
+| 11      | Vyncs GPS Tracking         | https://www.vyncs.com                              |
+| 12      | Zubie GPS                  | https://www.zubie.com                              |
+| 13      | Car GPS Tracker            | https://www.cargpstracker.com                      |
+| 14      | TrackR GPS Tracker         | https://www.trackr.com                             |
+| 15      | Automobile Tracker         | https://www.automobiletracker.com                  |
+| 16      | GPSWOX                     | https://www.gpswox.com                             |
+| 17      | Trak-4 GPS Tracker         | https://www.trak-4.com                             |
+| 18      | Americaloc GPS             | https://www.americaloc.com                         |
+| 19      | Bouncie                    | https://www.bouncie.com                            |
+| 20      | Logistimatics              | https://www.logistimatics.com                      |
+| 21      | OBD GPS Tracker            | https://www.obdgpstracker.com                      |
+| 22      | SenseDrive GPS             | https://www.sensedrive.com                         |
+| 23      | Car GPS Tracking Device    | https://www.cargpstrackingdevice.com                |
+| 24      | Fleetistics                | https://www.fleetistics.com                        |
+| 25      | Road ID Tracker            | https://www.roadidtracker.com                      |
+| 26      | Track My Car GPS           | https://www.trackmycargps.com                      |
+| 27      | DriveOK GPS                | https://www.driveokgps.com                         |
+| 28      | FleetTrax GPS              | https://www.fleettraxgps.com                       |
+| 29      | Magellan GPS Tracker       | https://www.magellangps.com                        |
+| 30      | Garmin Vehicle Tracker     | https://www.garmin.com/vehicle-tracking            |
+| 31      | TomTom Telematics          | https://www.tomtomtelematics.com                   |
+| 32      | Smart Vehicle Tracker      | https://www.smartvehictracker.com                   |
+| 33      | Webfleet                   | https://www.webfleet.com                           |
+| 34      | Fleet tracking Solutions   | https://www.fleettrackingsolutions.com             |
+| 35      | DriveSmart                 | https://www.drivesmartgps.com                      |
+| 36      | FleetGPS                   | https://www.fleetgps.com                           |
+| 37      | Garmin Fleet Tracking      | https://www.garminfleettracking.com                |
+| 38      | FindMyCar GPS Tracker      | https://www.findmycargpstracker.com                |
+| 39      | Auto GPS Tracker           | https://www.autogpstracker.com                     |
+| 40      | Car GPS Tracker Device     | https://www.cargpstrackerdevice.com                |
+| 41      | GPS Tracker Fleet Manager  | https://www.gpstrackerfleetmanager.com             |
+| 42      | InTouch GPS Tracker        | https://www.intouchgpstracker.com                  |
+| 43      | GPS Vehicle Tracker        | https://www.gpsvehicletracker.com                  |
+| 44      | Car Monitoring GPS         | https://www.carmonitoringgps.com                    |
+| 45      | Spark Nano GPS             | https://www.sparknanogps.com                        |
+| 46      | Fleet tracking by Trackforce| https://www.trackforcegps.com                      |
+| 47      | Logistix Fleet GPS         | https://www.logistixfleetgps.com                   |
+| 48      | GPS Insight                | https://www.gpsinsight.com                         |
+| 49      | Autobahn GPS Tracker       | https://www.autobahngpstracker.com                 |
+| 50      | Global Tracking Systems    | https://www.globaltrackingsystems.com              |
+| 51      | Traccar                    | https://www.traccar.org                             |
+| 52      | Wialon GPS Tracker         | https://www.wialon.com                              |
+| 53      | Teletrac Navman            | https://www.teletracnavman.com                     |
+| 54      | Fleet Monitor              | https://www.fleetmonitor.com                        |
+| 55      | Vehicle Monitoring System  | https://www.vehiclemonitoringsystem.com            |
+| 56      | Automile                   | https://www.automile.com                            |
+| 57      | Bluedriver GPS             | https://www.bluedrivergps.com                       |
+| 58      | Geotab Telematics          | https://www.geotab.com/telematics                  |
+| 59      | InstaFleet GPS             | https://www.instafleetgps.com                       |
+| 60      | Tracer GPS Tracker         | https://www.tracergpstracker.com                    |
+| 61      | DriveSmart GPS             | https://www.drivesmartgps.com                      |
+| 62      | FleetView                  | https://www.fleetview.com                          |
+| 63      | FleetMonitor Pro           | https://www.fleetmonitorpro.com                    |
+| 64      | Localytics Fleet Tracker   | https://www.localyticsfleettracker.com             |
+| 65      | PacerFleet GPS             | https://www.pacerfleetgps.com                       |
+| 66      | Mobility Intelligence      | https://www.mobilityintelligence.com                |
+| 67      | FleetUp                    | https://www.fleetup.com                             |
+| 68      | GPS Vehicle Tracking Pro   | https://www.gpsvehicletrackingpro.com               |
+| 69      | Car Telematics             | https://www.cartelematics.com                       |
+| 70      | TrackMap GPS               | https://www.trackmapgps.com                         |
+| 71      | Tracker Pro                | https://www.trackerpro.com                         |
+| 72      | CarController              | https://www.carcontroller.com                      |
+| 73      | Motive Fleet Tracking      | https://www.motivefleettracking.com                |
+| 74      | Fleet Management Solutions | https://www.fleetmanagementsolutions.com            |
+| 75      | GoFleet GPS                | https://www.gofleetgps.com                         |
+| 76      | MyCar GPS Tracker          | https://www.mycargpstracker.com                    |
+| 77      | Trackmate GPS              | https://www.trackmategps.com                       |
+| 78      | PinPoint GPS Tracker       | https://www.pinpointgpstracker.com                 |
+| 79      | CarGlo GPS Tracker         | https://www.carglogps.com                          |
+| 80      | Swift GPS Tracker          | https://www.swiftgpstracker.com                    |
+| 81      | FleetPal                   | https://www.fleetpal.com                           |
+| 82      | GPS4Fleet                  | https://www.gps4fleet.com                          |
+| 83      | FleetVista                 | https://www.fleetvista.com                         |
+| 84      | GPS Tracking Pro           | https://www.gpstrackingpro.com                     |
+| 85      | Find My Car Tracker        | https://www.findmycartracker.com                   |
+| 86      | GPS Trackers Now           | https://www.gpstrackersnow.com                     |
+| 87      | CarDash GPS                | https://www.cardashgps.com                         |
+| 88      | Mobile GPS Fleet           | https://www.mobilegpsfleet.com                      |
+| 89      | VTS Fleet Monitoring       | https://www.vtsfleetmonitoring.com                 |
+| 90      | DriveTrack GPS             | https://www.drivetrackgps.com                      |
+| 91      | TrakkingPro                | https://www.trakkingpro.com                        |
+| 92      | ATrack GPS Tracker         | https://www.atrackgps.com                          |
+| 93      | GPSFleet                   | https://www.gpsfleet.com                            |
+| 94      | GoFleet Monitoring         | https://www.gofleetmonitoring.com                  |
+| 95      | FLEETLY                    | https://www.fleetly.com                             |
+| 96      | Car GPS Tracker Service    | https://www.cargpstracker.com/service              |
+| 97      | Telematics GPS Fleet       | https://www.telematicsgpsfleet.com                  |
+| 98      | GPS Tracking System        | https://www.gpstrackingsystem.com                   |
+| 99      | SmartFleet GPS             | https://www.smartfleetgps.com                       |
+| 100     | Mobile Trackers            | https://www.mobiletrackers.com                      |
+
+
+## Τραίνα
+
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | TrainTrackr                 | https://www.traintrackr.com                        |
+| 2       | Raildar                    | https://www.raildar.com                            |
+| 3       | Trainspotting               | https://www.trainspotting.com                      |
+| 4       | RailSense                  | https://www.railsense.com                          |
+| 5       | RealTime Trains            | https://www.realtimetrains.co.uk                   |
+| 6       | Trainline                  | https://www.thetrainline.com                       |
+| 7       | Railway Track & Traffic Monitoring| https://www.railwaytrack.com                  |
+| 8       | RailFlow                   | https://www.railflow.com                           |
+| 9       | Trains Live                | https://www.trainslive.com                         |
+| 10      | GeoTrain                   | https://www.geotrain.com                           |
+| 11      | Railcams                   | https://www.railcams.co.uk                         |
+| 12      | Railways Tracker           | https://www.railwaystracker.com                    |
+| 13      | Trains Tracker             | https://www.trainstracker.com                      |
+| 14      | OpenRailwayMap             | https://www.openrailwaymap.org                     |
+| 15      | TrainRadar                 | https://www.trainradar.com                         |
+| 16      | SNCF Tracking              | https://www.sncf.com                               |
+| 17      | TrainTracker               | https://www.traintracker.com                       |
+| 18      | TrainWatcher               | https://www.trainwatcher.com                       |
+| 19      | TrainScan                   | https://www.trainscan.com                          |
+| 20      | TrainRoute                 | https://www.trainroute.com                         |
+| 21      | RailEnquiries              | https://www.railenquiries.co.uk                     |
+| 22      | Train-Tracking             | https://www.train-tracking.com                     |
+| 23      | TrainZoom                  | https://www.trainzoom.com                          |
+| 24      | TrenoTracker               | https://www.trenotracker.com                       |
+| 25      | TrainGps                   | https://www.traingps.com                           |
+| 26      | BNSF Railway Tracker       | https://www.bnsf.com/railroad/technology/track      |
+| 27      | Trainspotters Network      | https://www.trainspottersnetwork.com               |
+| 28      | RailTrans                  | https://www.railtrans.com                          |
+| 29      | TrainSignal                | https://www.trainsignal.com                        |
+| 30      | TrainPulse                 | https://www.trainpulse.com                         |
+| 31      | TrackYourTrain             | https://www.trackyourtrain.com                     |
+| 32      | RealRail                  | https://www.realrail.com                           |
+| 33      | SmartRail                  | https://www.smartrail.com                          |
+| 34      | TrainLive                  | https://www.trainlive.com                          |
+| 35      | RailWatch                  | https://www.railwatch.com                           |
+| 36      | TrainAlert                 | https://www.trainalert.com                         |
+| 37      | Railtracker                | https://www.railtracker.com                        |
+| 38      | RailMap                    | https://www.railmap.com                             |
+| 39      | RailwayMonitor             | https://www.railwaymonitor.com                     |
+| 40      | TrakTrain                  | https://www.traktrain.com                          |
+| 41      | European Train Tracking    | https://www.europeantraintracking.com              |
+| 42      | TrainspotterOnline         | https://www.trainspotteronline.com                 |
+| 43      | Trainmap                   | https://www.trainmap.com                            |
+| 44      | MobileTrain Tracker        | https://www.mobiletraintracker.com                 |
+| 45      | TrainRadarMap              | https://www.trainradarmap.com                      |
+| 46      | Track My Train             | https://www.trackmytrain.com                       |
+| 47      | RailOnTime                 | https://www.railontime.com                         |
+| 48      | RailMap Tracker            | https://www.railmaptracker.com                     |
+| 49      | Train GPS                  | https://www.traingps.com                           |
+| 50      | RailRoad Monitor           | https://www.railroadmonitor.com                    |
+| 51      | RailMove                   | https://www.railmove.com                           |
+| 52      | TrainVision                | https://www.trainvision.com                        |
+| 53      | TrakRail                   | https://www.trakrail.com                           |
+| 54      | TrainLog                   | https://www.trainlog.com                           |
+| 55      | RailTraffic Tracker        | https://www.railtraffictracker.com                 |
+| 56      | RailSmart                  | https://www.railsmart.com                          |
+| 57      | SmartTrack                 | https://www.smarttrack.com                         |
+| 58      | TrainRadarUK               | https://www.trainradaruk.com                       |
+| 59      | Track4Trains               | https://www.track4trains.com                       |
+| 60      | TrackMeTrain               | https://www.trackmetrain.com                       |
+| 61      | TrainSpotter Tracker       | https://www.trainspottertracker.com                |
+| 62      | Railcheck                  | https://www.railcheck.com                          |
+| 63      | TracRail                   | https://www.tracrail.com                           |
+| 64      | TrainTiming                | https://www.traintiming.com                        |
+| 65      | Trains Network             | https://www.trainsnetwork.com                      |
+| 66      | GPRS Train Tracker         | https://www.gprstraintracker.com                    |
+| 67      | TrainTrack Online          | https://www.traintrackonline.com                   |
+| 68      | TrainSpotter               | https://www.trainspotter.com                       |
+| 69      | TrainWatcher Pro           | https://www.trainwatcherpro.com                    |
+| 70      | Trains Information System  | https://www.trainsinformationsystem.com            |
+| 71      | Trains in Motion           | https://www.trainsinmotion.com                     |
+| 72      | TrainNet                   | https://www.trainnet.com                           |
+| 73      | RailLink                   | https://www.raillink.com                           |
+| 74      | TrainInfo                  | https://www.traininfo.com                          |
+| 75      | TrainLogistics             | https://www.trainlogistics.com                     |
+| 76      | TrackMyRail                | https://www.trackmyrail.com                        |
+| 77      | OnTime Trains              | https://www.ontimetrains.com                       |
+| 78      | RailCargoTracking          | https://www.railcargotracking.com                   |
+| 79      | EuroTrain Tracker          | https://www.eurotraintracker.com                   |
+| 80      | RailWeb                    | https://www.railweb.com                            |
+| 81      | TrainLocation              | https://www.trainlocation.com                      |
+| 82      | Live Train Status          | https://www.livetrainstatus.com                     |
+| 83      | RailTrackSystem            | https://www.railtracksystem.com                     |
+| 84      | SmartTrain Tracker         | https://www.smarttraintracker.com                  |
+| 85      | Tracking Trains            | https://www.trackingtrains.com                     |
+| 86      | MobileRail Tracker         | https://www.mobilerailtracker.com                  |
+| 87      | RailTracking System        | https://www.railtrackingsystem.com                 |
+| 88      | RailNet                    | https://www.railnet.com                             |
+| 89      | GlobalTrainTracker         | https://www.globaltraintracker.com                 |
+| 90      | TrackTrains                 | https://www.tracktrains.com                         |
+| 91      | TrainNet Live              | https://www.trainnetlive.com                       |
+| 92      | TrainTech                  | https://www.traintech.com                          |
+| 93      | RailPro                    | https://www.railpro.com                             |
+| 94      | Track & Trace Trains       | https://www.trackandtracetrains.com                 |
+| 95      | TrainSystems               | https://www.trainsystems.com                       |
+| 96      | TracTrains                 | https://www.tractrains.com                         |
+| 97      | RailMetrics                | https://www.railmetrics.com                        |
+| 98      | RailControl                | https://www.railcontrol.com                        |
+| 99      | TrainRoute Tracker         | https://www.trainroutetracker.com                   |
+| 100     | GlobalRail Tracker         | https://www.globalrailtracker.com                  |
+
+
+## Λεωφορεία
+
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | BusRadar                   | https://www.busradar.com                          |
+| 2       | Transit App                | https://www.transitapp.com                        |
+| 3       | Moovit                     | https://www.moovit.com                            |
+| 4       | BusTracker                 | https://www.bustracker.com                        |
+| 5       | BusTime                    | https://www.bustime.com                           |
+| 6       | RealTimeBus                | https://www.realtimebus.com                       |
+| 7       | BusLive                     | https://www.buslive.com                           |
+| 8       | NextBus                    | https://www.nextbus.com                           |
+| 9       | TrackMyBus                 | https://www.trackmybus.com                        |
+| 10      | CityMapper                 | https://www.citymapper.com                        |
+| 11      | BusWatch                   | https://www.buswatch.com                          |
+| 12      | BusAlert                   | https://www.busalert.com                          |
+| 13      | RideSystems                | https://www.ridesystems.com                       |
+| 14      | BusGPS                     | https://www.busgps.com                            |
+| 15      | Via Bus Tracker            | https://www.viabustracker.com                     |
+| 16      | Transtec                   | https://www.transtec.com                          |
+| 17      | Arriva Bus Tracker         | https://www.arrivabustracker.com                  |
+| 18      | FlixBus Tracker            | https://www.flixbus.com                           |
+| 19      | BusRoute                   | https://www.busroute.com                          |
+| 20      | TransLoc                   | https://www.transloc.com                          |
+| 21      | Triptik                    | https://www.triptik.com                           |
+| 22      | RideBus                    | https://www.ridebus.com                           |
+| 23      | SITA Bus Tracker           | https://www.sitabus.com                           |
+| 24      | Routematch                 | https://www.routematch.com                        |
+| 25      | BusLink                    | https://www.buslink.com                           |
+| 26      | BusMap                     | https://www.busmap.com                            |
+| 27      | Public Transport Tracker   | https://www.publictransporttracker.com            |
+| 28      | MyBusTracker               | https://www.mybustracker.com                      |
+| 29      | UrbanBus Tracker           | https://www.urbanbustracker.com                   |
+| 30      | BusStop Tracker            | https://www.busstoptracker.com                    |
+| 31      | BusTracker Pro             | https://www.bustrackerpro.com                     |
+| 32      | SwiftBus                   | https://www.swiftbus.com                           |
+| 33      | MetroBus Tracker           | https://www.metrobustracker.com                   |
+| 34      | TravelTracker              | https://www.traveltracker.com                     |
+| 35      | BusWeb                     | https://www.busweb.com                             |
+| 36      | Bustrack Systems           | https://www.bustracksystems.com                    |
+| 37      | LocaBus                    | https://www.locabus.com                            |
+| 38      | BusonTrack                 | https://www.busontrack.com                         |
+| 39      | CityBus Tracker            | https://www.citybustracker.com                    |
+| 40      | TransBus                   | https://www.transbus.com                           |
+| 41      | SmartBusTracker            | https://www.smartbustracker.com                   |
+| 42      | BusPro                     | https://www.buspro.com                             |
+| 43      | OnTime Bus Tracker         | https://www.ontimebustracker.com                  |
+| 44      | BusFind                    | https://www.busfind.com                            |
+| 45      | BusRouteFinder             | https://www.busroutefinder.com                     |
+| 46      | BusWatch Pro               | https://www.buswatchpro.com                        |
+| 47      | TransportHub               | https://www.transporthub.com                       |
+| 48      | GPSBus                     | https://www.gpsbus.com                             |
+| 49      | RideGuru                   | https://www.rideguru.com                           |
+| 50      | BusMapper                  | https://www.busmapper.com                          |
+| 51      | FleetBus Tracker           | https://www.fleetbustracker.com                   |
+| 52      | BusLive Tracker            | https://www.buslivetracker.com                     |
+| 53      | TransprtLive               | https://www.transprtLive.com                       |
+| 54      | BusJunction                | https://www.busjunction.com                        |
+| 55      | TrafficBus                 | https://www.trafficbus.com                         |
+| 56      | TravelBus                  | https://www.travelbus.com                          |
+| 57      | SafeBus                    | https://www.safebus.com                            |
+| 58      | TrackItBus                 | https://www.trackitbus.com                         |
+| 59      | OpenBus                    | https://www.openbus.com                            |
+| 60      | BusGSM                     | https://www.busgsm.com                             |
+| 61      | BusCatch                   | https://www.buscatch.com                           |
+| 62      | RapidBus                   | https://www.rapidbus.com                           |
+| 63      | MyTransport                | https://www.mytransport.com                        |
+| 64      | BusLiveFeed                | https://www.buslivefeed.com                        |
+| 65      | CityTracker                | https://www.citytracker.com                        |
+| 66      | OnBusTrack                 | https://www.onbustrack.com                         |
+| 67      | TripBus                    | https://www.tripbus.com                            |
+| 68      | CityTransit                | https://www.citytransit.com                        |
+| 69      | GreenBus                   | https://www.greenbus.com                           |
+| 70      | NextBusLive                | https://www.nextbuslive.com                        |
+| 71      | RapidTransitTracker        | https://www.rapidtransittracker.com                |
+| 72      | EcoBus                     | https://www.ecobus.com                             |
+| 73      | UrbanTransit               | https://www.urbantransit.com                       |
+| 74      | BusTrackerHub              | https://www.bustrackerhub.com                      |
+| 75      | RouteTracker               | https://www.routetracker.com                       |
+| 76      | StopAndGo                  | https://www.stopandgo.com                          |
+| 77      | BusFlow                    | https://www.busflow.com                            |
+| 78      | GoTransit                  | https://www.gotransit.com                           |
+| 79      | BusSpotter                 | https://www.busspotter.com                         |
+| 80      | TrackRider                 | https://www.trackrider.com                         |
+| 81      | UrbanBusWatch              | https://www.urbanbuswatch.com                      |
+| 82      | BusMapTracker              | https://www.busmaptracker.com                      |
+| 83      | OnBusLive                  | https://www.onbuslive.com                         |
+| 84      | RouteMap                   | https://www.routemap.com                           |
+| 85      | TransportNow               | https://www.transportnow.com                       |
+| 86      | BusMover                   | https://www.bustmover.com                          |
+| 87      | CityBuses                  | https://www.citybuses.com                          |
+| 88      | BusFlowLive                | https://www.busflowlive.com                        |
+| 89      | TrackingBus                | https://www.trackingbus.com                        |
+| 90      | BusTripTracker             | https://www.bustriptracker.com                     |
+| 91      | TravelTrackLive            | https://www.traveltracklive.com                    |
+| 92      | GPSBusTracker              | https://www.gpsbustracker.com                      |
+| 93      | CityTransitLive            | https://www.citytransitlive.com                    |
+| 94      | BusRadarPro                | https://www.busradarpro.com                        |
+| 95      | OnTimeTransit              | https://www.ontimetransit.com                      |
+| 96      | BusQuick                   | https://www.busquick.com                           |
+| 97      | BusFast                    | https://www.busfast.com                            |
+| 98      | RapidBusTracker            | https://www.rapidbustracker.com                    |
+| 99      | TransportTrak              | https://www.transporttrak.com                      |
+| 100     | CityTrack                  | https://www.citytrack.com                          |
+
+
+## Πλοία
+
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | MarineTraffic              | https://www.marinetraffic.com                      |
+| 2       | VesselFinder               | https://www.vesselfinder.com                       |
+| 3       | Ship Finder                | https://www.shipfinder.com                         |
+| 4       | FleetMon                   | https://www.fleetmon.com                           |
+| 5       | AIS Marine                 | https://www.aismarine.com                          |
+| 6       | MyShipTracking             | https://www.myshiptracking.com                     |
+| 7       | ShipSpotting               | https://www.shipspotting.com                       |
+| 8       | SeaViewTracking            | https://www.seaviewtracking.com                    |
+| 9       | VesselTracker              | https://www.vesseltracker.com                      |
+| 10      | MarineTraffic Pro          | https://www.marinetraffic.com/en/ais               |
+| 11      | MarineTraffic AIS          | https://www.marinetraffic.com/en/ais/              |
+| 12      | Shipboard                  | https://www.shipboard.com                          |
+| 13      | SkyWave                    | https://www.skywave.com                             |
+| 14      | Boatwatch                  | https://www.boatwatch.com                          |
+| 15      | ShipCam                    | https://www.shipcam.com                            |
+| 16      | Navionics                  | https://www.navionics.com                           |
+| 17      | TrackYourBoat              | https://www.trackyourboat.com                      |
+| 18      | Ship Watcher               | https://www.shipwatcher.com                        |
+| 19      | GlobalShipTracking         | https://www.globalshiptracking.com                 |
+| 20      | SRT Marinetraffic          | https://www.srtmarinetraffic.com                   |
+| 21      | SeaCaptain                 | https://www.seacaptain.com                         |
+| 22      | MarineTools                | https://www.marinetools.com                        |
+| 23      | ShipAccess                 | https://www.shipaccess.com                         |
+| 24      | MarineInsight              | https://www.marineinsight.com                      |
+| 25      | ShipTrack                  | https://www.shiptrack.com                          |
+| 26      | AIS Tracking               | https://www.aistracking.com                        |
+| 27      | VesselLink                 | https://www.vessellink.com                         |
+| 28      | VesselWatch                | https://www.vesselwatch.com                        |
+| 29      | ShipTracking               | https://www.shiptracking.com                       |
+| 30      | CargoWatch                 | https://www.cargowatch.com                         |
+| 31      | OceanFleetTracking         | https://www.oceanfleettracking.com                 |
+| 32      | Marinetraffic Map          | https://www.marinetrafficmap.com                   |
+| 33      | TrackVessel                | https://www.trackvessel.com                        |
+| 34      | PortMonitor                | https://www.portmonitor.com                        |
+| 35      | ShipWatch AIS              | https://www.shipwatchais.com                       |
+| 36      | GlobalAIS                  | https://www.globalais.com                          |
+| 37      | FleetRadar                 | https://www.fleetradar.com                         |
+| 38      | ShipControl                | https://www.shipcontrol.com                        |
+| 39      | MarineOnTheGo              | https://www.marineonthego.com                      |
+| 40      | ShipFinder Pro             | https://www.shipfinderpro.com                      |
+| 41      | LiveVesselTracking         | https://www.livevesseltracking.com                  |
+| 42      | VesselView                 | https://www.vesselview.com                         |
+| 43      | LiveMarineTracker          | https://www.livemarinetracker.com                  |
+| 44      | FleetMap                   | https://www.fleetmap.com                           |
+| 45      | ShipLocator                | https://www.shiplocator.com                        |
+| 46      | VesselAlert                | https://www.vesselalert.com                        |
+| 47      | FastShip                   | https://www.fastship.com                           |
+| 48      | FleetStatus                | https://www.fleetstatus.com                        |
+| 49      | ShipTrack Live             | https://www.shiptracklive.com                      |
+| 50      | SeaSearch                  | https://www.seasearch.com                          |
+| 51      | OceanShipTrack             | https://www.oceanshiptrack.com                     |
+| 52      | AISNow                     | https://www.aisnow.com                             |
+| 53      | MarineAis                  | https://www.marineais.com                          |
+| 54      | VesselConnect              | https://www.vesselconnect.com                      |
+| 55      | ShipTrail                  | https://www.shiptrail.com                          |
+| 56      | Marine Radar               | https://www.marinetracker.com/radar                |
+| 57      | FleetSearch                | https://www.fleetsearch.com                        |
+| 58      | SeaMonitor                 | https://www.seamonitor.com                         |
+| 59      | NauticTracker              | https://www.nautictracker.com                      |
+| 60      | CoastWatch                 | https://www.coastwatch.com                         |
+| 61      | MarineGate                 | https://www.marinegate.com                         |
+| 62      | OceanScan                  | https://www.oceanscan.com                          |
+| 63      | ShipSafe                   | https://www.shipsafe.com                           |
+| 64      | LiveAIS                    | https://www.liveais.com                            |
+| 65      | VesselSafe                 | https://www.vesselsafe.com                         |
+| 66      | ShipMap                    | https://www.shipmap.com                            |
+| 67      | AISInfo                    | https://www.aisinfo.com                            |
+| 68      | TrackingAIS                | https://www.trackingais.com                        |
+| 69      | MarineStats                | https://www.marinestats.com                        |
+| 70      | SafeShip                   | https://www.safeship.com                           |
+| 71      | OceanPort                  | https://www.oceanport.com                          |
+| 72      | VesselMap                  | https://www.vesselmap.com                           |
+| 73      | AISData                    | https://www.aisdata.com                            |
+| 74      | PortShip                   | https://www.portship.com                           |
+| 75      | VesselsInSight             | https://www.vesselsinsight.com                     |
+| 76      | ShipLocatorPro             | https://www.shiplocatorpro.com                    |
+| 77      | TrackAIS                   | https://www.trackais.com                           |
+| 78      | MarineTracking             | https://www.marinetracking.com                     |
+| 79      | LiveShipping               | https://www.liveshipping.com                       |
+| 80      | VesselMapping              | https://www.vesselmapping.com                      |
+| 81      | OceanExplorer              | https://www.oceanexplorer.com                      |
+| 82      | ShipWorld                  | https://www.shipworld.com                          |
+| 83      | MarineSight                | https://www.marinesight.com                        |
+| 84      | SeaTrack                   | https://www.seatrack.com                           |
+| 85      | PortAIS                    | https://www.portais.com                            |
+| 86      | ShipTrack AIS              | https://www.shiptrackais.com                       |
+| 87      | VesselGlobal               | https://www.vesselglobal.com                       |
+| 88      | ShipRadar                  | https://www.shipradar.com                          |
+| 89      | OceanAIS                   | https://www.oceanais.com                           |
+| 90      | VesselView Pro             | https://www.vesselviewpro.com                      |
+| 91      | FleetAIS                   | https://www.fleetais.com                           |
+| 92      | ShipMonitor                | https://www.shipmonitor.com                        |
+| 93      | VesselWatch Pro            | https://www.vesselwatchpro.com                     |
+| 94      | SeaScan                    | https://www.seascan.com                            |
+| 95      | PortRadar                  | https://www.portradar.com                          |
+| 96      | ShipGate                   | https://www.shipgate.com                           |
+| 97      | VesselTrack Pro            | https://www.vesseltrackpro.com                     |
+| 98      | OceanFleetMonitor          | https://www.oceanfleetmonitor.com                  |
+| 99      | MarineWatch                | https://www.marinewatch.com                        |
+| 100     | ShipLocator Live           | https://www.shiplocatorlive.com                    |
+
+
+## Κοντέινερ & Κάργκο
+
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | Container Tracking          | https://www.containertracking.com                  |
+| 2       | TrackYourCargo              | https://www.trackyourcargo.com                     |
+| 3       | MarineTraffic Cargo         | https://www.marinetraffic.com/en/cargo             |
+| 4       | Port of Los Angeles Cargo   | https://www.portoflosangeles.org/cargo             |
+| 5       | Container Search            | https://www.containers-search.com                  |
+| 6       | CargoTrackers               | https://www.cargotrackers.com                      |
+| 7       | CargoWatch                  | https://www.cargowatch.com                         |
+| 8       | ContainerTracker            | https://www.containertracker.com                   |
+| 9       | Freight Tracker             | https://www.freighttracker.com                     |
+| 10      | Freightos                   | https://www.freightos.com                          |
+| 11      | BoxC Tracker                | https://www.boxctracker.com                        |
+| 12      | Cargo Hub                   | https://www.cargohub.com                           |
+| 13      | ShipTrack Cargo             | https://www.shiptrackcargo.com                     |
+| 14      | Cargo Services              | https://www.cargoservices.com                      |
+| 15      | Container Search Engine     | https://www.containersearchengine.com              |
+| 16      | Global Cargo Tracking       | https://www.globalcargotracking.com                |
+| 17      | Container Locator           | https://www.containerlocator.com                   |
+| 18      | EasyCargo                   | https://www.easycargo.com                          |
+| 19      | Container Portal            | https://www.containerportal.com                    |
+| 20      | Searates Cargo Tracker      | https://www.searates.com/en/cargo-tracking         |
+| 21      | ShipCompliant               | https://www.shipcompliant.com                      |
+| 22      | CargoTrack                  | https://www.cargotrack.com                         |
+| 23      | Trans Global Shipping       | https://www.transglobalshipping.com/cargo-tracking |
+| 24      | Ocean Network Express       | https://www.one-line.com/en/cargo-tracking         |
+| 25      | Maersk Tracking             | https://www.maersk.com/tracking                    |
+| 26      | Hapag-Lloyd Tracking        | https://www.hapag-lloyd.com/en/tracking.html       |
+| 27      | DHL Global Forwarding       | https://www.dhl.com/en/logistics/air-cargo.html    |
+| 28      | COSCO Shipping Lines        | https://www.coscoshipping.com/en/tracking          |
+| 29      | CMA CGM Cargo Tracking      | https://www.cma-cgm.com/ebusiness/cargo-tracking   |
+| 30      | MSC Container Tracking      | https://www.msc.com/tracking                       |
+| 31      | ZIM Integrated Shipping     | https://www.zim.com/en/tracking                    |
+| 32      | DB Schenker Cargo           | https://www.dbschenker.com/global/cargo-tracking   |
+| 33      | Kuehne+Nagel Cargo          | https://www.kuehne-nagel.com/en/tracking           |
+| 34      | Evergreen Marine            | https://www.evergreen-marine.com                   |
+| 35      | TCI Express                 | https://www.tciexpress.in                           |
+| 36      | Container Tracking Online   | https://www.containertrackingonline.com            |
+| 37      | Container Check             | https://www.containercheck.com                     |
+| 38      | Freight Monitoring          | https://www.freightmonitoring.com                  |
+| 39      | Cargo Link                 | https://www.cargolink.com                           |
+| 40      | TransOcean Cargo           | https://www.transoceancargo.com                    |
+| 41      | ShipTrack                   | https://www.shiptrack.com                          |
+| 42      | FreightLink                 | https://www.freightlink.com                        |
+| 43      | Track & Trace               | https://www.trackandtrace.com                      |
+| 44      | OnTime Freight             | https://www.ontimefreight.com                      |
+| 45      | Quick Ship Tracking         | https://www.quickshiptracking.com                  |
+| 46      | Global Ship Tracking        | https://www.globalshiptracking.com                 |
+| 47      | E-Trackers                  | https://www.etrackers.com                          |
+| 48      | TrackMyCargo               | https://www.trackmycargo.com                       |
+| 49      | Easy Tracking               | https://www.easytracking.com                       |
+| 50      | Container Monitoring        | https://www.containermonitoring.com                |
+| 51      | ShipFinder                  | https://www.shipfinder.com                         |
+| 52      | Port Container Tracker      | https://www.portcontainertracker.com               |
+| 53      | ContainerSearch             | https://www.containersearch.com                    |
+| 54      | Ocean Cargo Tracking        | https://www.oceancargotracking.com                 |
+| 55      | MarineCargo                 | https://www.marinecargo.com                        |
+| 56      | CargoLogistics Tracker      | https://www.cargologisticstracker.com               |
+| 57      | FreightShipping             | https://www.freightshipping.com                    |
+| 58      | Digital Cargo Tracking      | https://www.digitalcargotracking.com               |
+| 59      | CargoTrack Pro              | https://www.cargotrackpro.com                      |
+| 60      | ContainerTrackr             | https://www.containertrackr.com                    |
+| 61      | Cargomax                    | https://www.cargomax.com                           |
+| 62      | Port Tracking               | https://www.porttracking.com                       |
+| 63      | Global Freight Tracking     | https://www.globalfreighttracking.com              |
+| 64      | ContainerMonitor            | https://www.containermonitor.com                   |
+| 65      | Port Monitoring             | https://www.portmonitoring.com                     |
+| 66      | Shipboard Tracking          | https://www.shipboardtracking.com                  |
+| 67      | CargoView                   | https://www.cargoview.com                          |
+| 68      | Tracked Cargo               | https://www.trackedcargo.com                       |
+| 69      | ContainerTrack              | https://www.containertrack.com                     |
+| 70      | ShipLink                    | https://www.shiplink.com                           |
+| 71      | FleetWatch                  | https://www.fleetwatch.com                         |
+| 72      | Global Cargo Tracker        | https://www.globalcargotracker.com                 |
+| 73      | Instant Tracking            | https://www.instanttracking.com                    |
+| 74      | ShipMonitor                 | https://www.shipmonitor.com                        |
+| 75      | TrackLine                   | https://www.trackline.com                          |
+| 76      | Container Finders           | https://www.containerfinders.com                   |
+| 77      | PortHawk                    | https://www.porthawk.com                           |
+| 78      | TransTrack                  | https://www.transtrack.com                         |
+| 79      | OceanTrack                  | https://www.oceantrack.com                         |
+| 80      | FreightTrack Pro            | https://www.freighttrackpro.com                    |
+| 81      | TrackOcean                  | https://www.trackocean.com                         |
+| 82      | ShipTrack Live              | https://www.shiptracklive.com                      |
+| 83      | ShipFinder Pro              | https://www.shipfinderpro.com                      |
+| 84      | MarineCargoTracker          | https://www.marinecargotracker.com                 |
+| 85      | GlobalTracking              | https://www.globaltracking.com                     |
+| 86      | TrackCargo Pro              | https://www.trackcargopro.com                      |
+| 87      | FleetTrack                  | https://www.fleettrack.com                         |
+| 88      | PortShip Tracking           | https://www.portshiptracking.com                   |
+| 89      | Logistics Tracker           | https://www.logisticstracker.com                   |
+| 90      | QuickTrack                  | https://www.quicktrack.com                          |
+| 91      | TrackIt Cargo               | https://www.trackitcargo.com                       |
+| 92      | E-ContainerTracking         | https://www.e-containertracking.com                |
+| 93      | GlobalTrack Cargo           | https://www.globaltrackcargo.com                   |
+| 94      | TrackNTrade                 | https://www.trackntrade.com                        |
+| 95      | EasyCargoTracking           | https://www.easycargotracking.com                  |
+| 96      | OnTrack                     | https://www.ontrack.com                            |
+| 97      | LiveCargoTracking           | https://www.livecargotracking.com                  |
+| 98      | ContainerLink               | https://www.containerlink.com                      |
+| 99      | FreightTrack Live           | https://www.freighttracklive.com                   |
+| 100     | RealCargoTrack              | https://www.realc
+
 </details>
 
 ---
@@ -1462,6 +2415,112 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 48      | CipherTech                  | https://www.ciphertech.gr/                         |
 | 49      | CyberSec Services           | https://www.cybersec.gr/                          |
 | 50      | Sigma Cyber                 | https://www.sigmacyber.gr/                         |
+
+## Web Intelligence Tools - Ευφυη Διαδικτυακά Εργαλεία
+
+| Αριθμός | Όνομα Εργαλείου            | Σύνδεσμος                                         |
+|---------|----------------------------|---------------------------------------------------|
+| 1       | Shodan                     | https://www.shodan.io/                            |
+| 2       | Censys                     | https://censys.io/                                |
+| 3       | Netcraft                   | https://www.netcraft.com/                         |
+| 4       | DNSdumpster                | https://dnsdumpster.com/                          |
+| 5       | VirusTotal                 | https://www.virustotal.com/                       |
+| 6       | GeoIPTool                  | https://geoiptool.com/                            |
+| 7       | SecurityTrails             | https://securitytrails.com/                       |
+| 8       | WhoisXML API               | https://whoisxmlapi.com/                          |
+| 9       | SSL Labs                   | https://www.ssllabs.com/                          |
+| 10      | ZoomEye                    | https://www.zoomeye.org/                          |
+| 11      | Spyse                       | https://spyse.com/                                |
+| 12      | Recon-ng                    | https://github.com/lanmaster53/recon-ng           |
+| 13      | Sublist3r                   | https://github.com/aboul3la/Sublist3r             |
+| 14      | FOCA                       | https://www.informatica64.com/foca/               |
+| 15      | TheHarvester                | https://github.com/laramies/theHarvester          |
+| 16      | URLScan.io                  | https://urlscan.io/                               |
+| 17      | ThreatMiner                 | https://www.threatminer.org/                      |
+| 18      | Wappalyzer                 | https://www.wappalyzer.com/                       |
+| 19      | BuiltWith                   | https://builtwith.com/                            |
+| 20      | Netcat                      | https://nc110.sourceforge.net/                    |
+| 21      | IPinfo.io                  | https://ipinfo.io/                                |
+| 22      | Robtex                     | https://www.robtex.com/                           |
+| 23      | Virustotal Intelligence     | https://www.virustotal.com/intelligence/          |
+| 24      | Osintframework             | https://github.com/lockfale/OSINT-Framework       |
+| 25      | PassiveDNS                 | https://github.com/irsl/passivedns                |
+| 26      | PassiveTotal               | https://www.passivetotal.org/                     |
+| 27      | Maltego                     | https://www.maltego.com/                          |
+| 28      | Have I Been Pwned          | https://haveibeenpwned.com/                       |
+| 29      | Intelligence X             | https://intelx.io/                                |
+| 30      | IPVoid                     | https://www.ipvoid.com/                           |
+| 31      | Shodan Exploits            | https://www.shodan.io/exploits                    |
+| 32      | Farsight Security          | https://www.farsightsecurity.com/                  |
+| 33      | Netcat (Nmap)              | https://nmap.org/                                 |
+| 34      | URLVoid                    | https://www.urlvoid.com/                          |
+| 35      | Subdomain Finder           | https://github.com/ushitora/subdomain-finder      |
+| 36      | Recon-ng                    | https://github.com/lanmaster53/recon-ng           |
+| 37      | SSLCheck                   | https://www.sslshopper.com/                       |
+| 38      | Spyse                        | https://spyse.com/                                |
+| 39      | ReverseDNS                 | https://www.reverse-dns.com/                      |
+| 40      | Shodan CLI                 | https://github.com/achillean/shodan-python-cli   |
+| 41      | Path Traversal             | https://github.com/jaywenderlich/PathTraversal    |
+| 42      | OSINTCombine               | https://www.osintcombine.com/                      |
+| 43      | Fofa                        | https://fofa.so/                                   |
+| 44      | URLScan.io                  | https://urlscan.io/                               |
+| 45      | Github Search              | https://github.com/search?q=security&type=repositories |
+| 46      | Security Trails            | https://securitytrails.com/                       |
+| 47      | Builtwith Tracker          | https://builtwith.com/                            |
+| 48      | Google Dorking             | https://www.exploit-db.com/google-hacking-database |
+| 49      | IP Tracker                 | https://www.ip-tracker.org/                       |
+| 50      | DomainTools                | https://www.domaintools.com/                      |
+| 51      | IsItDownRightNow           | https://www.isitdownrightnow.com/                 |
+| 52      | Google Hacking Database    | https://www.exploit-db.com/google-hacking-database |
+| 53      | Dnsstuff                   | https://www.dnsstuff.com/                         |
+| 54      | TheHarvester               | https://github.com/laramies/theHarvester          |
+| 55      | Wayback Machine            | https://web.archive.org/                           |
+| 56      | URL Extractor              | https://www.url-extractor.com/                    |
+| 57      | SSL Labs                   | https://www.ssllabs.com/                          |
+| 58      | Onyphe                     | https://www.onyphe.io/                            |
+| 59      | DNSstuff                   | https://www.dnsstuff.com/                         |
+| 60      | Crt.sh                     | https://crt.sh/                                   |
+| 61      | Google DNS                 | https://developers.google.com/speed/public-dns    |
+| 62      | GreyNoise                  | https://www.greynoise.io/                         |
+| 63      | IoT Inspector              | https://www.iot-inspector.com/                    |
+| 64      | Thinkst Canary             | https://www.thinkst.com/canary/                   |
+| 65      | AnalyzeURLs                | https://www.analyzeurls.com/                      |
+| 66      | Sublist3r                  | https://github.com/aboul3la/Sublist3r             |
+| 67      | Apility.io                 | https://apility.io/                               |
+| 68      | XSSLabs                    | https://www.xsslab.com/                           |
+| 69      | NetScan                    | https://www.netscan.tools/                        |
+| 70      | Webscanner                 | https://github.com/ianbik/owasp-zap-web-scanner   |
+| 71      | OpenVAS                     | https://www.openvas.org/                          |
+| 72      | HackerTarget               | https://hackertarget.com/                         |
+| 73      | NetworkMiner               | https://www.netresec.com/?page=NetworkMiner        |
+| 74      | Security Onion             | https://securityonion.net/                        |
+| 75      | PwnedList                  | https://www.pwnedlist.com/                        |
+| 76      | Pwned Passwords            | https://pwnedpasswords.com/                       |
+| 77      | DNSRevelation              | https://www.dnsrevelation.com/                    |
+| 78      | Dnsrecon                   | https://github.com/darkoperator/dnsrecon          |
+| 79      | Google Hacking             | https://www.exploit-db.com/google-hacking-database |
+| 80      | Censys API                 | https://censys.io/                                |
+| 81      | Wappalyzer                 | https://www.wappalyzer.com/                       |
+| 82      | Whois API                  | https://www.whoisxmlapi.com/                      |
+| 83      | Domain Dossier             | https://domaindossier.com/                        |
+| 84      | Netcat (Nmap)              | https://nmap.org/                                 |
+| 85      | Sublist3r                  | https://github.com/aboul3la/Sublist3r             |
+| 86      | Shodan Exploits            | https://www.shodan.io/exploits                    |
+| 87      | OSINT Framework            | https://osintframework.com/                       |
+| 88      | Subdomain Enumeration      | https://github.com/Maskbook/scan-subdomain        |
+| 89      | SSLCheck                   | https://www.sslcheck.com/                         |
+| 90      | Censys.io                  | https://censys.io/                                |
+| 91      | Whois API                  | https://whoisapi.com/                             |
+| 92      | HackerTarget               | https://hackertarget.com/                         |
+| 93      | DNSstuff                   | https://www.dnsstuff.com/                         |
+| 94      | Fofa                        | https://fofa.so/                                  |
+| 95      | Certificate Transparency   | https://crt.sh/                                   |
+| 96      | URLscan.io                 | https://urlscan.io/                               |
+| 97      | UrlExtrator                | https://www.url-extractor.com/                    |
+| 98      | URLscan.io                 | https://urlscan.io/                               |
+| 99      | XSSPayloads                | https://github.com/Chris00/xss-payloads           |
+| 100     | DNS Recon                  | https://github.com/darkoperator/dnsrecon          |
+
 
 </details>
 
