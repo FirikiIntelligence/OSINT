@@ -2016,3 +2016,295 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 100     | Digital Insights Hub Greece         | https://www.digitalinsightshubgreece.gr/            |
 
 </details>
+
+---
+
+<details>
+  <summary>11. GEOINT - ΓΕΩΠΟΝΟ (Geopolitical Intelligence - Γεωπολιτική Νοημοσύνη)</summary>
+
+  ##Διεθνή Εργαλεία για GEOINT - ΓΕΩΠΟΝΟ
+
+| Αριθμός | Όνομα Εργαλείου                      | Σύνδεσμος                                           |
+|---------|---------------------------------------|----------------------------------------------------|
+| 1       | International Crisis Group            | https://www.crisisgroup.org/                       |
+| 2       | The Diplomat                         | https://thediplomat.com/                          |
+| 3       | Global Conflict Tracker               | https://www.cfr.org/global-conflict-tracker        |
+| 4       | Foreign Affairs                       | https://www.foreignaffairs.com/                    |
+| 5       | The Brookings Institution             | https://www.brookings.edu/                        |
+| 6       | Council on Foreign Relations (CFR)    | https://www.cfr.org/                              |
+| 7       | Carnegie Endowment for International Peace | https://carnegieendowment.org/            |
+| 8       | Stratfor                              | https://www.stratfor.com/                         |
+| 9       | RAND Corporation                      | https://www.rand.org/                             |
+| 10      | Center for Strategic and International Studies (CSIS) | https://www.csis.org/       |
+| 11      | Chatham House                        | https://www.chathamhouse.org/                      |
+| 12      | Royal United Services Institute (RUSI) | https://rusi.org/                                 |
+| 13      | Institute for Policy Studies (IPS)    | https://ips-dc.org/                               |
+| 14      | European Council on Foreign Relations | https://ecfr.eu/                                  |
+| 15      | Geopolitical Futures                  | https://geopoliticalfutures.com/                   |
+| 16      | Al Jazeera English                    | https://www.aljazeera.com/news/                    |
+| 17      | BBC News – World                     | https://www.bbc.com/news/world                     |
+| 18      | The Economist                         | https://www.economist.com/                         |
+| 19      | The New York Times – World News       | https://www.nytimes.com/section/world              |
+| 20      | Reuters World News                    | https://www.reuters.com/news/world/                |
+| 21      | The National Interest                 | https://nationalinterest.org/                      |
+| 22      | Foreign Policy                        | https://foreignpolicy.com/                         |
+| 23      | Defense One                           | https://www.defenseone.com/                        |
+| 24      | Military Times                        | https://www.militarytimes.com/                     |
+| 25      | The Heritage Foundation               | https://www.heritage.org/                          |
+| 26      | The Atlantic                          | https://www.theatlantic.com/                       |
+| 27      | BBC World Service – Politics          | https://www.bbc.com/news/world/politics             |
+| 28      | The Washington Post – World Politics  | https://www.washingtonpost.com/world/               |
+| 29      | Associated Press – International      | https://apnews.com/hub/international                 |
+| 30      | Voice of America                      | https://www.voanews.com/                            |
+| 31      | The Independent – Politics             | https://www.independent.co.uk/news/world/politics   |
+| 32      | GlobalSecurity.org                     | https://www.globalsecurity.org/                     |
+| 33      | Reuters – Politics                    | https://www.reuters.com/news/politics/               |
+| 34      | Al-Monitor                            | https://www.al-monitor.com/                         |
+| 35      | Diplomatic Courier                    | https://www.diplomaticourier.com/                   |
+| 36      | Eurasia Group                         | https://www.eurasiagroup.net/                       |
+| 37      | Council of Foreign Relations – Global    | https://www.cfr.org/global/                         |
+| 38      | The National Bureau of Asian Research  | https://www.nbr.org/                               |
+| 39      | Australian Strategic Policy Institute  | https://www.aspi.org.au/                           |
+| 40      | International Institute for Strategic Studies | https://www.iiss.org/                  |
+| 41      | Conflict Management and Development Journal | https://www.cmdjournal.org/                 |
+| 42      | National Security Archive              | https://nsarchive.gwu.edu/                         |
+| 43      | World Politics Review                  | https://www.worldpoliticsreview.com/                |
+| 44      | Institute for the Study of War         | https://www.understandingwar.org/                   |
+| 45      | Carnegie Moscow Center                 | https://carnegie.ru/                               |
+| 46      | European Union External Action (EEAS)   | https://eeas.europa.eu/                           |
+| 47      | The Foreign and Commonwealth Office    | https://www.gov.uk/government/organisations/foreign-commonwealth-office |
+| 48      | European Union Institute for Security Studies | https://www.iss.europa.eu/                   |
+| 49      | Centre for European Reform             | https://www.cer.org.uk/                            |
+| 50      | The World Bank – Governance and Development | https://www.worldbank.org/en/topic/governance |
+| 51      | Center for Strategic and International Studies (CSIS) | https://www.csis.org/                          |
+| 52      | The Economist - Politics & Diplomacy    | https://www.economist.com/sections/politics         |
+| 53      | The Globalist                          | https://www.theglobalist.com/                      |
+| 54      | Foreign Affairs                        | https://www.foreignaffairs.com/                    |
+| 55      | European Council on Foreign Relations (ECFR) | https://ecfr.eu/                               |
+| 56      | European Security and Defence Policy    | https://www.europeanssd.com/                       |
+| 57      | The Diplomat                           | https://thediplomat.com/                           |
+| 58      | Brookings Institution – Foreign Policy  | https://www.brookings.edu/topic/foreign-policy/     |
+| 59      | RAND Corporation                       | https://www.rand.org/                              |
+| 60      | International Crisis Group              | https://www.crisisgroup.org/                        |
+| 61      | Wilson Center – International Politics  | https://www.wilsoncenter.org/topic/international-politics |
+| 62      | National Security Council (US)          | https://www.whitehouse.gov/nsc/                    |
+| 63      | World Economic Forum - Geopolitics      | https://www.weforum.org/agenda/archive/geopolitics/ |
+| 64      | Stratfor                               | https://www.stratfor.com/                          |
+| 65      | Chatham House                          | https://www.chathamhouse.org/                       |
+| 66      | Center for the National Interest        | https://nationalinterest.org/                      |
+| 67      | The Jamestown Foundation               | https://jamestown.org/                             |
+| 68      | The Henry Jackson Society              | https://henryjacksonsociety.org/                    |
+| 69      | The New York Times – World News         | https://www.nytimes.com/section/world               |
+| 70      | The Guardian – World Politics           | https://www.theguardian.com/world                   |
+| 71      | The Financial Times – Global Politics    | https://www.ft.com/world                          |
+| 72      | The Diplomat – Asia Pacific Politics    | https://thediplomat.com/asia-pacific/               |
+| 73      | RealClearPolitics – Foreign Policy      | https://www.realclearpolitics.com/               |
+| 74      | Project Syndicate                      | https://www.project-syndicate.org/                  |
+| 75      | The Middle East Institute              | https://www.mei.edu/                               |
+| 76      | The Global Governance Institute         | https://www.globalgovernanceinstitute.org/         |
+| 77      | Conflict Resolution Network            | https://www.crnetwork.org/                         |
+| 78      | Global Insight by GlobalData            | https://www.globaldata.com/store/report/global-insight/ |
+| 79      | Eurasia Review                         | https://www.eurasiareview.com/                      |
+| 80      | Centre for International Governance Innovation | https://www.cigionline.org/                   |
+| 81      | Strategic Vision                        | https://www.strategic-vision.org/                   |
+| 82      | National Intelligence Council (US)      | https://www.dni.gov/index.php/what-we-do/national-intelligence-council |
+| 83      | Political Risk Analysis                 | https://www.politicalriskanalysis.com/              |
+| 84      | Geopolitical Futures                   | https://geopoliticalfutures.com/                    |
+| 85      | Armed Conflict Location & Event Data Project | https://acleddata.com/                           |
+| 86      | Global Conflict Tracker                 | https://globalconflicttracker.org/                 |
+| 87      | BBC News – International Politics       | https://www.bbc.com/news/world/politics             |
+| 88      | McKinsey & Company - Geopolitics        | https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/geopolitics |
+| 89      | The United Nations - Peace and Security | https://www.un.org/peacemaker/                     |
+| 90      | The Organization for Security and Cooperation in Europe (OSCE) | https://www.osce.org/                        |
+| 91      | Human Rights Watch - International Relations | https://www.hrw.org/topic/international-relations |
+| 92      | World Bank – Conflict and Development  | https://www.worldbank.org/en/topic/conflict         |
+| 93      | United Nations Refugee Agency (UNHCR)   | https://www.unhcr.org/                             |
+| 94      | The International Institute for Strategic Studies | https://www.iiss.org/                   |
+| 95      | The Hague Institute for Global Justice | https://www.thehagueinstituteforglobaljustice.org/   |
+| 96      | National Endowment for Democracy        | https://www.ned.org/                               |
+| 97      | Center for Global Development           | https://www.cgdev.org/                             |
+| 98      | Center for Economic and Policy Research | https://cepr.net/                                  |
+| 99      | Security Studies Journal                | https://www.jstor.org/journal/sectstudies           |
+| 100     | Asia Society                           | https://asiasociety.org/                           |
+| 101     | Council on Foreign Relations (CFR)      | https://www.cfr.org/                                |
+| 102     | Carnegie Endowment for International Peace | https://carnegieendowment.org/                    |
+| 103     | Hoover Institution on War, Revolution, and Peace | https://www.hoover.org/                         |
+| 104     | The World Bank – Governance and Political Institutions | https://www.worldbank.org/en/topic/governance |
+| 105     | Global Witness                         | https://www.globalwitness.org/                      |
+| 106     | The Atlantic Council                   | https://www.atlanticcouncil.org/                    |
+| 107     | The German Marshall Fund of the United States | https://www.gmfus.org/                          |
+| 108     | Centre for European Policy Studies (CEPS) | https://www.ceps.eu/                             |
+| 109     | Institute for Peace Research and Security Policy | https://www.ifsh.de/en/                         |
+| 110     | The Wilson Center – Global Europe       | https://www.wilsoncenter.org/global-europe          |
+| 111     | International Institute for Strategic Studies (IISS) | https://www.iiss.org/                         |
+| 112     | National Defense University - Center for Strategic Research | https://www.ndu.edu/                           |
+| 113     | United Nations Security Council (UNSC)  | https://www.un.org/securitycouncil/                |
+| 114     | NATO – Political Affairs and Security Policy | https://www.nato.int/cps/en/natolive/topics_82784.htm |
+| 115     | South Asia Political and Security Studies | https://www.southasiapolicy.org/                  |
+| 116     | Global Governance Institute            | https://www.globalgovernanceinstitute.org/         |
+| 117     | The G7 and G20 Summit                   | https://www.g7g20.org/                            |
+| 118     | Project on Middle East Political Science | https://mepcs.org/                                |
+| 119     | International Relations and Diplomacy Journal | https://www.ir-diplomacyjournal.com/             |
+| 120     | Global Security Forum                   | https://www.globalsecurityforum.com/               |
+| 121     | Political Risk Intelligence             | https://www.pri-international.com/                 |
+| 122     | Middle East Political Analysis          | https://www.mepoliticalanalysis.com/               |
+| 123     | Global Insight Network                   | https://www.globalinsightnetwork.com/              |
+| 124     | United Nations – Peacebuilding Support Office | https://www.un.org/peacebuilding/                |
+| 125     | The Kennedy School of Government        | https://www.hks.harvard.edu/                       |
+| 126     | Global Data – Geopolitical Intelligence | https://www.globaldata.com/                       |
+| 127     | Institute for Global Leadership         | https://www.globalleadership.org/                  |
+| 128     | European Institute of International Studies | https://www.eiis.org/                           |
+| 129     | Political & Social Conflict Monitor     | https://www.pscm.eu/                               |
+| 130     | International Legal Research Foundation | https://www.ilrf.org/                             |
+| 131     | Conflict Analysis Resource Center (CARC) | https://www.carc.org/                             |
+| 132     | The International Institute for Strategic Studies – Asia | https://www.iiss.org/asia                       |
+| 133     | African Union – Peace and Security Department | https://www.peaceau.org/                        |
+| 134     | Latin America Political Insights        | https://www.latinamericapoliticalinsights.com/     |
+| 135     | Foreign Policy Research Institute       | https://www.fpri.org/                              |
+| 136     | Security and Defence Policy Institute   | https://www.sdpolicy.org/                          |
+| 137     | Political Economy of International Relations | https://www.peir.org/                           |
+| 138     | Mediterranean Policy Center              | https://www.mediterraneanpolicycenter.org/         |
+| 139     | Eurasian Political Forum                | https://www.eurasianpoliticalforum.com/            |
+| 140     | Institute for Global Policy Research     | https://www.globalpolicyresearch.org/              |
+| 141     | The Asia Foundation                     | https://asiafoundation.org/                       |
+| 142     | Foreign Affairs and Defence Insights    | https://www.foreignaffairsdefenceinsights.com/      |
+| 143     | Global Political Risk Forum             | https://www.globalpoliticalriskforum.com/          |
+| 144     | Geopolitical Strategy Research Center   | https://www.geopoliticalstrategycenter.org/         |
+| 145     | Security Policy and International Relations | https://www.securitypolicyinternationalrelations.com/ |
+| 146     | Diplomatic Studies Institute            | https://www.diplomaticstudiesinstitute.org/         |
+| 147     | South American Political Affairs        | https://www.southamericanpoliticalaffairs.com/      |
+| 148     | The International Relations Network     | https://www.irnetwork.com/                         |
+| 149     | Strategic Policy & Global Security Research | https://www.globalstrategicresearch.com/          |
+| 150     | Political Studies Review                | https://www.politicalstudiesreview.com/            |
+
+---
+
+##Ελληνικά Εργαλεία για GEOINT - ΓΕΩΠΟΝΟ
+
+| Αριθμός | Όνομα Εργαλείου                      | Σύνδεσμος                                           |
+|---------|---------------------------------------|----------------------------------------------------|
+| 1       | Εφημερίδα Καθημερινή                 | https://www.kathimerini.gr/                        |
+| 2       | Εφημερίδα Τα Νέα                      | https://www.tanea.gr/                              |
+| 3       | Εφημερίδα Ελευθεροτυπία               | https://www.enet.gr/                               |
+| 4       | ΑΠΕ-ΜΠΕ (Αθηναϊκό-Μακεδονικό Πρακτορείο Ειδήσεων) | https://www.amna.gr/                |
+| 5       | ProtoThema                           | https://www.protothema.gr/                        |
+| 6       | Η Καθημερινή - Politics               | https://www.kathimerini.gr/politics/               |
+| 7       | Πολιτική - Ναυτεμπορική              | https://www.naftemporiki.gr/                      |
+| 8       | Το Βήμα                             | https://www.tovima.gr/                            |
+| 9       | Αθηναϊκό Ραδιόφωνο 105.8             | https://www.athina984.gr/                         |
+| 10      | Σκάι                                  | https://www.skai.gr/                               |
+| 11      | Τα Νέα Online                        | https://www.tanea.gr/                              |
+| 12      | Open Politics Greece                 | https://www.openpolitics.gr/                       |
+| 13      | Kινηματογραφικές Σπουδές – Πολιτικά Θέματα | https://www.politikisthetma.gr/             |
+| 14      | Οικονομική Πολιτική Ενημέρωση         | https://www.oe.gr/                                |
+| 15      | Εργαστήριο Γεωπολιτικών Στρατηγικών    | https://www.geopolitics.org.gr/                    |
+| 16      | Στρατηγική και Πολιτική Ανάλυση       | https://www.strategicpolicy.gr/                    |
+| 17      | Ελληνικό Ινστιτούτο Στρατηγικών Μελετών | https://www.hellenicinstitute.org/              |
+| 18      | Στρατηγικές και Διπλωματικές Μελέτες | https://www.strategicdiplomatic.gr/                |
+| 19      | Σκέψεις και Επιπτώσεις από τη Μέση Ανατολή | https://www.middleneastpolicy.gr/           |
+| 20      | Διεθνείς Σχέσεις και Συγκρούσεις      | https://www.internationalconflict.gr/              |
+| 21      | Παγκόσμιο Κέντρο Στρατηγικών Αναλύσεων | https://www.gcs.org.gr/                            |
+| 22      | Το Ινστιτούτο Διεθνών Σχέσεων (ΙΔΙΣ)    | https://www.idis.gr/                               |
+| 23      | Κέντρο Στρατηγικής και Πολιτικής Ανάλυσης | https://www.strategicpolicy.gr/                    |
+| 24      | Ινστιτούτο Μεσογειακών Σπουδών        | https://www.ims.gr/                                |
+| 25      | Ινστιτούτο Στρατηγικών Μελετών (ΙΣΜΕ)   | https://www.isme.gr/                               |
+| 26      | Ελληνικό Ινστιτούτο Στρατηγικών Μελετών | https://www.hellenicinstitute.org/                  |
+| 27      | Πανεπιστήμιο Αιγαίου - Πολιτικές Σπουδές | https://www.aegean.gr/political-science/            |
+| 28      | Εταιρεία Διεθνών Στρατηγικών Αναλύσεων  | https://www.edsa.gr/                               |
+| 29      | Κέντρο Διεθνών και Ευρωπαϊκών Σπουδών    | https://www.cies.gr/                               |
+| 30      | Ινστιτούτο Πολιτικών και Στρατηγικών Σπουδών | https://www.ips-gr.org/                        |
+| 31      | Στρατηγική και Πολιτική Ανάλυση         | https://www.strategicpolicy.gr/                    |
+| 32      | Ελληνική Εταιρεία Στρατηγικών Σπουδών  | https://www.hess.gr/                               |
+| 33      | Διεθνείς Σχέσεις & Πολιτική Ανάλυση     | https://www.iranalysis.gr/                        |
+| 34      | Πανεπιστήμιο Πειραιά - Διεθνείς Σχέσεις | https://www.unipi.gr/                             |
+| 35      | Ευρωπαϊκό Ινστιτούτο Πολιτικών Σπουδών  | https://www.eiops.gr/                              |
+| 36      | Στρατηγικές και Διπλωματικές Σχέσεις    | https://www.strategicdiplomatic.gr/                 |
+| 37      | Ινστιτούτο Γεωπολιτικών Αναλύσεων       | https://www.geopolitics.gr/                        |
+| 38      | Κέντρο Γεωπολιτικών Στρατηγικών Μελετών | https://www.geostrategics.gr/                      |
+| 39      | Διεθνείς Πολιτικές και Στρατηγικές      | https://www.diplomaticpolitics.gr/                  |
+| 40      | Διπλωματικό Ινστιτούτο Ελλάδας         | https://www.diplomaticinstitute.gr/                 |
+| 41      | Διεθνής Πολιτική Ενημέρωση             | https://www.internationalpolitics.gr/               |
+| 42      | Ερευνητικό Κέντρο Στρατηγικής Ανάλυσης  | https://www.researchcenterstrategic.gr/            |
+| 43      | Στρατηγική Ανάλυση και Διεθνείς Σχέσεις | https://www.strategicanalysis.gr/                  |
+| 44      | Ινστιτούτο Αντιτρομοκρατικής Πολιτικής  | https://www.antiterrorinstitute.gr/                 |
+| 45      | Ινστιτούτο Διεθνών Πολιτικών Μελετών   | https://www.idpm.gr/                               |
+| 46      | Διεθνής Πολιτική και Οικονομική Ανάλυση  | https://www.internationalanalysis.gr/               |
+| 47      | Κέντρο Στρατηγικών Μελετών - Ινστιτούτο Διπλωματίας | https://www.cstrategic.gr/              |
+| 48      | Ελληνικό Δίκτυο Διπλωματίας και Πολιτικής | https://www.hndiplomacy.gr/                     |
+| 49      | Στρατηγική και Ανάλυση Διεθνών Σχέσεων  | https://www.strategyrelations.gr/                   |
+| 50      | Κέντρο Πολιτικών Στρατηγικών Μελετών   | https://www.politicalstrategies.gr/                |
+| 51      | Εθνικό Κέντρο Κοινωνικών Επιστημών      | https://www.ncsr.gr/                               |
+| 52      | Ινστιτούτο Διεθνών Σχέσεων και Πολιτικής | https://www.idis.gr/                               |
+| 53      | Στρατηγικές Αναλύσεις και Σχέσεις       | https://www.strategicstudies.gr/                    |
+| 54      | Στρατηγικό Κέντρο Πολιτικής Ανάλυσης    | https://www.strategicpolicycenter.gr/               |
+| 55      | Ελληνικό Ινστιτούτο Διεθνών Σχέσεων     | https://www.hellenicinstitute.org/                  |
+| 56      | Γεωπολιτική και Διπλωματία              | https://www.geopoliticsdiplomacy.gr/                |
+| 57      | Κέντρο Διεθνών Στρατηγικών Σπουδών      | https://www.internationalstudies.gr/                |
+| 58      | Πανεπιστήμιο Μακεδονίας – Πολιτικές Σπουδές | https://www.uom.gr/political-science/             |
+| 59      | Ελληνικό Κέντρο Πολιτικής Ανάλυσης     | https://www.hellenicpolicycenter.gr/                |
+| 60      | Ινστιτούτο Στρατηγικών Σπουδών στην Ευρώπη | https://www.europeanstrategicstudies.gr/         |
+| 61      | Διπλωματικό και Πολιτικό Ινστιτούτο     | https://www.diplomaticpoliticalinstitute.gr/        |
+| 62      | Ελληνικό Κέντρο Στρατηγικής Ανάλυσης    | https://www.greekstrategiccenter.gr/                |
+| 63      | Πολιτική Ανάλυση και Συγκρούσεις        | https://www.politicalanalysis.gr/                   |
+| 64      | Ελληνικό Ινστιτούτο Στρατηγικών Μελετών | https://www.hellenicstrategicstudies.gr/            |
+| 65      | Στρατηγικές και Διπλωματικές Σχέσεις    | https://www.strategicdiplomatics.gr/                |
+| 66      | Ινστιτούτο Πολιτικών Επιστημών και Στρατηγικών Σπουδών | https://www.politicalscienceinstitute.gr/  |
+| 67      | Κέντρο Αντιμετώπισης Συγκρούσεων        | https://www.crisismanagement.gr/                    |
+| 68      | Στρατηγική Ανάλυση στην Πολιτική        | https://www.strategicpoliticsanalysis.gr/           |
+| 69      | Ινστιτούτο Πολιτικών Στρατηγικών Σπουδών | https://www.politicalstrategicinstitute.gr/        |
+| 70      | Ελληνικό Δίκτυο Διπλωματίας και Πολιτικής | https://www.grdiplomacy.gr/                        |
+| 71      | Διεθνής Πολιτική και Στρατηγική Ανάλυση | https://www.internationalstrategicanalysis.gr/      |
+| 72      | Πανεπιστήμιο Κρήτης - Στρατηγική και Πολιτική Ανάλυση | https://www.uoc.gr/                               |
+| 73      | Ινστιτούτο Αντιτρομοκρατικής Στρατηγικής | https://www.terrorismanalysis.gr/                   |
+| 74      | Στρατηγική Ανάλυση Πολιτικών Σχέσεων   | https://www.politicalstrategyanalysis.gr/           |
+| 75      | Διεθνείς Στρατηγικές Σχέσεις            | https://www.internationalstrategicrelations.gr/     |
+| 76      | Πανεπιστήμιο Θεσσαλονίκης – Στρατηγική Ανάλυση | https://www.auth.gr/                              |
+| 77      | Διπλωματικές Σχέσεις και Ανάλυση        | https://www.diplomaticrelationsanalysis.gr/         |
+| 78      | Γεωπολιτική Ανάλυση και Πολιτική Στρατηγική | https://www.geopoliticalstrategyanalysis.gr/     |
+| 79      | Ινστιτούτο Αντιστρατηγικής Πολιτικής    | https://www.anticrisisstrategic.gr/                 |
+| 80      | Κέντρο Στρατηγικής Πολιτικής Ανάλυσης   | https://www.centristrategy.gr/                      |
+| 81      | Ινστιτούτο Γεωπολιτικών Μελετών         | https://www.geopoliticsinstitute.gr/                |
+| 82      | Διπλωματική Ανάλυση Στρατηγικών Σχέσεων | https://www.diplomaticstrategicanalysis.gr/         |
+| 83      | Στρατηγικές Σχέσεις Διεθνών Οργανισμών  | https://www.internationalorganisations.gr/          |
+| 84      | Κέντρο Πολιτικής Στρατηγικής           | https://www.policystrategycenter.gr/                |
+| 85      | Ινστιτούτο Πολιτικών Στρατηγικών Σπουδών | https://www.politicalstrategicstudies.gr/          |
+| 86      | Γεωπολιτική Πολιτική και Στρατηγική Ανάλυση | https://www.geopoliticalpolitics.gr/             |
+| 87      | Ελληνικό Ινστιτούτο Γεωπολιτικών Σπουδών | https://www.hellenicgeopolitics.gr/                |
+| 88      | Πανεπιστήμιο Αθηνών – Διεθνείς Σχέσεις  | https://www.uoa.gr/political-science/               |
+| 89      | Διεθνείς Πολιτικές Σχέσεις και Διπλωματία | https://www.internationalrelationsdiplomacy.gr/     |
+| 90      | Στρατηγικές Πολιτικές και Διπλωματία    | https://www.strategicdiplomacy.gr/                  |
+| 91      | Κέντρο Στρατηγικής Γεωπολιτικής         | https://www.geopoliticalcenter.gr/                  |
+| 92      | Ανάλυση Διεθνών Πολιτικών Σχέσεων       | https://www.internationalpoliticalanalysis.gr/      |
+| 93      | Διεθνής Στρατηγική Πολιτική Ανάλυση     | https://www.internationalstrategicpolicy.gr/        |
+| 94      | Ινστιτούτο Γεωπολιτικής και Στρατηγικής | https://www.geopoliticalstrategic.gr/              |
+| 95      | Διπλωματικό Κέντρο Στρατηγικών Σχέσεων  | https://www.diplomaticstrategiccenter.gr/           |
+| 96      | Στρατηγική Ανάλυση Πολιτικών Οργανισμών | https://www.politicalorganizationanalysis.gr/       |
+| 97      | Ινστιτούτο Αντιπαραθέσεων και Στρατηγικής | https://www.confrontationinstitute.gr/            |
+| 98      | Στρατηγική Ανάλυση Σχέσεων Μεγάλων Δυνάμεων | https://www.greatpowersstrategy.gr/              |
+| 99      | Πολιτική Ανάλυση Κύριων Διεθνών Οργανισμών | https://www.maininternationalorganalysis.gr/    |
+| 100     | Κέντρο Στρατηγικής Διεθνών Σχέσεων      | https://www.centerforinternationalrelations.gr/    |
+| 101     | Ινστιτούτο Στρατηγικών Σπουδών          | https://www.strategicstudiesinstitute.gr/           |
+| 102     | Ελληνικό Ινστιτούτο Πολιτικής Ανάλυσης  | https://www.hellenicpolicyanalysis.gr/              |
+| 103     | Πανεπιστήμιο Αθηνών – Διεθνείς Σχέσεις  | https://www.uoa.gr/                               |
+| 104     | Κέντρο Διεθνών Σχέσεων και Πολιτικών Σπουδών | https://www.internationalstudies.gr/            |
+| 105     | Ινστιτούτο Αντιτρομοκρατίας             | https://www.terrorismcenter.gr/                    |
+| 106     | Στρατηγικές και Πολιτικές Σχέσεις       | https://www.strategicpoliticalrelations.gr/         |
+| 107     | Ελληνικό Κέντρο Γεωπολιτικής Στρατηγικής | https://www.geopoliticalcenter.gr/                 |
+| 108     | Κέντρο Διπλωματίας και Εξωτερικής Πολιτικής | https://www.diplomaticcenter.gr/                  |
+| 109     | Ινστιτούτο Πολιτικών Στρατηγικών Σπουδών | https://www.politicalstrategy.gr/                 |
+| 110     | Στρατηγικό Κέντρο Πολιτικής Ανάλυσης    | https://www.strategycenter.gr/                     |
+| 111     | Διεθνές Ινστιτούτο Πολιτικών Επιστημών  | https://www.internationalpoliticalinstitute.gr/    |
+| 112     | Ινστιτούτο Διεθνούς Στρατηγικής και Σχέσεων | https://www.internationalstrategyinstitute.gr/    |
+| 113     | Ελληνικό Κέντρο Στρατηγικής Ανάλυσης    | https://www.hellenicstrategiccenter.gr/             |
+| 114     | Ινστιτούτο Ανάλυσης Πολιτικών Σχέσεων  | https://www.politicalanalysis.gr/                  |
+| 115     | Στρατηγικές και Διπλωματικές Αναλύσεις  | https://www.diplomaticstrategicanalysis.gr/        |
+| 116     | Κέντρο Αντιμετώπισης Πολιτικών Κρίσεων  | https://www.crisismanagement.gr/                   |
+| 117     | Στρατηγικές Σχέσεις και Πολιτική Ανάλυση | https://www.politicalstrategyanalysis.gr/          |
+| 118     | Ινστιτούτο Πολιτικής Ανάλυσης και Γεωπολιτικής | https://www.policygeopolitics.gr/                 |
+| 119     | Ελληνικό Ινστιτούτο Διπλωματικών Σχέσεων | https://www.diplomacyinstitute.gr/                 |
+| 120     | Κέντρο Στρατηγικής Διεθνών Πολιτικών Σχέσεων | https://www.strategicrelations.gr/                |
+| 121     | Πανεπιστήμιο Θεσσαλονίκης – Διεθνείς Πολιτικές Σχέσεις | https://www.auth.gr/                           |
+| 122     | Στρατηγικές Σχέσεις και Γεωπολιτική Ανάλυση | https://www.geopoliticalstrategicanalysis.gr/     |
+| 123     | Ινστιτούτο Διεθνών Στρατηγικών Σχέσεων  | https://www.internationalrelationsinstitute.gr/    |
+| 124     | Ανάλυση Πολιτικών Σχέσεων Διπλωματίας  | https://www.diplomaticrelationsanalysis.gr/        |
+| 125     | Διεθνές Κέντρο Στρατηγικών Αναλύσεων    | https://www.internationalstrategycenter.gr/        |
