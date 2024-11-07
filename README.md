@@ -2576,116 +2576,6 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 ---
 
 <details>
-  <summary>Εργαλεία για Κατέβασμα Εικόνων και Βίντεο από Κοινωνικά Δίκτυα</summary>
-
-| Νο. | Όνομα Ιστοσελίδας         | URL                                          |
-|-----|---------------------------|----------------------------------------------|
-| 1   | 4K Video Downloader        | https://www.4kdownload.com/products/product-videodownloader |
-| 2   | YTD Video Downloader       | https://www.ytddownloader.com/               |
-| 3   | SaveFrom.net               | https://en.savefrom.net/                    |
-| 4   | ClipGrab                   | https://clipgrab.org/                       |
-| 5   | Video DownloadHelper       | https://www.downloadhelper.net/              |
-| 6   | Freemake Video Downloader  | https://www.freemake.com/free_video_downloader/ |
-| 7   | JDownloader                | https://jdownloader.org/                    |
-| 8   | KeepVid                   | https://keepvid.pro/                        |
-| 9   | DownloadGram               | https://downloadgram.org/                   |
-| 10  | Instagram Video Downloader | https://www.instadp.io/                     |
-| 11  | Dredown                   | https://www.dredown.com/                    |
-| 12  | SavePic                   | https://www.savepic.net/                    |
-| 13  | FBDOWN.net                | https://www.fbdown.net/                     |
-| 14  | Getfvid                   | https://getfvid.com/                        |
-| 15  | Online Video Converter     | https://www.onlinevideoconverter.com/        |
-| 16  | BitDownloader             | https://bitdownloader.com/                  |
-| 17  | Videoder                  | https://www.videoder.com/                   |
-| 18  | VidPaw                    | https://www.vidpaw.com/                     |
-| 19  | KeepVid Pro               | https://keepvid.com/                        |
-| 20  | SnapSave                  | https://www.snapsave.io/                    |
-| 21  | TubeOffline               | https://www.tubeoffline.com/                |
-| 22  | SaveAsVideo               | https://www.saveasvideo.com/                |
-| 23  | NetVideoHunter            | https://www.netvideohunter.com/             |
-| 24  | iTubeGo                   | https://itubego.com/                        |
-| 25  | MP3Studio                 | https://mp3studio.org/                      |
-| 26  | VideoGrabby               | https://videograbby.com/                    |
-| 27  | Y2Mate                    | https://www.y2mate.com/                     |
-| 28  | Online Video Downloader    | https://www.onlinevideodownloader.com/      |
-| 29  | MP4 Downloader            | https://www.mp4downloader.net/              |
-| 30  | SaveVid                   | https://savevid.com/                        |
-| 31  | VideoDownloader.com        | https://www.videodownloader.com/            |
-| 32  | Facebook Video Downloader  | https://www.fbvideo.downloader.online/      |
-| 33  | Instagram Downloader       | https://instadownloader.co/                 |
-| 34  | IGDownloader              | https://www.igdownloader.com/               |
-| 35  | Video2mp3                 | https://www.video2mp3.net/                  |
-| 36  | Savevideo.me              | https://savevideo.me/                       |
-| 37  | YouTube Video Downloader   | https://www.ytvideo.net/                    |
-| 38  | Simple Video Downloader    | https://www.simplevideodownloader.com/      |
-| 39  | FastSave                  | https://www.fastsaveapp.com/                |
-| 40  | Instagram Video Saver      | https://www.igvideosaver.com/               |
-| 41  | YouTubeDownloader.org      | https://www.youtubedownloader.org/          |
-| 42  | VideoDownhub              | https://www.videodownhub.com/               |
-| 43  | SaveTik                   | https://www.savetik.com/                    |
-| 44  | TikTokDownloader          | https://tiktokdownloader.org/               |
-| 45  | TikTok Video Downloader    | https://www.tiktokvideodownloader.com/      |
-| 46  | TDownloader               | https://www.tdownloader.com/                |
-| 47  | SSSTikTok                 | https://ssstik.io/                          |
-| 48  | Video Download Capture     | https://www.videodownloadcapture.com/       |
-| 49  | Fotorama                  | https://fotorama.com/                       |
-| 50  | Media.io                  | https://www.media.io/                       |
-| 51  | DownloadYouTubeVideos      | https://www.downloadyoutubevideos.com/      |
-| 52  | Dailymotion Video Downloader| https://www.dailymotiondownloader.com/     |
-| 53  | SaveClip                  | https://www.saveclip.net/                   |
-| 54  | ClipConverter.cc           | https://www.clipconverter.cc/               |
-| 55  | SaveTube                  | https://www.savetubevideo.com/              |
-| 56  | TubeMate                  | https://tubemate.net/                       |
-| 57  | ZOOM Downloader            | https://www.zoomdownloader.com/             |
-| 58  | Twitter Video Downloader   | https://www.twdownload.com/                 |
-| 59  | Video Converter            | https://www.onlinevideoconverter.com/       |
-| 60  | Streamable Video Downloader | https://www.streamable.com/                 |
-| 61  | SoundCloud Downloader      | https://www.scloud-download.com/            |
-| 62  | VideoCatcher              | https://www.videocatcher.com/               |
-| 63  | JustDownload              | https://www.justdownload.io/               |
-| 64  | Download Facebook Videos   | https://www.downloadfacebookvideos.com/     |
-| 65  | Free Online Video Downloader| https://www.freevideodownloader.com/       |
-| 66  | MyVideoDownloader          | https://myvideodownloader.com/              |
-| 67  | Any Video Converter        | https://www.any-video-converter.com/        |
-| 68  | GrabAnyMedia              | https://www.grabanymedia.com/               |
-| 69  | VideoToMP4                | https://www.videotomp4.com/                 |
-| 70  | YoutubeMate               | https://www.youtubemate.com/                |
-| 71  | OnlineYouTubeDownloader    | https://www.onlineyoutubedownloader.com/    |
-| 72  | Keepvid.pro               | https://keepvid.pro/                        |
-| 73  | SaveFrom                   | https://savefrom.net/                       |
-| 74  | All Video Downloader       | https://www.allvideodownloader.com/         |
-| 75  | Y2Mate YouTube Downloader  | https://www.y2mate.com/                     |
-| 76  | TubeMate Downloader        | https://www.tubemate.net/                   |
-| 77  | VideoDownloadHub           | https://www.videodownloadhub.com/           |
-| 78  | ClipDownloader             | https://www.clipdownloader.com/             |
-| 79  | SnapDownloader             | https://www.snapdownloader.com/             |
-| 80  | Instadp                   | https://www.instadp.io/                     |
-| 81  | VideoToPic                 | https://www.videotopic.com/                 |
-| 82  | DownloadYouTubeVideos.net  | https://www.downloadyoutubedownload.com/    |
-| 83  | InstaSave                  | https://www.instasave.io/                   |
-| 84  | SaveInstagram              | https://www.saveinsta.org/                  |
-| 85  | FacebookVideoSave          | https://www.facebookvideosave.com/          |
-| 86  | Reddit Video Downloader    | https://www.redditvideodownloader.com/      |
-| 87  | QuickSave                  | https://www.quicksave.io/                   |
-| 88  | GiphyDownloader            | https://www.giphydownloader.com/            |
-| 89  | Vimeo Video Downloader     | https://www.vimeodownloader.com/            |
-| 90  | FastVid                   | https://www.fastvid.net/                    |
-| 91  | ClipGrabber                | https://www.clipgrabber.net/                |
-| 92  | FB Video Downloader        | https://www.fbvideodownloader.com/          |
-| 93  | TubeM8                    | https://www.tubem8.com/                     |
-| 94  | MediaDownloader            | https://www.mediadownloader.com/            |
-| 95  | VideoGrabber               | https://www.videograbber.net/               |
-| 96  | GetVideo                   | https://www.getvideo.me/                    |
-| 97  | Free Video Downloader      | https://www.freevideodownloader.net/        |
-| 98  | DownloadMP4                | https://www.downloadmp4.org/                |
-| 99  | VideoDownloadPlus          | https://www.videodownloadplus.com/          |
-| 100 | MediaSave                 | https://www.mediasave.net/                  |
-
-</details>
-
----
-
-<details>
   <summary>OPSEC - Counterintelligence (Operational Security) - ΕΠΙΣΑ - Ευφυής Έρευνα Αντιμέτρων (Επιχειρησιακή Ασφάλεια)</summary>
 
   # 12. OPSEC (Operational Security) - ΕΠΙΣΑ (Επιχειρησιακή Ασφάλεια)
@@ -3005,7 +2895,7 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 99  | Trint                          | https://www.trint.com/                           |
 | 100 | Sonix                          | https://sonix.ai/                                |
 
-##II. Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική (Ελληνικά)
+## II. Εργαλεία για Μετάφραση, Σύνταξη & Γραμματική (Ελληνικά)
 
 | Νο. | Όνομα Ιστοσελίδας               | URL                                              |
 |-----|----------------------------------|--------------------------------------------------|
@@ -3110,4 +3000,117 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 99  | Σύστημα Διορθώσεων            | https://www.textsystem.gr/                       |
 | 100 | Πολυγλωσσικά Εργαλεία         | https://www.multi-lingualtools.gr/               |
 
-</details>  
+</details>
+
+---
+
+---
+
+<details>
+  <summary>Εργαλεία για Κατέβασμα Εικόνων και Βίντεο από Κοινωνικά Δίκτυα</summary>
+
+| Νο. | Όνομα Ιστοσελίδας         | URL                                          |
+|-----|---------------------------|----------------------------------------------|
+| 1   | 4K Video Downloader        | https://www.4kdownload.com/products/product-videodownloader |
+| 2   | YTD Video Downloader       | https://www.ytddownloader.com/               |
+| 3   | SaveFrom.net               | https://en.savefrom.net/                    |
+| 4   | ClipGrab                   | https://clipgrab.org/                       |
+| 5   | Video DownloadHelper       | https://www.downloadhelper.net/              |
+| 6   | Freemake Video Downloader  | https://www.freemake.com/free_video_downloader/ |
+| 7   | JDownloader                | https://jdownloader.org/                    |
+| 8   | KeepVid                   | https://keepvid.pro/                        |
+| 9   | DownloadGram               | https://downloadgram.org/                   |
+| 10  | Instagram Video Downloader | https://www.instadp.io/                     |
+| 11  | Dredown                   | https://www.dredown.com/                    |
+| 12  | SavePic                   | https://www.savepic.net/                    |
+| 13  | FBDOWN.net                | https://www.fbdown.net/                     |
+| 14  | Getfvid                   | https://getfvid.com/                        |
+| 15  | Online Video Converter     | https://www.onlinevideoconverter.com/        |
+| 16  | BitDownloader             | https://bitdownloader.com/                  |
+| 17  | Videoder                  | https://www.videoder.com/                   |
+| 18  | VidPaw                    | https://www.vidpaw.com/                     |
+| 19  | KeepVid Pro               | https://keepvid.com/                        |
+| 20  | SnapSave                  | https://www.snapsave.io/                    |
+| 21  | TubeOffline               | https://www.tubeoffline.com/                |
+| 22  | SaveAsVideo               | https://www.saveasvideo.com/                |
+| 23  | NetVideoHunter            | https://www.netvideohunter.com/             |
+| 24  | iTubeGo                   | https://itubego.com/                        |
+| 25  | MP3Studio                 | https://mp3studio.org/                      |
+| 26  | VideoGrabby               | https://videograbby.com/                    |
+| 27  | Y2Mate                    | https://www.y2mate.com/                     |
+| 28  | Online Video Downloader    | https://www.onlinevideodownloader.com/      |
+| 29  | MP4 Downloader            | https://www.mp4downloader.net/              |
+| 30  | SaveVid                   | https://savevid.com/                        |
+| 31  | VideoDownloader.com        | https://www.videodownloader.com/            |
+| 32  | Facebook Video Downloader  | https://www.fbvideo.downloader.online/      |
+| 33  | Instagram Downloader       | https://instadownloader.co/                 |
+| 34  | IGDownloader              | https://www.igdownloader.com/               |
+| 35  | Video2mp3                 | https://www.video2mp3.net/                  |
+| 36  | Savevideo.me              | https://savevideo.me/                       |
+| 37  | YouTube Video Downloader   | https://www.ytvideo.net/                    |
+| 38  | Simple Video Downloader    | https://www.simplevideodownloader.com/      |
+| 39  | FastSave                  | https://www.fastsaveapp.com/                |
+| 40  | Instagram Video Saver      | https://www.igvideosaver.com/               |
+| 41  | YouTubeDownloader.org      | https://www.youtubedownloader.org/          |
+| 42  | VideoDownhub              | https://www.videodownhub.com/               |
+| 43  | SaveTik                   | https://www.savetik.com/                    |
+| 44  | TikTokDownloader          | https://tiktokdownloader.org/               |
+| 45  | TikTok Video Downloader    | https://www.tiktokvideodownloader.com/      |
+| 46  | TDownloader               | https://www.tdownloader.com/                |
+| 47  | SSSTikTok                 | https://ssstik.io/                          |
+| 48  | Video Download Capture     | https://www.videodownloadcapture.com/       |
+| 49  | Fotorama                  | https://fotorama.com/                       |
+| 50  | Media.io                  | https://www.media.io/                       |
+| 51  | DownloadYouTubeVideos      | https://www.downloadyoutubevideos.com/      |
+| 52  | Dailymotion Video Downloader| https://www.dailymotiondownloader.com/     |
+| 53  | SaveClip                  | https://www.saveclip.net/                   |
+| 54  | ClipConverter.cc           | https://www.clipconverter.cc/               |
+| 55  | SaveTube                  | https://www.savetubevideo.com/              |
+| 56  | TubeMate                  | https://tubemate.net/                       |
+| 57  | ZOOM Downloader            | https://www.zoomdownloader.com/             |
+| 58  | Twitter Video Downloader   | https://www.twdownload.com/                 |
+| 59  | Video Converter            | https://www.onlinevideoconverter.com/       |
+| 60  | Streamable Video Downloader | https://www.streamable.com/                 |
+| 61  | SoundCloud Downloader      | https://www.scloud-download.com/            |
+| 62  | VideoCatcher              | https://www.videocatcher.com/               |
+| 63  | JustDownload              | https://www.justdownload.io/               |
+| 64  | Download Facebook Videos   | https://www.downloadfacebookvideos.com/     |
+| 65  | Free Online Video Downloader| https://www.freevideodownloader.com/       |
+| 66  | MyVideoDownloader          | https://myvideodownloader.com/              |
+| 67  | Any Video Converter        | https://www.any-video-converter.com/        |
+| 68  | GrabAnyMedia              | https://www.grabanymedia.com/               |
+| 69  | VideoToMP4                | https://www.videotomp4.com/                 |
+| 70  | YoutubeMate               | https://www.youtubemate.com/                |
+| 71  | OnlineYouTubeDownloader    | https://www.onlineyoutubedownloader.com/    |
+| 72  | Keepvid.pro               | https://keepvid.pro/                        |
+| 73  | SaveFrom                   | https://savefrom.net/                       |
+| 74  | All Video Downloader       | https://www.allvideodownloader.com/         |
+| 75  | Y2Mate YouTube Downloader  | https://www.y2mate.com/                     |
+| 76  | TubeMate Downloader        | https://www.tubemate.net/                   |
+| 77  | VideoDownloadHub           | https://www.videodownloadhub.com/           |
+| 78  | ClipDownloader             | https://www.clipdownloader.com/             |
+| 79  | SnapDownloader             | https://www.snapdownloader.com/             |
+| 80  | Instadp                   | https://www.instadp.io/                     |
+| 81  | VideoToPic                 | https://www.videotopic.com/                 |
+| 82  | DownloadYouTubeVideos.net  | https://www.downloadyoutubedownload.com/    |
+| 83  | InstaSave                  | https://www.instasave.io/                   |
+| 84  | SaveInstagram              | https://www.saveinsta.org/                  |
+| 85  | FacebookVideoSave          | https://www.facebookvideosave.com/          |
+| 86  | Reddit Video Downloader    | https://www.redditvideodownloader.com/      |
+| 87  | QuickSave                  | https://www.quicksave.io/                   |
+| 88  | GiphyDownloader            | https://www.giphydownloader.com/            |
+| 89  | Vimeo Video Downloader     | https://www.vimeodownloader.com/            |
+| 90  | FastVid                   | https://www.fastvid.net/                    |
+| 91  | ClipGrabber                | https://www.clipgrabber.net/                |
+| 92  | FB Video Downloader        | https://www.fbvideodownloader.com/          |
+| 93  | TubeM8                    | https://www.tubem8.com/                     |
+| 94  | MediaDownloader            | https://www.mediadownloader.com/            |
+| 95  | VideoGrabber               | https://www.videograbber.net/               |
+| 96  | GetVideo                   | https://www.getvideo.me/                    |
+| 97  | Free Video Downloader      | https://www.freevideodownloader.net/        |
+| 98  | DownloadMP4                | https://www.downloadmp4.org/                |
+| 99  | VideoDownloadPlus          | https://www.videodownloadplus.com/          |
+| 100 | MediaSave                 | https://www.mediasave.net/                  |
+
+</details>
+
