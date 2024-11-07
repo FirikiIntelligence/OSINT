@@ -757,10 +757,12 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 10      | Γεωγραφική Ανάλυση          | Εθνικό Ινστιτούτο Γεωεπιστημών | https://www.igme.gr/                             |
 | 11      | Γεωχωρική Ανάλυση           | Ειδική Επιτροπή Χαρτών       | https://www.efh.gr/                              |
 
+</details>
+
 ---
 
 <details>
-  <summary>2. IMINT - ΝΕΙΚΩ (Imagery Intelligence - Νοημοσύνη Εικώνων)</summary>
+  <summary>3. IMINT - ΝΕΙΚΩ (Imagery Intelligence - Νοημοσύνη Εικώνων)</summary>
 
  ## Διεθνή Εργαλεία
 
@@ -941,6 +943,7 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 25      | Ανάλυση Απειλών           | SafeNet                        | https://www.safenet.gr/                           |
 
 </details>
+
 ---
 
 <details>
@@ -1107,6 +1110,7 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 50      | Ανάλυση Δεδομένων         | InsightTracking               | https://www.insighttracking.gr/                   |
 
 </details>
+
 ---
 
 <details>
