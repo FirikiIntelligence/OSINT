@@ -713,6 +713,8 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 </details>
 
+---
+
 <details>
   <summary>2. GEOINT - ΓΕΩΝΟ (Geospatial Intelligence - Γεωγραφική Νοημοσύνη)</summary>
 
