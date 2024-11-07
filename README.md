@@ -940,6 +940,7 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 24      | Κυβερνοασφάλεια           | CyberXperts                    | https://www.cyberxperts.gr/                       |
 | 25      | Ανάλυση Απειλών           | SafeNet                        | https://www.safenet.gr/                           |
 
+</details>
 ---
 
 <details>
@@ -1105,6 +1106,7 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 49      | Ανάλυση Επαγγελματικών Δικτύων | TalentSearch                   | https://www.talentsearch.gr/                      |
 | 50      | Ανάλυση Δεδομένων         | InsightTracking               | https://www.insighttracking.gr/                   |
 
+</details>
 ---
 
 <details>
@@ -1195,8 +1197,9 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 24      | Χρηματοοικονομικά Δεδομένα | FinanceXperts                 | https://www.financexperts.gr/                     |
 | 25      | Ανάλυση Χρηματοοικονομικών Συναλλαγών | Capital.gr             | https://www.capital.gr/                           |
 
----
+</details>
 
+---
 
 <details>
   <summary>8. TECHINT - ΤΕΧΝΟ (Technical Intelligence - Τεχνική Νοημοσύνη)</summary>
@@ -1360,6 +1363,8 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 48      | CipherTech                  | https://www.ciphertech.gr/                         |
 | 49      | CyberSec Services           | https://www.cybersec.gr/                          |
 | 50      | Sigma Cyber                 | https://www.sigmacyber.gr/                         |
+
+</details>
 
 ---
 
@@ -1595,6 +1600,8 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 118     | Demokrati.gr                  | https://www.demokrati.gr/                         |
 | 119     | Kallithea News                | https://www.kallitheanews.gr/                     |
 | 120     | CityNews.gr                   | https://www.citynews.gr/                          |
+
+</details>
 
 ---
 
@@ -1910,3 +1917,5 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 98      | Hellenic Social Insights Hub        | https://www.hellenicsocialinsightshub.gr/            |
 | 99      | Trend Analytics Greece              | https://www.trendanalyticsgreece.gr/                |
 | 100     | Digital Insights Hub Greece         | https://www.digitalinsightshubgreece.gr/            |
+
+</details>
