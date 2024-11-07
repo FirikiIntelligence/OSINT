@@ -431,179 +431,283 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 ---
 
-<details>
-  <summary><span style="color:yellow">Εργαλεία για τα Κοινωνικά Δίκτυα</span></summary>
+# Εργαλεία για τα Κοινωνικά Δίκτυα
 
-  <details>
-    <summary>1. [Trends24](https://www.trends24.in)</summary>
-    Ιστότοπος για ανάλυση τάσεων κοινωνικών δικτύων σε πραγματικό χρόνο. Εξετάζει τις δημοφιλείς συζητήσεις και λέξεις-κλειδιά.
-  </details>
+| Αριθμός | Όνομα Εργαλείου        | Σύνδεσμος                                |
+|---------|-------------------------|------------------------------------------|
+| 1       | Agora Pulse             | https://www.agorapulse.com               |
+| 2       | Audiense                | https://www.audiense.com                 |
+| 3       | Awario                  | https://awario.com                       |
+| 4       | BigSpy                  | https://bigspy.com                       |
+| 5       | Brand24                 | https://brand24.com                      |
+| 6       | Buffer                  | https://buffer.com                       |
+| 7       | BuzzSumo                | https://buzzsumo.com                     |
+| 8       | Crowdfire               | https://www.crowdfireapp.com             |
+| 9       | Dash Hudson             | https://www.dashhudson.com               |
+| 10      | DataSift                | https://datasift.com                     |
+| 11      | Digimind                | https://www.digimind.com                 |
+| 12      | Followerwonk            | https://followerwonk.com                 |
+| 13      | Google Trends           | https://trends.google.com                |
+| 14      | Hootsuite               | https://hootsuite.com                    |
+| 15      | HubSpot                 | https://www.hubspot.com                  |
+| 16      | Iconosquare             | https://pro.iconosquare.com              |
+| 17      | Infegy                  | https://infegy.com                       |
+| 18      | Keyhole                 | https://keyhole.co                       |
+| 19      | Klipfolio               | https://www.klipfolio.com                |
+| 20      | Klear                   | https://klear.com                        |
+| 21      | Later                   | https://later.com                        |
+| 22      | Linkfluence             | https://www.linkfluence.com              |
+| 23      | Loomly                  | https://www.loomly.com                   |
+| 24      | Meltwater               | https://www.meltwater.com                |
+| 25      | Mention                 | https://mention.com                      |
+| 26      | Minter.io               | https://minter.io                        |
+| 27      | NetBase Quid            | https://netbasequid.com                  |
+| 28      | Nuvi                    | https://www.nuvi.com                     |
+| 29      | Oktopost                | https://www.oktopost.com                 |
+| 30      | Onalytica               | https://www.onalytica.com                |
+| 31      | Phlanx                  | https://phlanx.com                       |
+| 32      | Pixlee                  | https://www.pixlee.com                   |
+| 33      | Post Planner            | https://www.postplanner.com              |
+| 34      | Quintly                 | https://www.quintly.com                  |
+| 35      | Rival IQ                | https://www.rivaliq.com                  |
+| 36      | Salesforce Social Studio | https://www.salesforce.com/products/marketing-cloud/social-media-marketing/ |
+| 37      | Sendible                | https://www.sendible.com                 |
+| 38      | Shareablee              | https://www.shareablee.com               |
+| 39      | ShortStack              | https://www.shortstack.com               |
+| 40      | Social Animal           | https://socialanimal.com                 |
+| 41      | Social Bakers           | https://www.socialbakers.com             |
+| 42      | Social Blade            | https://socialblade.com                  |
+| 43      | Social Champ            | https://www.socialchamp.io               |
+| 44      | Social Flow             | https://www.socialflow.com               |
+| 45      | Social Mention          | https://socialmention.com                |
+| 46      | Social Status           | https://www.socialstatus.io              |
+| 47      | SocialBee               | https://socialbee.io                     |
+| 48      | SocialPilot             | https://www.socialpilot.co               |
+| 49      | SocialReport            | https://www.socialreport.com             |
+| 50      | Socialbakers            | https://www.socialbakers.com             |
+| 51      | Sprinklr                | https://www.sprinklr.com                 |
+| 52      | Sprout Social           | https://sproutsocial.com                 |
+| 53      | Tagboard                | https://tagboard.com                     |
+| 54      | Tailwind                | https://www.tailwindapp.com              |
+| 55      | Talkwalker              | https://www.talkwalker.com               |
+| 56      | TapInfluence            | https://www.tapinfluence.com             |
+| 57      | TrackReddit             | https://trackreddit.com                  |
+| 58      | Trends24                | https://trends24.in                      |
+| 59      | TrueSocialMetrics       | https://www.truesocialmetrics.com        |
+| 60      | TweetDeck               | https://tweetdeck.twitter.com            |
+| 61      | TweetReach              | https://tweetreach.com                   |
+| 62      | Twitonomy               | https://www.twitonomy.com                |
+| 63      | Union Metrics           | https://unionmetrics.com                 |
+| 64      | Unmetric                | https://unmetric.com                     |
+| 65      | Upfluence               | https://www.upfluence.com                |
+| 66      | ViralStat               | https://viralstat.com                    |
+| 67      | Visme                   | https://www.visme.co                     |
+| 68      | Webfluential            | https://www.webfluential.com             |
+| 69      | Wildfire                | https://wildfireapp.com                  |
+| 70      | YouScan                 | https://youscan.io                       |
+| 71      | Zoho Social             | https://www.zoho.com/social              |
+| 72      | Zyper                   | https://www.zyper.com                    |
+| 73      | Crimson Hexagon         | https://www.crimsonhexagon.com           |
+| 74      | MediaToolkit            | https://www.mediatoolkit.com             |
+| 75      | SocialBu                | https://www.socialbu.com                 |
+| 76      | SociaBuzz               | https://sociabuzz.com                    |
+| 77      | Scraawl                 | https://scraawl.com                      |
+| 78      | HearSay Social          | https://hearsaysystems.com               |
+| 79      | Inkybee                 | https://inkybee.com                      |
+| 80      | Lithium                 | https://www.lithium.com                  |
+| 81      | Audiense                | https://audiense.com                     |
+| 82      | Socedo                  | https://www.socedo.com                   |
+| 83      | Zoomph                  | https://zoomph.com                       |
+| 84      | ContentStudio           | https://contentstudio.io                 |
+| 85      | Reputology              | https://www.reputology.com               |
+| 86      | Snaplytics              | https://snaplytics.io                    |
+| 87      | Twitter Counter         | https://twittercounter.com               |
+| 88      | Kred                    | https://kred.com                         |
+| 89      | Socialoomph             | https://www.socialoomph.com              |
+| 90      | Rivuu                   | https://rivuu.com                        |
+| 91      | Planable                | https://planable.io                      |
+| 92      | NapoleonCat             | https://napoleoncat.com                  |
+| 93      | Kuku.io                 | https://kuku.io                          |
+| 94      | Canva                   | https://www.canva.com                    |
+| 95      | MeetEdgar               | https://meetedgar.com                    |
+| 96      | Sked Social             | https://skedsocial.com                   |
+| 97      | Vizia                   | https://vizia.co                         |
+| 98      | Brandwatch              | https://www.brandwatch.com               |
+| 99      | Talkfeeder              | https://talkfeeder.com                   |
+| 100     | Storyheap               | https://storyheap.com                    |
+| 101     | ChatMetrics      | https://www.chatmetrics.com |
+| 102     | GitHub Insights  | https://github.com/features/insights |
+| 103     | VK Target        | https://target.my.com/vk/ |
+| 104     | Telegram Analytics | https://tgstat.com |
+| 105     | WhatsAnalyzer    | https://whatsanalyzer.com |
+| 106     | Skype Manager    | https://www.skype.com/en/skype-manager/ |
+| 107     | Teamwork Chat    | https://www.teamwork.com/chat/ |
+| 108     | Mentionlytics    | https://www.mentionlytics.com |
+| 109     | Kiklytics        | https://www.kiklytics.com |
+| 110     | IRCCloud         | https://www.irccloud.com |
+| 111     | Metricool        | https://metricool.com |
+| 112     | Telegram Bot Analytics | https://telegramanalytics.com |
+| 113     | WhatsApp Chat Analytics | https://whatsapp.com/business/ |
+| 114     | MessageBird      | https://www.messagebird.com |
+| 115     | Teams Insights   | https://www.microsoft.com/en-us/microsoft-teams/ |
+| 116     | Rocket.Chat      | https://rocket.chat |
+| 117     | Discord Insights | https://discord.com |
+| 118     | Github Trends    | https://trends.github.com |
+| 119     | Voat Tools       | https://voat.co/tools |
+| 120     | Flock            | https://flock.com |
+| 121     | VK Analytics     | https://vk.com/ads?act=office |
+| 122     | Skype Insights   | https://www.skype.com |
+| 123     | Telegram Export  | https://telegramexport.com |
+| 124     | GitLab Analytics | https://about.gitlab.com/ |
+| 125     | Twilio           | https://www.twilio.com |
+| 126     | Matrix           | https://matrix.org |
+| 127     | BigBlueButton    | https://bigbluebutton.org |
+| 128     | WhatsTool        | https://whatstool.com |
+| 129     | Fleep            | https://fleep.io |
+| 130     | VKStats          | https://vk.com/vkstats |
+| 131     | AppFollow        | https://appfollow.io |
+| 132     | WhatsLog         | https://whatslog.com |
+| 133     | TalkWalker       | https://www.talkwalker.com |
+| 134     | mIRC             | https://www.mirc.com |
+| 135     | Mautic           | https://mautic.org |
+| 136     | ChannelMeter     | https://channelmeter.com |
+| 137     | SendBird         | https://sendbird.com |
+| 138     | GitHub Pulse     | https://github.com/pulse |
+| 139     | Slack Analytics  | https://slack.com |
+| 140     | MsgHit           | https://msghit.com |
+| 141     | TelegramDesk     | https://telegramdesk.com |
+| 142     | Facebook Workplace | https://workplace.com |
+| 143     | VK Widget        | https://vk.com/widget_comments.php |
+| 144     | Hexowatch        | https://hexowatch.com |
+| 145     | VK Monitor       | https://vk.com/monitor |
+| 146     | Zoho Cliq        | https://www.zoho.com/cliq/ |
+| 147     | Troop Messenger  | https://www.troopmessenger.com |
+| 148     | Simple Analytics | https://simpleanalytics.com |
+| 149     | Pingboard        | https://pingboard.com |
+| 150     | Notion Analytics | https://notion.so |
 
-  <details>
-    <summary>2. [Hashtagify](https://hashtagify.me)</summary>
-    Ανάλυση δημοφιλών hashtags και τάσεων στα κοινωνικά δίκτυα.
-  </details>
+---
 
-  <details>
-    <summary>3. [BuzzSumo](https://buzzsumo.com)</summary>
-    Εργαλείο για ανάλυση περιεχομένου και κοινωνικών τάσεων σε πλατφόρμες όπως Twitter, Facebook και άλλες.
-  </details>
+# Ραντεβού και Σχέσεις
 
-  <details>
-    <summary>4. [Socialbakers](https://www.socialbakers.com)</summary>
-    Ανάλυση της κοινωνικής απόδοσης και παρακολούθηση του ανταγωνισμού.
-  </details>
+| Αριθμός | Όνομα Εφαρμογής | Σύνδεσμος |
+|---------|------------------|-----------|
+| 1       | Tinder           | https://www.tinder.com |
+| 2       | Bumble           | https://bumble.com |
+| 3       | OkCupid          | https://www.okcupid.com |
+| 4       | Hinge            | https://hinge.co |
+| 5       | Badoo            | https://www.badoo.com |
+| 6       | Coffee Meets Bagel | https://coffeemeetsbagel.com |
+| 7       | Match            | https://www.match.com |
+| 8       | Plenty of Fish    | https://www.pof.com |
+| 9       | Zoosk            | https://www.zoosk.com |
+| 10      | eHarmony         | https://www.eharmony.com |
+| 11      | Happn            | https://www.happn.com |
+| 12      | HER              | https://weareher.com |
+| 13      | Grindr           | https://www.grindr.com |
+| 14      | MeetMe           | https://www.meetme.com |
+| 15      | Clover           | https://www.clover.co |
+| 16      | Tastebuds        | https://www.tastebuds.fm |
+| 17      | Feeld            | https://feeld.co |
+| 18      | Raya             | https://www.rayatheapp.com |
+| 19      | SilverSingles    | https://www.silversingles.com |
+| 20      | Christian Mingle | https://www.christianmingle.com |
+| 21      | EliteSingles     | https://www.elitesingles.com |
+| 22      | BLK              | https://www.blk-app.com |
+| 23      | Wingman          | https://www.wingmanapp.com |
+| 24      | WooPlus          | https://www.wooplus.com |
+| 25      | Chispa           | https://www.chispa-app.com |
+| 26      | Fetlife          | https://fetlife.com |
+| 27      | OnlyFans         | https://onlyfans.com |
+| 28      | AdultFriendFinder | https://adultfriendfinder.com |
+| 29      | Ashley Madison   | https://www.ashleymadison.com |
+| 30      | FriendFinder-X   | https://www.friendfinder-x.com |
 
-  <details>
-    <summary>5. [Keyhole](https://keyhole.co)</summary>
-    Ανάλυση hashtag, mentions, και trends στα κοινωνικά δίκτυα σε πραγματικό χρόνο.
-  </details>
+---
 
-  <details>
-    <summary>6. [Mention](https://mention.com)</summary>
-    Εργαλείο παρακολούθησης κοινωνικών μέσων που προσφέρει αναλύσεις αναφορών και ανταγωνιστικών δεδομένων.
-  </details>
+# Αθλητικές Εφαρμογές με Κοινότητες
 
-  <details>
-    <summary>7. [Sprout Social](https://sproutsocial.com)</summary>
-    Εργαλείο για τη διαχείριση κοινωνικών δικτύων με αναλύσεις για τις δραστηριότητες στα κοινωνικά μέσα.
-  </details>
+| Αριθμός | Όνομα Εφαρμογής  | Σύνδεσμος |
+|---------|-------------------|-----------|
+| 1       | Strava            | https://www.strava.com |
+| 2       | Nike Run Club     | https://www.nike.com/nrc-app |
+| 3       | Adidas Running    | https://www.runtastic.com |
+| 4       | Fitbit            | https://www.fitbit.com |
+| 5       | MapMyRun          | https://www.mapmyrun.com |
+| 6       | Zwift             | https://www.zwift.com |
+| 7       | Runkeeper         | https://runkeeper.com |
+| 8       | Endomondo         | https://www.endomondo.com |
+| 9       | MyFitnessPal      | https://www.myfitnesspal.com |
+| 10      | Sportlyzer        | https://www.sportlyzer.com |
+| 11      | Garmin Connect    | https://connect.garmin.com |
+| 12      | Under Armour Record | https://record.underarmour.com |
+| 13      | Peloton           | https://www.onepeloton.com |
+| 14      | Komoot            | https://www.komoot.com |
+| 15      | Decathlon Coach   | https://www.decathloncoach.com |
+| 16      | Sworkit           | https://www.sworkit.com |
+| 17      | Fitocracy         | https://www.fitocracy.com |
+| 18      | JEFIT             | https://www.jefit.com |
+| 19      | Freeletics        | https://www.freeletics.com |
+| 20      | Sweatcoin         | https://www.sweatcoin.com |
+| 21      | 8fit              | https://www.8fit.com |
+| 22      | Pact              | https://www.pactapp.com |
+| 23      | C25K              | https://www.c25kfree.com |
+| 24      | TrainingPeaks     | https://www.trainingpeaks.com |
+| 25      | Kinomap           | https://www.kinomap.com |
 
-  <details>
-    <summary>8. [Talkwalker](https://www.talkwalker.com)</summary>
-    Ανάλυση κοινωνικών μέσων, διαχείριση δεδομένων και παρακολούθηση συζητήσεων.
-  </details>
+---
 
-  <details>
-    <summary>9. [Agorapulse](https://www.agorapulse.com)</summary>
-    Σύνθεση αναφορών και στατιστικών για τις κοινωνικές δραστηριότητες και αναλύσεις κοινωνικών δεδομένων.
-  </details>
+## Διεθνή Εργαλεία
 
-  <details>
-    <summary>10. [Tweetreach](https://tweetreach.com)</summary>
-    Ανάλυση της εμβέλειας των tweets και των hashtags στο Twitter.
-  </details>
+| Αριθμός | Κατηγορία                                      | Όνομα Εργαλείου             | Σύνδεσμος                                      |
+|---------|-------------------------------------------------|-----------------------------|------------------------------------------------|
+| 1       | Εργαλεία Αναζήτησης Ανθρώπων                   | Pipl                        | https://pipl.com                               |
+| 2       | Εργαλεία Αναζήτησης Ανθρώπων                   | Spokeo                      | https://www.spokeo.com                         |
+| 3       | Εργαλεία Αναζήτησης Ανθρώπων                   | Intelius                    | https://www.intelius.com                       |
+| 4       | Εργαλεία Αναζήτησης Ανθρώπων                   | BeenVerified                | https://www.beenverified.com                   |
+| 5       | Αναζήτηση Ονομάτων                             | Whitepages                  | https://www.whitepages.com                     |
+| 6       | Αναζήτηση Ονομάτων                             | TruthFinder                 | https://www.truthfinder.com                    |
+| 7       | Έλεγχος Αρχείων                                | CheckPeople                 | https://checkpeople.com                        |
+| 8       | Έλεγχος Αρχείων                                | PeopleFinders               | https://www.peoplefinders.com                  |
+| 9       | Αναζήτηση Καταγωγής                           | Ancestry                    | https://www.ancestry.com                       |
+| 10      | Αναζήτηση Καταγωγής                           | MyHeritage                  | https://www.myheritage.com                     |
+| 11      | Δημόσια Έγγραφα                                | PACER                       | https://pacer.uscourts.gov/                    |
+| 12      | Δημόσια Έγγραφα                                | CourtListener               | https://www.courtlistener.com                   |
+| 13      | Αγνοούμενοι Άνθρωποι                           | NamUs                       | https://www.namus.gov                          |
+| 14      | Αγνοούμενοι Άνθρωποι                           | The Doe Network              | https://www.doenetwork.org/                    |
+| 15      | Αναζήτηση Διευθύνσεων και Επικοινωνίας         | AnyWho                      | https://www.anywho.com                         |
+| 16      | Αναζήτηση Διευθύνσεων και Επικοινωνίας         | ZabaSearch                  | https://www.zabasearch.com                     |
+| 17      | Εφαρμογές Ανάκτησης Λεπτομερειών Επικοινωνίας  | Hunter.io                   | https://hunter.io                              |
+| 18      | Εφαρμογές Ανάκτησης Λεπτομερειών Επικοινωνίας  | VoilaNorbert                | https://www.voilanorbert.com                    |
+| 19      | Έρευνα Τηλεφωνικών Αριθμών                    | TrueCaller                  | https://www.truecaller.com                     |
+| 20      | Έρευνα Τηλεφωνικών Αριθμών                    | NumLookup                   | https://www.numlookup.com                      |
+| 21      | Αναζήτηση Πύργων Κυψελών                      | CellSpy                     | https://www.cellspyapp.com                     |
+| 22      | Μέηλ Αναζήτηση                                 | Hunter.io                   | https://hunter.io                              |
+| 23      | Μέηλ Αναζήτηση                                 | EmailHippo                  | https://www.emailhippo.com                     |
+| 24      | Επικύρωση Μηνυμάτων Ηλεκτρονικού Ταχυδρομείου  | VerifyEmailAddress          | https://verifyemailaddress.org                 |
+| 25      | Επικύρωση Μηνυμάτων Ηλεκτρονικού Ταχυδρομείου  | EmailListVerify              | https://www.emaillistverify.com                 |
+| 26      | Αναλύοντας Μηνύματα Ηλεκτρονικού Ταχυδρομείου | MXToolbox                   | https://mxtoolbox.com                          |
+| 27      | Αναλύοντας Μηνύματα Ηλεκτρονικού Ταχυδρομείου | Mailgun                     | https://www.mailgun.com                        |
+| 28      | Ταιριάζοντας Μηνύματα Ηλεκτρονικού Ταχυδρομείου με Κοινωνικά Δίκτυα | FullContact | https://www.fullcontact.com |
+| 29      | Έλεγχος Ονομάτων                               | Namechk                     | https://www.namechk.com                         |
+| 30      | Έλεγχος Ονομάτων                               | Knowem                      | https://www.knowem.com                          |
+| 31      | Αναζητώτας Βιογραφικά Σημειώματα και Σύνοψη αυτών | LinkedIn                    | https://www.linkedin.com                       |
+| 32      | Αναζητώτας Βιογραφικά Σημειώματα και Σύνοψη αυτών | Indeed                      | https://www.indeed.com                         |
 
-  <details>
-    <summary>11. [Hootsuite](https://hootsuite.com)</summary>
-    Εργαλείο διαχείρισης κοινωνικών μέσων και ανάλυσης του περιεχομένου και των trends.
-  </details>
+---
 
-  <details>
-    <summary>12. [Social Mention](http://socialmention.com)</summary>
-    Ιστότοπος που προσφέρει ανάλυση για τις αναφορές στα κοινωνικά δίκτυα και τις πλατφόρμες κοινωνικής αναγνώρισης.
-  </details>
+## Ελληνικά Εργαλεία
 
-  <details>
-    <summary>13. [Brandwatch](https://www.brandwatch.com)</summary>
-    Εργαλείο παρακολούθησης κοινωνικών μέσων και ανάλυσης των τάσεων της αγοράς.
-  </details>
+| Αριθμός | Κατηγορία                                      | Όνομα Εργαλείου             | Σύνδεσμος                                      |
+|---------|-------------------------------------------------|-----------------------------|------------------------------------------------|
+| 1       | Εργαλεία Αναζήτησης Ανθρώπων                   | Search.gr                   | https://www.search.gr                           |
+| 2       | Αναζήτηση Ονομάτων                             | Infobel                     | https://www.infobel.com/gr                     |
+| 3       | Αναζήτηση Καταγωγής                           | Genographic Greece           | https://www.genographic.gr                      |
+| 4       | Δημόσια Έγγραφα                                | Εθνικό Τυπογραφείο Ελλάδας   | https://www.et.gr/                             |
+| 5       | Αγνοούμενοι Άνθρωποι                           | Missing.gr                  | https://www.missing.gr                         |
+| 6       | Αναζήτηση Διευθύνσεων και Επικοινωνίας         | YellowPages.gr               | https://www.yellowpages.gr                     |
+| 7       | Εφαρμογές Ανάκτησης Λεπτομερειών Επικοινωνίας  | FindPeople.gr                | https://www.findpeople.gr                      |
+| 8       | Έρευνα Τηλεφωνικών Αριθμών                    | GreekPhonebook              | https://www.greekphonebook.gr                   |
+| 9       | Μέηλ Αναζήτηση                                 | EmailValidation.gr           | https://www.emailvalidation.gr                 |
 
-  <details>
-    <summary>14. [Zoho Social](https://www.zoho.com/social)</summary>
-    Εργαλείο που συνδυάζει κοινωνικά δεδομένα με αναλυτικές πληροφορίες για τη βελτίωση της στρατηγικής στα κοινωνικά δίκτυα.
-  </details>
 
-  <details>
-    <summary>15. [Rival IQ](https://www.rivaliq.com)</summary>
-    Ανάλυση ανταγωνιστικών δεδομένων για τα κοινωνικά δίκτυα και την αποτελεσματικότητα της στρατηγικής.
-  </details>
-
-  <details>
-    <summary>16. [Quintly](https://www.quintly.com)</summary>
-    Ανάλυση της απόδοσης κοινωνικών δικτύων, παρακολούθηση και σύγκριση του ανταγωνισμού.
-  </details>
-
-  <details>
-    <summary>17. [Meltwater](https://www.meltwater.com)</summary>
-    Εργαλείο για παρακολούθηση, ανάλυση και αναφορά περιεχομένου και αναφορών σε κοινωνικά δίκτυα.
-  </details>
-
-  <details>
-    <summary>18. [BuzzSumo](https://buzzsumo.com)</summary>
-    Εργαλείο ανάλυσης για την παρακολούθηση δημοφιλών θεμάτων και περιεχομένου στα κοινωνικά δίκτυα.
-  </details>
-
-  <details>
-    <summary>19. [Sprinklr](https://www.sprinklr.com)</summary>
-    Εργαλείο για διαχείριση, ανάλυση και βελτιστοποίηση του περιεχομένου στα κοινωνικά δίκτυα.
-  </details>
-
-  <details>
-    <summary>20. [Followerwonk](https://followerwonk.com)</summary>
-    Εργαλείο ανάλυσης για το Twitter, με δυνατότητες ανάλυσης προφίλ, αναζητήσεων και συνδέσεων.
-  </details>
-
-  <details>
-    <summary>21. [Buffer](https://buffer.com)</summary>
-    Ανάλυση της απόδοσης των κοινωνικών δικτύων και στρατηγικών κοινοποίησης περιεχομένου.
-  </details>
-
-  <details>
-    <summary>22. [Iconosquare](https://pro.iconosquare.com)</summary>
-    Εργαλείο ανάλυσης και διαχείρισης για Instagram και Facebook.
-  </details>
-
-  <details>
-    <summary>23. [Tweetdeck](https://tweetdeck.twitter.com)</summary>
-    Διαχείριση και παρακολούθηση του Twitter σε πραγματικό χρόνο.
-  </details>
-
-  <details>
-    <summary>24. [Post Planner](https://www.postplanner.com)</summary>
-    Διαχείριση και ανάλυση περιεχομένου για το Facebook.
-  </details>
-
-  <details>
-    <summary>25. [Nuzzel](https://nuzzel.com)</summary>
-    Εργαλείο για παρακολούθηση ειδήσεων και κοινωνικών δικτύων, επισημαίνοντας δημοφιλή άρθρα.
-  </details>
-
-  <details>
-    <summary>26. [BuzzSumo](https://buzzsumo.com)</summary>
-    Εργαλείο ανάλυσης και αναζήτησης περιεχομένου, ιδανικό για κοινωνικά δίκτυα.
-  </details>
-
-  <details>
-    <summary>27. [CrowdTangle](https://www.crowdtangle.com)</summary>
-    Ανάλυση και παρακολούθηση περιεχομένου για Facebook, Instagram, YouTube και Twitter.
-  </details>
-
-  <details>
-    <summary>28. [SociallyStacked](https://www.sociallystacked.com)</summary>
-    Σύστημα ανάλυσης και διαχείρισης του περιεχομένου για τα κοινωνικά δίκτυα.
-  </details>
-
-  <details>
-    <summary>29. [TweetReach](https://tweetreach.com)</summary>
-    Εργαλείο ανάλυσης για τη μέτρηση της εμβέλειας του περιεχομένου στο Twitter.
-  </details>
-
-  <details>
-    <summary>30. [ViralWoot](https://viralwoot.com)</summary>
-    Διαχείριση και ανάλυση περιεχομένου στο Pinterest.
-  </details>
-
-  <details>
-    <summary>31. [SocialBee](https://socialbee.io)</summary>
-    Ολοκληρωμένο εργαλείο για τη διαχείριση των κοινωνικών δικτύων και την ανάλυση δεδομένων.
-  </details>
-
-  <details>
-    <summary>32. [Hootsuite Insights](https://hootsuite.com/insights)</summary>
-    Σύστημα ανάλυσης δεδομένων και παρακολούθησης για τα κοινωνικά δίκτυα.
-  </details>
-
-  <details>
-    <summary>33. [Klear](https://klear.com)</summary>
-    Ανάλυση επιρροών και παρακολούθηση της απόδοσης στα κοινωνικά δίκτυα.
-  </details>
-
-  <details>
-    <summary>34. [SocialRank](https://socialrank.com)</summary>
-    Εργαλείο για την ανάλυση των ακολούθων και της εμπλοκής στα κοινωνικά δίκτυα.
-  </details>
-
-  <details>
-    <summary>35. [Crowd Analyzer](https://www.crowdanalyzer.com)</summary>
-    Ανάλυση των κοινωνικών δικτύων και ερμηνεία των συναισθημάτων των
