@@ -162,6 +162,75 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 
 ---
 
+# Ραντεβού και Σχέσεις
+
+| Αριθμός | Όνομα Εφαρμογής | Σύνδεσμος |
+|---------|------------------|-----------|
+| 1       | Tinder           | https://www.tinder.com |
+| 2       | Bumble           | https://bumble.com |
+| 3       | OkCupid          | https://www.okcupid.com |
+| 4       | Hinge            | https://hinge.co |
+| 5       | Badoo            | https://www.badoo.com |
+| 6       | Coffee Meets Bagel | https://coffeemeetsbagel.com |
+| 7       | Match            | https://www.match.com |
+| 8       | Plenty of Fish    | https://www.pof.com |
+| 9       | Zoosk            | https://www.zoosk.com |
+| 10      | eHarmony         | https://www.eharmony.com |
+| 11      | Happn            | https://www.happn.com |
+| 12      | HER              | https://weareher.com |
+| 13      | Grindr           | https://www.grindr.com |
+| 14      | MeetMe           | https://www.meetme.com |
+| 15      | Clover           | https://www.clover.co |
+| 16      | Tastebuds        | https://www.tastebuds.fm |
+| 17      | Feeld            | https://feeld.co |
+| 18      | Raya             | https://www.rayatheapp.com |
+| 19      | SilverSingles    | https://www.silversingles.com |
+| 20      | Christian Mingle | https://www.christianmingle.com |
+| 21      | EliteSingles     | https://www.elitesingles.com |
+| 22      | BLK              | https://www.blk-app.com |
+| 23      | Wingman          | https://www.wingmanapp.com |
+| 24      | WooPlus          | https://www.wooplus.com |
+| 25      | Chispa           | https://www.chispa-app.com |
+| 26      | Fetlife          | https://fetlife.com |
+| 27      | OnlyFans         | https://onlyfans.com |
+| 28      | AdultFriendFinder | https://adultfriendfinder.com |
+| 29      | Ashley Madison   | https://www.ashleymadison.com |
+| 30      | FriendFinder-X   | https://www.friendfinder-x.com |
+
+---
+
+# Αθλητικές Εφαρμογές με Κοινότητες
+
+| Αριθμός | Όνομα Εφαρμογής  | Σύνδεσμος |
+|---------|-------------------|-----------|
+| 1       | Strava            | https://www.strava.com |
+| 2       | Nike Run Club     | https://www.nike.com/nrc-app |
+| 3       | Adidas Running    | https://www.runtastic.com |
+| 4       | Fitbit            | https://www.fitbit.com |
+| 5       | MapMyRun          | https://www.mapmyrun.com |
+| 6       | Zwift             | https://www.zwift.com |
+| 7       | Runkeeper         | https://runkeeper.com |
+| 8       | Endomondo         | https://www.endomondo.com |
+| 9       | MyFitnessPal      | https://www.myfitnesspal.com |
+| 10      | Sportlyzer        | https://www.sportlyzer.com |
+| 11      | Garmin Connect    | https://connect.garmin.com |
+| 12      | Under Armour Record | https://record.underarmour.com |
+| 13      | Peloton           | https://www.onepeloton.com |
+| 14      | Komoot            | https://www.komoot.com |
+| 15      | Decathlon Coach   | https://www.decathloncoach.com |
+| 16      | Sworkit           | https://www.sworkit.com |
+| 17      | Fitocracy         | https://www.fitocracy.com |
+| 18      | JEFIT             | https://www.jefit.com |
+| 19      | Freeletics        | https://www.freeletics.com |
+| 20      | Sweatcoin         | https://www.sweatcoin.com |
+| 21      | 8fit              | https://www.8fit.com |
+| 22      | Pact              | https://www.pactapp.com |
+| 23      | C25K              | https://www.c25kfree.com |
+| 24      | TrainingPeaks     | https://www.trainingpeaks.com |
+| 25      | Kinomap           | https://www.kinomap.com |
+
+---
+
 # Εργαλεία Έρευνας και Παρακολούθησης Κοινωνικών Δικτύων
 
 ## Δωρεάν 100%
@@ -588,75 +657,6 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 148     | Simple Analytics | https://simpleanalytics.com |
 | 149     | Pingboard        | https://pingboard.com |
 | 150     | Notion Analytics | https://notion.so |
-
----
-
-# Ραντεβού και Σχέσεις
-
-| Αριθμός | Όνομα Εφαρμογής | Σύνδεσμος |
-|---------|------------------|-----------|
-| 1       | Tinder           | https://www.tinder.com |
-| 2       | Bumble           | https://bumble.com |
-| 3       | OkCupid          | https://www.okcupid.com |
-| 4       | Hinge            | https://hinge.co |
-| 5       | Badoo            | https://www.badoo.com |
-| 6       | Coffee Meets Bagel | https://coffeemeetsbagel.com |
-| 7       | Match            | https://www.match.com |
-| 8       | Plenty of Fish    | https://www.pof.com |
-| 9       | Zoosk            | https://www.zoosk.com |
-| 10      | eHarmony         | https://www.eharmony.com |
-| 11      | Happn            | https://www.happn.com |
-| 12      | HER              | https://weareher.com |
-| 13      | Grindr           | https://www.grindr.com |
-| 14      | MeetMe           | https://www.meetme.com |
-| 15      | Clover           | https://www.clover.co |
-| 16      | Tastebuds        | https://www.tastebuds.fm |
-| 17      | Feeld            | https://feeld.co |
-| 18      | Raya             | https://www.rayatheapp.com |
-| 19      | SilverSingles    | https://www.silversingles.com |
-| 20      | Christian Mingle | https://www.christianmingle.com |
-| 21      | EliteSingles     | https://www.elitesingles.com |
-| 22      | BLK              | https://www.blk-app.com |
-| 23      | Wingman          | https://www.wingmanapp.com |
-| 24      | WooPlus          | https://www.wooplus.com |
-| 25      | Chispa           | https://www.chispa-app.com |
-| 26      | Fetlife          | https://fetlife.com |
-| 27      | OnlyFans         | https://onlyfans.com |
-| 28      | AdultFriendFinder | https://adultfriendfinder.com |
-| 29      | Ashley Madison   | https://www.ashleymadison.com |
-| 30      | FriendFinder-X   | https://www.friendfinder-x.com |
-
----
-
-# Αθλητικές Εφαρμογές με Κοινότητες
-
-| Αριθμός | Όνομα Εφαρμογής  | Σύνδεσμος |
-|---------|-------------------|-----------|
-| 1       | Strava            | https://www.strava.com |
-| 2       | Nike Run Club     | https://www.nike.com/nrc-app |
-| 3       | Adidas Running    | https://www.runtastic.com |
-| 4       | Fitbit            | https://www.fitbit.com |
-| 5       | MapMyRun          | https://www.mapmyrun.com |
-| 6       | Zwift             | https://www.zwift.com |
-| 7       | Runkeeper         | https://runkeeper.com |
-| 8       | Endomondo         | https://www.endomondo.com |
-| 9       | MyFitnessPal      | https://www.myfitnesspal.com |
-| 10      | Sportlyzer        | https://www.sportlyzer.com |
-| 11      | Garmin Connect    | https://connect.garmin.com |
-| 12      | Under Armour Record | https://record.underarmour.com |
-| 13      | Peloton           | https://www.onepeloton.com |
-| 14      | Komoot            | https://www.komoot.com |
-| 15      | Decathlon Coach   | https://www.decathloncoach.com |
-| 16      | Sworkit           | https://www.sworkit.com |
-| 17      | Fitocracy         | https://www.fitocracy.com |
-| 18      | JEFIT             | https://www.jefit.com |
-| 19      | Freeletics        | https://www.freeletics.com |
-| 20      | Sweatcoin         | https://www.sweatcoin.com |
-| 21      | 8fit              | https://www.8fit.com |
-| 22      | Pact              | https://www.pactapp.com |
-| 23      | C25K              | https://www.c25kfree.com |
-| 24      | TrainingPeaks     | https://www.trainingpeaks.com |
-| 25      | Kinomap           | https://www.kinomap.com |
 
 ---
 
