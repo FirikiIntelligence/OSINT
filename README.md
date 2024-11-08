@@ -2516,7 +2516,7 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 24      | Χρηματοοικονομικά Δεδομένα | FinanceXperts                 | https://www.financexperts.gr/                     |
 | 25      | Ανάλυση Χρηματοοικονομικών Συναλλαγών | Capital.gr             | https://www.capital.gr/                           |
 
-# Διεθνή Εργαλεία Έρευνας Ξεπλύματος Χρήματος
+## Διεθνή Εργαλεία Έρευνας Ξεπλύματος Χρήματος
 
 | No. | Tool Name                                        | Link                                               |
 |-----|--------------------------------------------------|----------------------------------------------------|
@@ -2550,7 +2550,7 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 28  | International Centre for Asset Recovery (ICAR)   | https://www.baselgovernance.org                     |
 | 29  | OECD - Money Laundering and Corruption           | https://www.oecd.org/corruption/money-laundering.htm |
 
-# Ελληνικά Εργαλεία
+## Ελληνικά Εργαλεία
 
 | No. | Tool Name                                        | Link                                               |
 |-----|--------------------------------------------------|----------------------------------------------------|
