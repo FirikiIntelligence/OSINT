@@ -1990,52 +1990,132 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 24      | Κυβερνοασφάλεια           | CyberXperts                    | https://www.cyberxperts.gr/                       |
 | 25      | Ανάλυση Απειλών           | SafeNet                        | https://www.safenet.gr/                           |
 
-# Cyber Threat Intelligence - Ερευνώντας για Τρομοκρατία
+### Cyber Threat Intelligence - Investigating Terrorism
 
-## Tools for Terrorism Research
+## Tools
 
-- [ALIC Terrorism](https://www.start.umd.edu/terrorism)
-- [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd)
-- [Counter Extremism Project](https://www.counterextremism.com)
-- [SITE Intelligence Group](https://ent.siteintelgroup.com)
-- [Europol Terrorism Situation and Trend Report](https://www.europol.europa.eu/tesat)
-- [FBI Terrorism Reports](https://www.fbi.gov/investigate/terrorism)
-- [Jane’s Terrorism & Insurgency Centre](https://www.janes.com/security/terrorism)
-- [Terrorism Research and Analysis Consortium (TRAC)](https://www.trackingterrorism.org)
-- [United Nations Counter-Terrorism Committee](https://www.un.org/sc/ctc)
-- [National Counterterrorism Center (NCTC)](https://www.dni.gov/nctc)
-- [Combatting Terrorism Center (CTC) at West Point](https://ctc.usma.edu)
-- [Internet Archive: Terrorist Propaganda](https://archive.org/details/terrorist-archives)
-- [Long War Journal](https://www.longwarjournal.org)
-- [START Consortium](https://www.start.umd.edu)
-- [Open Source Center](https://www.opensource.gov)
-- [RAND Corporation - Terrorism Research](https://www.rand.org/topics/terrorism.html)
-- [ACLED (Armed Conflict Location & Event Data Project)](https://acleddata.com)
-- [Global Incident Map](https://www.globalincidentmap.com)
-- [Homeland Security Digital Library (HSDL)](https://www.hsdl.org)
-- [TRAC Reports](https://trac.eu.com)
-- [National Consortium for the Study of Terrorism and Responses to Terrorism (START)](https://www.start.umd.edu)
-- [United Nations Office on Drugs and Crime](https://www.unodc.org)
-- [International Institute for Counter-Terrorism](https://www.ict.org.il)
-- [Center for Terrorism Law](https://www.stmarytx.edu/ctl)
-- [IHS Markit Terrorism Events](https://ihsmarkit.com)
-- [Security Service MI5 (UK)](https://www.mi5.gov.uk)
-- [National Institute of Justice (Terrorism)](https://nij.ojp.gov/topics/terrorism)
-- [OSINT Aggregator for Terrorism Research](https://www.terrorismanalysts.com)
-- [Global Network on Extremism and Technology](https://gnet-research.org)
-- [NATO Counter Terrorism](https://www.nato.int/cps/en/natolive/topics_77646.htm)
-- [University of Maryland Terrorism Studies](https://www.start.umd.edu/research)
-- [Combating Terrorism Exchange](https://globalecco.org)
-- [Terrorist Attacks Database (TAD)](https://www.tadatabase.org)
-- [Canada Terrorism Reports](https://www.canada.ca/en/services/defence/national-security.html)
-- [Australian Institute of Criminology - Terrorism Reports](https://www.aic.gov.au)
-- [BBC Monitoring - Terrorism Coverage](https://monitoring.bbc.co.uk)
-- [Institute for Economics and Peace](https://www.economicsandpeace.org)
-- [Anti-Defamation League (ADL) Reports on Extremism](https://www.adl.org)
-- [Foundation for Defense of Democracies (FDD) - Terrorism Research](https://www.fdd.org)
-- [Center for Strategic and International Studies (CSIS)](https://www.csis.org/topics/terrorism)
-
-| ...     | ...                                          | ...                                             |
+| #  | Tool Name                                          | Link                                               |
+|----|---------------------------------------------------|----------------------------------------------------|
+| 1  | ALIC Terrorism                                    | https://www.start.umd.edu/terrorism         |
+| 2  | Global Terrorism Database (GTD)                   | https://www.start.umd.edu/gtd)               |
+| 3  | Counter Extremism Project                         | https://www.counterextremism.com           |
+| 4  | SITE Intelligence Group                           | https://ent.siteintelgroup.com              |
+| 5  | Europol Terrorism Situation and Trend Report      | https://www.europol.europa.eu/tesat         |
+| 6  | FBI Terrorism Reports                             | https://www.fbi.gov/investigate/terrorism   |
+| 7  | Jane’s Terrorism & Insurgency Centre              | https://www.janes.com/security/terrorism    |
+| 8  | Terrorism Research and Analysis Consortium (TRAC) | https://www.trackingterrorism.org          |
+| 9  | United Nations Counter-Terrorism Committee        | https://www.un.org/sc/ctc                   |
+| 10 | National Counterterrorism Center (NCTC)           | https://www.dni.gov/nctc                    |
+| 11 | Combatting Terrorism Center (CTC) at West Point   | https://ctc.usma.edu                        |
+| 12 | Internet Archive: Terrorist Propaganda            | https://archive.org/details/terrorist-archives |
+| 13 | Long War Journal                                  | https://www.longwarjournal.org              |
+| 14 | START Consortium                                  | https://www.start.umd.edu                   |
+| 15 | Open Source Center                                | https://www.opensource.gov                  |
+| 16 | RAND Corporation - Terrorism Research            | https://www.rand.org/topics/terrorism.html  |
+| 17 | ACLED (Armed Conflict Location & Event Data Project) | https://acleddata.com                       |
+| 18 | Global Incident Map                               | https://www.globalincidentmap.com           |
+| 19 | Homeland Security Digital Library (HSDL)          | https://www.hsdl.org                        |
+| 20 | TRAC Reports                                      | https://trac.eu.com                         |
+| 21 | National Consortium for the Study of Terrorism and Responses to Terrorism (START) | https://www.start.umd.edu |
+| 22 | United Nations Office on Drugs and Crime          | https://www.unodc.org                       |
+| 23 | International Institute for Counter-Terrorism     | https://www.ict.org.il                      |
+| 24 | Center for Terrorism Law                          | https://www.stmarytx.edu/ctl                |
+| 25 | IHS Markit Terrorism Events                       | https://ihsmarkit.com                       |
+| 26 | Security Service MI5 (UK)                         | https://www.mi5.gov.uk                      |
+| 27 | National Institute of Justice (Terrorism)         | https://nij.ojp.gov/topics/terrorism        |
+| 28 | OSINT Aggregator for Terrorism Research           | https://www.terrorismanalysts.com           |
+| 29 | Global Network on Extremism and Technology        | https://gnet-research.org                   |
+| 30 | NATO Counter Terrorism                            | https://www.nato.int/cps/en/natolive/topics_77646.htm |
+| 31 | University of Maryland Terrorism Studies          | https://www.start.umd.edu/research          |
+| 32 | Combating Terrorism Exchange                      | https://globalecco.org                      |
+| 33 | Terrorist Attacks Database (TAD)                  | https://www.tadatabase.org                  |
+| 34 | Canada Terrorism Reports                          | https://www.canada.ca/en/services/defence/national-security.html) |
+| 35 | Australian Institute of Criminology - Terrorism Reports | https://www.aic.gov.au                 |
+| 36 | BBC Monitoring - Terrorism Coverage               | https://monitoring.bbc.co.uk                |
+| 37 | Institute for Economics and Peace                 | https://www.economicsandpeace.org           |
+| 38 | Anti-Defamation League (ADL) Reports on Extremism | https://www.adl.org                         |
+| 39 | Foundation for Defense of Democracies (FDD) - Terrorism Research | https://www.fdd.org                |
+| 40 | Center for Strategic and International Studies (CSIS) | https://www.csis.org/topics/terrorism    |
+| 41 | Combating Terrorism Center - Sentinel Journal | https://ctc.usma.edu/sentinel                   |
+| 42      | Interpol - Counter Terrorism                  | https://www.interpol.int/Crimes/Terrorism       |
+| 43      | Digital Forensic Research Workshop (DFRWS)    | https://dfrws.org                               |
+| 44      | Extremism Tracker                             | https://extremism.gwu.edu                       |
+| 45      | Terrorism Prevention Branch - UNODC           | https://www.unodc.org/unodc/en/terrorism        |
+| 46      | Global Peace Index                            | https://www.visionofhumanity.org                |
+| 47      | Transnational Threats Project - CSIS          | https://www.csis.org/programs/transnational-threats-project |
+| 48      | International Centre for Counter-Terrorism - The Hague | https://icct.nl                      |
+| 49      | World Terrorism Database (WTD)                | https://worldterrorismdatabase.com              |
+| 50      | Southern Poverty Law Center (SPLC) - Hatewatch | https://www.splcenter.org/hatewatch            |
+| 51      | Terrorism, Transnational Crime and Corruption Center (TraCCC) | https://traccc.gmu.edu          |
+| 52      | Center for Security Studies - ETH Zurich      | https://css.ethz.ch/en.html                     |
+| 53      | Global Organized Crime Index                  | https://globalinitiative.net/analysis/ocindex   |
+| 54      | National Institute for Counter Terrorism      | https://www.nict-india.org                      |
+| 55      | Terrorism and Counterterrorism Research (TCR) | https://tcr.sog.unc.edu                        |
+| 56      | European Center for Counter-Terrorism         | https://ecct.eu                                |
+| 57      | Arab Center for Research and Policy Studies - Counterterrorism | https://www.dohainstitute.org   |
+| 58      | Southeast Asia Terrorism Tracker              | https://www.straitstimes.com                    |
+| 59      | International Crisis Group - Conflict Analysis | https://www.crisisgroup.org                   |
+| 60      | START's Global Terrorism Database (GTD)       | https://www.start.umd.edu/gtd                   |
+| 61      | National Consortium for Terrorism Research    | https://www.start.umd.edu                       |
+| 62      | Mapping Militant Organizations                | https://cisac.fsi.stanford.edu/mappingmilitants |
+| 63      | Jamestown Foundation - Terrorism Reports      | https://jamestown.org                          |
+| 64      | Brookings Institution - Countering Violent Extremism | https://www.brookings.edu/topic/countering-violent-extremism |
+| 65      | RAND - Countering Violent Extremism           | https://www.rand.org/topics/countering-violent-extremism.html |
+| 66      | Combating Terrorism Center                    | https://ctc.usma.edu                           |
+| 67      | Extremist Monitoring Network (EMN)            | https://emn.europa.eu                          |
+| 68      | Research on Violent Extremism                 | https://www.rvi.ac.uk                          |
+| 69      | Hudson Institute - Center on Terrorism and Radical Islam | https://www.hudson.org/topics/22-terrorism   |
+| 70      | European Union Terrorism Situation and Trend Report | https://www.europol.europa.eu                 |
+| 71      | Crime and Terrorism Analysis Centre           | https://www.ctac.org.uk                        |
+| 72      | Washington Institute for Near East Policy - Terrorism and Counterterrorism | https://www.washingtoninstitute.org |
+| 73      | Lowy Institute - Terrorism                    | https://www.lowyinstitute.org                  |
+| 74      | University of St. Andrews - Handa Centre for the Study of Terrorism | https://www.st-andrews.ac.uk/cstpv |
+| 75      | Yale University - Program on Terrorism        | https://tisme.yale.edu                         |
+| 76      | United Nations Office of Counter-Terrorism (UNOCT) | https://www.un.org/en/counterterrorism      |
+| 77      | Carnegie Endowment for International Peace - Terrorism Reports | https://carnegieendowment.org      |
+| 78      | Southern California Consortium on International Studies - Terrorism | https://www.sccis.org                |
+| 79      | Combatting Organized Crime Database (COCD)    | https://www.cocd.org                           |
+| 80      | Stockholm International Peace Research Institute (SIPRI) | https://sipri.org                      |
+| 81      | Australian National Security - Terrorism Threat Level | https://www.nationalsecurity.gov.au         |
+| 82      | National Defense University - Terrorism and Security Studies | https://www.ndu.edu                  |
+| 83      | Middle East Media Research Institute (MEMRI)  | https://www.memri.org                          |
+| 84      | Middlebury Institute of International Studies - Terrorism Research | https://www.miis.edu                  |
+| 85      | International Terrorism Research and Analysis Consortium | https://www.trackingterrorism.org      |
+| 86      | Combating Terrorism Exchange                  | https://globalecco.org                         |
+| 87      | Search for Common Ground - Counter Extremism | https://www.sfcg.org                            |
+| 88      | START - National Consortium for the Study of Terrorism | https://www.start.umd.edu                   |
+| 89      | Canadian Network for Research on Terrorism, Security, and Society | https://www.tsas.ca                 |
+| 90      | Global Coalition to Counter ISIS             | https://theglobalcoalition.org                 |
+| 91      | Program on Extremism at George Washington University | https://extremism.gwu.edu                   |
+| 92      | Global Counterterrorism Forum (GCTF)          | https://www.thegctf.org                       |
+| 93      | Project on Middle East Political Science (POMEPS) | https://pomeps.org                            |
+| 94      | Peace Research Institute Oslo (PRIO)          | https://www.prio.org                          |
+| 95      | Uppsala Conflict Data Program                 | https://ucdp.uu.se                            |
+| 96      | Violent Extremism Research Network            | https://www.rnip.net                          |
+| 97      | Critical Threats Project (American Enterprise Institute) | https://www.criticalthreats.org         |
+| 98      | The Soufan Center - Counter Terrorism         | https://thesoufancenter.org                   |
+| 99      | Peace Operations Training Institute           | https://www.peaceopstraining.org              |
+| 100     | Canadian Anti-Terrorism Program               | https://www.publicsafety.gc.ca/catp           |
+| 101     | World-Check (Refinitiv) - Risk Intelligence   | https://www.refinitiv.com/en/world-check      |
+| 102     | Asia Terrorism Research Institute            | https://www.atri.org                          |
+| 103     | Jamestown Terrorism Monitor                  | https://jamestown.org/program/terrorism-monitor |
+| 104     | West Point - Combating Terrorism Center       | https://ctc.usma.edu                          |
+| 105     | National Defense and Counterterrorism Analysis Center | https://www.ndcac.org                    |
+| 106     | Global Extremism Monitor                      | https://extremism-monitor.com                 |
+| 107     | University of Chicago - Project on Security and Threats | https://cpost.uchicago.edu               |
+| 108     | Center for Global Policy - Terrorism Studies  | https://www.cgpolicy.org                      |
+| 109     | International Association for Counterterrorism & Security Professionals (IACSP) | https://www.iacsp.org |
+| 110     | Global Strategic Analysis - Terrorism         | https://globalstrategicanalysis.com           |
+| 111     | Terrorism Early Warning Group                 | https://www.terrorismearlywarning.org         |
+| 112     | BlueLight Counterterrorism                    | https://www.bluelightcounterterrorism.com     |
+| 113     | Anti-Defamation League Center on Extremism    | https://www.adl.org/center-extremism          |
+| 114     | Cyber Conflict Studies Association (CCSA)     | https://www.cyberconflict.org                 |
+| 115     | FBI - Combating Domestic Terrorism           | https://www.fbi.gov/investigate/terrorism     |
+| 116     | Europol - Cyber and Terrorism Reports         | https://www.europol.europa.eu                 |
+| 117     | Geneva Centre for Security Policy (GCSP)      | https://www.gcsp.ch                           |
+| 118     | NATO Special Operations Headquarters          | https://www.nshq.nato.int                     |
+| 119     | RAND National Security Research Division      | https://www.rand.org/nsrd                    |
+| 120     | EU Internet Referral Unit                     | https://www.europol.europa.eu                 |
 
 
 </details>
