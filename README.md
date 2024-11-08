@@ -1990,9 +1990,9 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 24      | Κυβερνοασφάλεια           | CyberXperts                    | https://www.cyberxperts.gr/                       |
 | 25      | Ανάλυση Απειλών           | SafeNet                        | https://www.safenet.gr/                           |
 
-### Cyber Threat Intelligence - Investigating Terrorism
+### Cyber Threat Intelligence (CTI)/ Investigating Terrorism - Ευφυής Αναζήτηση Απειλών (ΕΥΑΝΑ)/ Αναζητώντας Στοιχεία για την Τρομοκρατία
 
-## Tools
+## Διεθνή Εργαλεία
 
 | #  | Tool Name                                          | Link                                               |
 |----|---------------------------------------------------|----------------------------------------------------|
@@ -2117,6 +2117,145 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 119     | RAND National Security Research Division      | https://www.rand.org/nsrd                    |
 | 120     | EU Internet Referral Unit                     | https://www.europol.europa.eu                 |
 
+## Ελληνικά Εργαλεία
+
+| Αριθμός | Όνομα Εργαλείου                                  | Σύνδεσμος                                              |
+|---------|---------------------------------------------------|--------------------------------------------------------|
+| 1       | Εθνική Υπηρεσία Πληροφοριών (ΕΥΠ)                  | https://www.nis.gr                                      |
+| 2       | Ελληνική Αστυνομία - Αντιτρομοκρατική Υπηρεσία     | https://www.hellenicpolice.gr/                           |
+| 3       | Πηγή Στρατηγικής και Ερευνών Αντιτρομοκρατίας      | https://www.mfa.gr/                                     |
+| 4       | Ελληνική Επιτροπή για τη Διαχείριση Κρίσεων       | https://www.crisismanagement.gr/                        |
+| 5       | Κέντρο Ερευνών για την Αντιτρομοκρατία             | https://www.terrorism.gr/                               |
+| 6       | Πανεπιστήμιο Αθηνών - Τμήμα Πολιτικής Επιστήμης   | https://www.political-science.uoa.gr/                   |
+| 7       | Ελληνικό Ινστιτούτο Μελετών Ασφάλειας             | https://www.hellenicsecurityinstitute.gr/                |
+| 8       | Ελληνικό Κέντρο Στρατηγικών Σπουδών               | https://www.strategicstudies.gr/                        |
+| 9       | Υπουργείο Προστασίας του Πολίτη                   | https://www.mpss.gov.gr/                                |
+| 10      | Οργανισμός Διαχείρισης Εσωτερικών Απειλών          | https://www.threatmanagement.gr/                        |
+
+
+### Cyber Threat Intelligence (CTI)/ Investigating Crime - Ευφυής Αναζήτηση Απειλών (ΕΥΑΝΑ)/ Αναζητώντας Στοιχεία για το Έγκλημα
+
+## Διεθνή Εργαλεία
+
+| Αριθμός | Όνομα Εργαλείου                                      | Σύνδεσμος                                                  |
+|---------|-------------------------------------------------------|------------------------------------------------------------|
+| 1       | Australian Institute of Criminology - Cybercrime     | https://www.aic.gov.au/crime/online-crime/cybercrime        |
+| 2       | Europol - European Cybercrime Centre (EC3)            | https://www.europol.europa.eu/activities-services/mainstay/centre-cybercrime |
+| 3       | FBI Cyber Crime Division                             | https://www.fbi.gov/investigate/cyber                       |
+| 4       | Interpol - Cybercrime Unit                           | https://www.interpol.int/en/Crimes/Cybercrime               |
+| 5       | US-CERT (United States Computer Emergency Readiness Team) | https://www.cisa.gov/uscert                              |
+| 6       | The European Union Agency for Cybersecurity (ENISA)   | https://www.enisa.europa.eu/                                |
+| 7       | Kaspersky Threat Intelligence Portal                  | https://www.kaspersky.com/resource-center/threat-intelligence |
+| 8       | Trend Micro Cyber Threat Intelligence                | https://www.trendmicro.com/vinfo/us/threat-intelligence     |
+| 9       | Cyber Threat Intelligence Repository (CTIR)           | https://www.ctir.com                                        |
+| 10      | AIC (Australian Institute of Criminology) Cybercrime Reports | https://www.aic.gov.au/crime/online-crime/cybercrime       |
+| 11      | Cybersecurity and Infrastructure Security Agency (CISA) | https://www.cisa.gov/                                    |
+| 12      | Cybercrime and Cybersecurity Information (C3I)        | https://www.c3i.com                                         |
+| 13      | National Cyber Security Centre (UK)                   | https://www.ncsc.gov.uk/                                   |
+| 14      | CERT-EU (Computer Emergency Response Team for the EU) | https://cert.europa.eu/                                   |
+| 15      | CERT-GR (Greek Computer Emergency Response Team)      | https://www.cert.gr/                                       |
+| 16      | US Department of Justice - Cybercrime Section         | https://www.justice.gov/criminal-ccips                      |
+| 17      | Digital Crimes Unit (Microsoft)                       | https://www.microsoft.com/en-us/safety/                     |
+| 18      | Dark Web Monitor                                      | https://www.darkwebmonitor.com                             |
+| 19      | Cybersecurity Ventures                               | https://cybersecurityventures.com/                          |
+| 20      | Cybercrime Investigations (Interpol)                  | https://www.interpol.int/en/Crimes/Cybercrime               |
+| 21      | Threat Intelligence Platform - ThreatConnect          | https://www.threatconnect.com/                             |
+| 22      | Palo Alto Networks - Threat Intelligence              | https://www.paloaltonetworks.com/products/threat-intelligence |
+| 23      | FireEye Threat Intelligence                          | https://www.fireeye.com/solutions/managed-defense.html     |
+| 24      | CrowdStrike Threat Intelligence                      | https://www.crowdstrike.com/                               |
+| 25      | IBM X-Force Exchange                                 | https://exchange.xforce.ibmcloud.com/                      |
+| 26      | VirusTotal Intelligence                              | https://www.virustotal.com/gui/home/intelligence           |
+| 27      | Carbon Black Threat Intelligence                     | https://www.carbonblack.com/                               |
+| 28      | Recorded Future Threat Intelligence                   | https://www.recordedfuture.com/                             |
+| 29      | McAfee Threat Intelligence                           | https://www.mcafee.com/enterprise/en-us/threat-intelligence.html |
+| 30      | Fortinet Threat Intelligence                         | https://www.fortinet.com/                                  |
+| 31      | Cyber Threat Intelligence Forum                      | https://www.ctiforum.com/                                  |
+| 32      | ThreatStream Threat Intelligence                     | https://www.threatstream.com/                              |
+| 33      | Cyber Threat Intelligence Network (CTIN)             | https://www.ctin.com                                        |
+| 34      | Center for Cybersecurity and Infrastructure Security (CCIS) | https://www.dhs.gov/ccis                                 |
+| 35      | SecureWorks Cyber Threat Intelligence                | https://www.secureworks.com/                               |
+| 36      | Cyberint Intelligence Services                       | https://www.cyberint.com/                                  |
+| 37      | OpenDXL (McAfee) Threat Intelligence                 | https://www.opendxl.com/                                   |
+| 38      | Malwarebytes Cyber Threat Intelligence               | https://www.malwarebytes.com/                               |
+| 39      | SANS Internet Storm Center                           | https://isc.sans.edu/                                      |
+| 40      | ThreatWatch                                         | https://www.threatwatch.io/                                |
+| 41      | Infoblox Threat Intelligence                         | https://www.infoblox.com/                                  |
+| 42      | Palo Alto Networks Unit 42                          | https://unit42.paloaltonetworks.com/                        |
+| 43      | Digital Shadows Threat Intelligence                  | https://www.digitalshadows.com/                             |
+| 44      | RSA Threat Intelligence                             | https://www.rsa.com/en-us/products/threat-intelligence     |
+| 45      | McAfee ATR Threat Intelligence                       | https://www.mcafee.com/                                    |
+| 46      | Malware Intelligence Centre (MALIC)                 | https://www.malic.com/                                     |
+| 47      | Cyber Intelligence API (ThreatStop)                  | https://www.threatstop.com/                                |
+| 48      | Zscaler Threat Intelligence                         | https://www.zscaler.com/threat-intelligence                |
+| 49      | Cisco Talos Intelligence Group                       | https://www.talosintelligence.com/                          |
+| 50      | Anomali Threat Intelligence Platform                 | https://www.anomali.com/                                   |
+
+# Ελληνικά Εργαλεία
+
+| Αριθμός | Όνομα Εργαλείου                                      | Σύνδεσμος                                                      |
+|---------|-------------------------------------------------------|---------------------------------------------------------------|
+| 1       | Ελληνική Αστυνομία - Διεύθυνση Δίωξης Ηλεκτρονικού Εγκλήματος | https://www.cybercrime.gov.gr/                                  |
+| 2       | Ελληνικό Κέντρο Ασφαλείας Κυβερνοχώρου (GRNET)        | https://www.grnet.gr/cyber-security                            |
+| 3       | Εθνικό Κέντρο Κυβερνοασφάλειας (Greek National Cybersecurity Authority) | https://www.cybersecurity.gr/                                    |
+| 4       | Δίωξη Ηλεκτρονικού Εγκλήματος - Υποθέσεις και Εργαλεία  | https://www.astynomia.gr/                                       |
+| 5       | Εθνική Υπηρεσία Πληροφοριών (EYP)                     | https://www.ypa.gr/                                             |
+| 6       | Cybersecurity Greece (Ελληνική Επιτροπή Κυβερνοασφάλειας) | https://www.cybersecurity.gr/                                   |
+| 7       | Σχολή Ασφαλείας Πληροφοριών Αστυνομίας Αττικής         | https://www.astynomia.gr/                                       |
+| 8       | Ερευνητικά Εργαστήρια Ασφάλειας από ΑΕΙ και Πανεπιστήμια (Π.Μ.) | https://www.uoa.gr/                                            |
+| 9       | Ελληνικός Οργανισμός Κυβερνοασφάλειας και Πληροφοριακής Ασφάλειας | https://www.ecegr.gr/                                           |
+| 10      | Κέντρο Ασφαλείας και Καταπολέμησης Κυβερνοεγκλήματος    | https://www.secure.gr/                                          |
+| 11      | Ανάλυση Κινδύνων και Διαχείριση Απειλών (Greek CERT)    | https://www.cert.gr/                                            |
+| 12      | Δικτυακός Κατάλογος Στρατηγικών Κυβερνοασφάλειας και Εγκλήματος | https://www.cybersecure.gr/                                    |
+| 13      | Κυβερνοασφάλεια για Επιχειρήσεις και Δημόσιες Υπηρεσίες  | https://www.ysd.gr/cybercrime/                                  |
+| 14      | Σύστημα Αναφορών Κυβερνοεγκλημάτων - Εθνική Αρχή Ασφαλείας | https://www.security.gov.gr/                                    |
+| 15      | Διαχείριση και Ανάλυση Κρίσεων στο Διαδίκτυο (Cyber Crisis Management) | https://www.cybercrisis.gr/                                     |
+
+### Cyber Threat Intelligence (CTI)/ Investigating Drug Trade - Ευφυής Αναζήτηση Απειλών (ΕΥΑΝΑ)/ Αναζητώντας Στοιχεία για την Διακίνηση Ναρκωτικών
+
+# Διεθνή Εργαλεία
+
+| Αριθμός | Όνομα Εργαλείου                                         | Σύνδεσμος                                                    |
+|---------|----------------------------------------------------------|--------------------------------------------------------------|
+| 1       | International Narcotics Control Board (INCB)            | https://www.incb.org/                                         |
+| 2       | European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) | https://www.emcdda.europa.eu/                                  |
+| 3       | United Nations Office on Drugs and Crime (UNODC)         | https://www.unodc.org/                                        |
+| 4       | U.S. Drug Enforcement Administration (DEA)               | https://www.dea.gov/                                          |
+| 5       | National Institute on Drug Abuse (NIDA)                  | https://www.drugabuse.gov/                                    |
+| 6       | European Drug Report (EMCDDA)                            | https://www.emcdda.europa.eu/publications/edr                 |
+| 7       | Drug Policy Alliance                                    | https://www.drugpolicy.org/                                   |
+| 8       | National Drug Intelligence Center (NDIC)                | https://www.dea.gov/sites/default/files/docs/NDIC_2019.pdf    |
+| 9       | The Monitoring of Drugs Use and Addiction Patterns (NIDA) | https://www.nida.nih.gov/                                      |
+| 10      | International Drug Control Coordination (UNDCP)          | https://www.unodc.org/unodc/en/drug-trafficking/index.html     |
+| 11      | World Health Organization (WHO) - Drugs & Addiction      | https://www.who.int/substance_abuse/en/                        |
+| 12      | The Harm Reduction Coalition                            | https://harmreduction.org/                                    |
+| 13      | Global Drug Policy Program (Open Society Foundations)    | https://www.opensocietyfoundations.org/topics/drug-policy      |
+| 14      | National Institute of Justice - Drug Control Resources  | https://nij.ojp.gov/library/search?keywords=drug+control      |
+| 15      | Drug Enforcement Administration - National Drug Threat Assessment | https://www.dea.gov/sites/default/files/docs/2018%20NDTA%20Final%20Report.pdf |
+| 16      | Transnational Institute - Drug Policy                    | https://www.tni.org/en/issue/drug-policy                       |
+| 17      | UNODC World Drug Report                                  | https://www.unodc.org/unodc/en/data-and-analysis/WDR.html      |
+| 18      | The Global Commission on Drug Policy                     | https://www.globalcommissionondrugs.org/                       |
+| 19      | Drug Policy Modelling Program (DPMP)                     | https://www.dpmp.unsw.edu.au/                                  |
+| 20      | United Nations - Treaties and Drug Control               | https://www.unodc.org/unodc/en/treaties/index.html             |
+
+# Ελληνικά Εργαλεία
+
+| Αριθμός | Όνομα Εργαλείου                                  | Σύνδεσμος                                              |
+|---------|-------------------------------------------------|--------------------------------------------------------|
+| 1       | Εθνικό Κέντρο Τεκμηρίωσης και Πληροφόρησης Ναρκωτικών (ΕΚΤΠΝ) | https://www.ektpn.gr/                                   |
+| 2       | Κέντρο Θεραπείας Εξαρτημένων Ατόμων (ΚΕΘΕΑ)      | https://www.kethea.gr/                                  |
+| 3       | ΟΚΑΝΑ (Οργανισμός Κατά των Ναρκωτικών)           | https://www.okana.gr/                                   |
+| 4       | Εθνική Υπηρεσία Αντιμετώπισης Ναρκωτικών (ΕΥΑΝ)    | https://www.yna.gr/                                    |
+| 5       | Κέντρο Υποστήριξης και Αποκατάστασης Εξαρτημένων Ατόμων | https://www.kespa.gr/                                   |
+| 6       | Δίκτυο Υποστήριξης Εξαρτημένων Ατόμων στην Αθήνα | https://www.athens-drugcare.gr/                          |
+| 7       | Υπουργείο Υγείας - Πληροφορίες για Ναρκωτικά     | https://www.moh.gov.gr/                                  |
+| 8       | Πανελλήνιος Σύλλογος Εξαρτημένων Ατόμων          | https://www.psyn.gr/                                    |
+| 9       | Εθνικό Συμβούλιο Κατά των Ναρκωτικών (ΕΣΥΚΝ)      | https://www.esykn.gr/                                    |
+| 10      | Ιατρικό Κέντρο Αθηνών - Έρευνες και Θεραπείες    | https://www.iasl.gr/                                    |
+| 11      | Ελληνική Αστυνομία - Αντιμετώπιση Ναρκωτικών     | https://www.astynomia.gr/                               |
+| 12      | Κέντρο Ψυχικής Υγείας - Αθήνα                    | https://www.psych-health.gr/                             |
+| 13      | Ελληνικό Κέντρο Ερευνών για την Εξάρτηση από Ναρκωτικά | https://www.ecen.gr/                                    |
+| 14      | Πανεπιστήμιο Αθηνών - Κέντρο Ανθρωπιστικών Επιστημών | https://www.uoa.gr/edu/centre-human-sciences.html |
+| 15      | Διεθνής Οργάνωση για την Αντιμετώπιση Ναρκωτικών και Εγκλήματος | https://www.unodc.org/                                   |
 
 </details>
 
@@ -2376,6 +2515,76 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 23      | Ανάλυση Συναλλαγών       | Cryptosolutions.gr            | https://www.cryptosolutions.gr/                    |
 | 24      | Χρηματοοικονομικά Δεδομένα | FinanceXperts                 | https://www.financexperts.gr/                     |
 | 25      | Ανάλυση Χρηματοοικονομικών Συναλλαγών | Capital.gr             | https://www.capital.gr/                           |
+
+# Διεθνή Εργαλεία Έρευνας Ξεπλύματος Χρήματος
+
+| No. | Tool Name                                        | Link                                               |
+|-----|--------------------------------------------------|----------------------------------------------------|
+| 1   | ACFCS (Association of Certified Financial Crime Specialists) | https://www.acfcs.org                               |
+| 2   | FATF (Financial Action Task Force)               | https://www.fatf-gafi.org                          |
+| 3   | ACAMS (Association of Certified Anti-Money Laundering Specialists) | https://www.acams.org                               |
+| 4   | Egmont Group of Financial Intelligence Units      | https://www.egmontgroup.org                         |
+| 5   | World Bank - Financial Crime & AML               | https://www.worldbank.org/en/topic/financialsector/financial-crime |
+| 6   | Financial Crimes Enforcement Network (FinCEN)    | https://www.fincen.gov                              |
+| 7   | Basel Institute on Governance - Financial Crime   | https://www.baselgovernance.org                     |
+| 8   | INTERPOL - Financial Crimes                      | https://www.interpol.int/en/Crimes/Financial-Crimes |
+| 9   | United Nations - Anti-Money Laundering           | https://www.un.org/sc/ctc                           |
+| 10  | European Union - Anti-Money Laundering Directive | https://ec.europa.eu/info/business-economy-euro/banking-and-finance/anti-money-laundering_en |
+| 11  | The Wolfsberg Group                              | https://www.wolfsberg-principles.com                |
+| 12  | Financial Crime Risk Management | https://www.financialcrimerisk.com                    |
+| 13  | Global Financial Integrity (GFI)                 | https://gfintegrity.org                             |
+| 14  | Transparency International                       | https://www.transparency.org                       |
+| 15  | United Nations Office on Drugs and Crime (UNODC) | https://www.unodc.org                              |
+| 16  | Moneyval - Council of Europe                    | https://www.coe.int/en/web/moneyval                 |
+| 17  | The International Compliance Association (ICA)  | https://www.int-comp.org                           |
+| 18  | Basel Institute on Governance - Financial Crime   | https://www.baselgovernance.org                     |
+| 19  | FATF Mutual Evaluations                          | https://www.fatf-gafi.org/countries/#evaluation     |
+| 20  | National Crime Agency (NCA) - UK                | https://www.nationalcrimeagency.gov.uk              |
+| 21  | Australian Transaction Reports and Analysis Centre (AUSTRAC) | https://www.austrac.gov.au                    |
+| 22  | Office of Foreign Assets Control (OFAC)          | https://home.treasury.gov/policy-issues/financial-sanctions |
+| 23  | International Association for Asset Recovery (IAAR) | https://www.iaar.org                              |
+| 24  | Counter-Terrorism Financing (CTF) Resources      | https://www.unodc.org/unodc/en/money-laundering/ctf.html |
+| 25  | Securities and Exchange Commission (SEC) - AML | https://www.sec.gov/                               |
+| 26  | Bank Secrecy Act (BSA)                           | https://www.fincen.gov/resources/statutes-regulations/bank-secrecy-act |
+| 27  | U.S. Department of Justice - Money Laundering    | https://www.justice.gov/criminal-ccips/money-laundering |
+| 28  | International Centre for Asset Recovery (ICAR)   | https://www.baselgovernance.org                     |
+| 29  | OECD - Money Laundering and Corruption           | https://www.oecd.org/corruption/money-laundering.htm |
+
+# Ελληνικά Εργαλεία
+
+| No. | Tool Name                                        | Link                                               |
+|-----|--------------------------------------------------|----------------------------------------------------|
+| 1   | Ελληνική Ένωση Τραπεζών - Πολιτική για Ξέπλυμα Χρήματος | https://www.hba.gr/                                |
+| 2   | Επιτροπή Κεφαλαιαγοράς Ελλάδας                  | https://www.hcmc.gr/                               |
+| 3   | Ελληνική Αστυνομία - Διεύθυνση Αντιμετώπισης Οικονομικού Εγκλήματος | https://www.hellenicpolice.gr/                      |
+| 4   | Τράπεζα της Ελλάδος - Κώδικας Κανονισμών για Ξέπλυμα Χρήματος | https://www.bankofgreece.gr/                        |
+| 5   | Διεθνής Σύμβαση για το Ξέπλυμα Χρήματος - Ελλάδας | https://www.mfa.gr/en/                              |
+| 6   | Αρχή Καταπολέμησης της Νομιμοποίησης Εσόδων από Εγκληματικές Δραστηριότητες | https://www.financialintelligence.gov.gr/           |
+| 7   | Υπουργείο Οικονομικών - Στρατηγική για την Καταπολέμηση της Χρηματοδότησης της Τρομοκρατίας | https://www.minfin.gr/                             |
+| 8   | Ελληνικό Παρατηρητήριο της Διαφθοράς            | https://www.transparency.gr/                       |
+| 9   | Ανεξάρτητη Αρχή Δημοσίων Εσόδων (ΑΑΔΕ)           | https://www.aade.gr/                               |
+| 10  | Διεθνής Οργάνωση Οικονομικής Συνεργασίας και Ανάπτυξης (ΟΟΣΑ) - Ελλάδα | https://www.oecd.org/greek/                        |
+| 11  | Επιτροπή Κεφαλαιαγοράς - Χρηματοοικονομική Σταθερότητα | https://www.hcmc.gr/                               |
+| 12  | Κέντρο Στρατηγικής και Ανάλυσης Οικονομικών Εγκλημάτων | https://www.kentrostrategias.gr/                   |
+| 13  | Ελληνική Τράπεζα Κύπρου - Αμυντικά Μέτρα κατά του Ξεπλύματος Χρήματος | https://www.hbc.com.cy/                           |
+| 14  | Εθνική Επιτροπή Κεφαλαιαγοράς - Συμβουλές και Κανονισμοί για Ξέπλυμα Χρήματος | https://www.efec.gr/                             |
+| 15  | Ευρωπαϊκή Επιτροπή - Κατευθυντήριες Γραμμές για την Καταπολέμηση της Νομιμοποίησης Εσόδων | https://ec.europa.eu/finance/anti-money-laundering_en |
+| 16  | Διεύθυνση Αντιμετώπισης Οικονομικού Εγκλήματος - Ελλάδα | https://www.greecianbureau.com/                    |
+| 17  | Αξιολόγηση Χρηματοοικονομικών Συναλλαγών - Ελληνική Κεντρική Τράπεζα | https://www.ekt.gr/                               |
+| 18  | Ευρωπαϊκή Επιτροπή Εσωτερικών Υποθέσεων και Νομοθεσίας | https://www.europa.eu/legal-content/EL/TXT/?uri=CELEX%3A52016PC0442 |
+| 19  | Συμβουλευτική Υπηρεσία Ασφάλειας Χρηματοοικονομικών Συναλλαγών | https://www.fiu-gr.org/                           |
+| 20  | Υπουργείο Δικαιοσύνης - Κανονισμοί για Αντιμετώπιση Εγκλημάτων Χρηματοδότησης | https://www.justice.gr/                            |
+| 21  | Ελληνική Αρχή για την Αντιμετώπιση της Οικονομικής Απάτης | https://www.hfra.gr/                               |
+| 22  | Κέντρο Διεθνών Χρηματοοικονομικών Ερευνών         | https://www.cifri.gr/                             |
+| 23  | Κεντρική Υπηρεσία Υποστήριξης Κανονιστικών Αρχών  | https://www.regulatory.com/gr/                     |
+| 24  | Ελληνική Νομοθεσία για τη Νομιμοποίηση Εσόδων από Εγκληματικές Δραστηριότητες | https://www.legislation.gr/                        |
+| 25  | Αντίστοιχη Αρχή για Ξέπλυμα Χρήματος στην ΕΕ     | https://www.europol.europa.eu/                     |
+| 26  | Διεθνής Οργανισμός Κοινής Αντιμετώπισης Οικονομικών Εγκλημάτων | https://www.internationalfiu.org/                  |
+| 27  | Πλατφόρμα Καταπολέμησης Χρηματοδότησης της Τρομοκρατίας στην Ελλάδα | https://www.nationalterrorism.gr/                 |
+| 28  | Κέντρο Χρηματοοικονομικής Στρατηγικής              | https://www.financialstrategy.gr/                  |
+| 29  | Αξιολόγηση Κινδύνου Ξεπλύματος Χρήματος από Τραπεζικά Ιδρύματα | https://www.bankofgreece.gr/                       |
+| 30  | Οργανισμός Διαχείρισης Εγκληματικών Συναλλαγών    | https://www.criminaltransaction.org/               |
+
 
 </details>
 
