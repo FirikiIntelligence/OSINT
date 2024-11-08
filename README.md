@@ -1990,6 +1990,54 @@ Open Source Intelligence - Νοημοσύνη Ανοικτών Πηγών
 | 24      | Κυβερνοασφάλεια           | CyberXperts                    | https://www.cyberxperts.gr/                       |
 | 25      | Ανάλυση Απειλών           | SafeNet                        | https://www.safenet.gr/                           |
 
+# Cyber Threat Intelligence - Ερευνώντας για Τρομοκρατία
+
+## Tools for Terrorism Research
+
+- [ALIC Terrorism](https://www.start.umd.edu/terrorism)
+- [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd)
+- [Counter Extremism Project](https://www.counterextremism.com)
+- [SITE Intelligence Group](https://ent.siteintelgroup.com)
+- [Europol Terrorism Situation and Trend Report](https://www.europol.europa.eu/tesat)
+- [FBI Terrorism Reports](https://www.fbi.gov/investigate/terrorism)
+- [Jane’s Terrorism & Insurgency Centre](https://www.janes.com/security/terrorism)
+- [Terrorism Research and Analysis Consortium (TRAC)](https://www.trackingterrorism.org)
+- [United Nations Counter-Terrorism Committee](https://www.un.org/sc/ctc)
+- [National Counterterrorism Center (NCTC)](https://www.dni.gov/nctc)
+- [Combatting Terrorism Center (CTC) at West Point](https://ctc.usma.edu)
+- [Internet Archive: Terrorist Propaganda](https://archive.org/details/terrorist-archives)
+- [Long War Journal](https://www.longwarjournal.org)
+- [START Consortium](https://www.start.umd.edu)
+- [Open Source Center](https://www.opensource.gov)
+- [RAND Corporation - Terrorism Research](https://www.rand.org/topics/terrorism.html)
+- [ACLED (Armed Conflict Location & Event Data Project)](https://acleddata.com)
+- [Global Incident Map](https://www.globalincidentmap.com)
+- [Homeland Security Digital Library (HSDL)](https://www.hsdl.org)
+- [TRAC Reports](https://trac.eu.com)
+- [National Consortium for the Study of Terrorism and Responses to Terrorism (START)](https://www.start.umd.edu)
+- [United Nations Office on Drugs and Crime](https://www.unodc.org)
+- [International Institute for Counter-Terrorism](https://www.ict.org.il)
+- [Center for Terrorism Law](https://www.stmarytx.edu/ctl)
+- [IHS Markit Terrorism Events](https://ihsmarkit.com)
+- [Security Service MI5 (UK)](https://www.mi5.gov.uk)
+- [National Institute of Justice (Terrorism)](https://nij.ojp.gov/topics/terrorism)
+- [OSINT Aggregator for Terrorism Research](https://www.terrorismanalysts.com)
+- [Global Network on Extremism and Technology](https://gnet-research.org)
+- [NATO Counter Terrorism](https://www.nato.int/cps/en/natolive/topics_77646.htm)
+- [University of Maryland Terrorism Studies](https://www.start.umd.edu/research)
+- [Combating Terrorism Exchange](https://globalecco.org)
+- [Terrorist Attacks Database (TAD)](https://www.tadatabase.org)
+- [Canada Terrorism Reports](https://www.canada.ca/en/services/defence/national-security.html)
+- [Australian Institute of Criminology - Terrorism Reports](https://www.aic.gov.au)
+- [BBC Monitoring - Terrorism Coverage](https://monitoring.bbc.co.uk)
+- [Institute for Economics and Peace](https://www.economicsandpeace.org)
+- [Anti-Defamation League (ADL) Reports on Extremism](https://www.adl.org)
+- [Foundation for Defense of Democracies (FDD) - Terrorism Research](https://www.fdd.org)
+- [Center for Strategic and International Studies (CSIS)](https://www.csis.org/topics/terrorism)
+
+| ...     | ...                                          | ...                                             |
+
+
 </details>
 
 ---
